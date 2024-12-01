@@ -43,20 +43,7 @@ class VLSP2018MultiTask(Model):
         return argmax_label_matrix(y_pred, self.multi_branch)
 
 
-    def print_acsa_pred(self, y_pred, text_data=None):
-    polarities = list(map(lambda x: PolarityMapping.INDEX_TO_POLARITY[x], y_pred))
-    
-    # Check if the text contains "nhưng"
-    if text_data and 'nhưng' in text_data.lower():
-        # Split the text by "nhưng" to analyze context
-        before_nhung, after_nhung = text_data.lower().split('nhưng', 1)
-        
-        for i, (aspect_category, polarity) in enumerate(zip(self.aspect_category_names, polarities)):
-            # If the aspect is likely referenced after "nhưng", set it to neutral
-            if aspect_category.lower() in after_nhung:
-                polarities[i] = 'neutral'
-    
-    # Print results
-    for aspect_category, polarity in zip(self.aspect_category_names, polarities):
-        if polarity:
-            print(f'=> {aspect_category}, {polarity}')
+    def print_acsa_pred(self, y_pred):
+        polarities = map(lambda x: PolarityMapping.INDEX_TO_POLARITY[x], y_pred)
+        for aspect_category, polarity in zip(self.aspect_category_names, polarities): 
+            if polarity: print(f'=> {aspect_category},{polarity}'))
