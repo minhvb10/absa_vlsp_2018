@@ -46,4 +46,4 @@ class VLSP2018MultiTask(Model):
     def print_acsa_pred(self, y_pred):
         polarities = map(lambda x: PolarityMapping.INDEX_TO_POLARITY[x], y_pred)
         for aspect_category, polarity in zip(self.aspect_category_names, polarities): 
-            if polarity: print(f'=> {aspect_category},{polarity}'))
+            if polarity: print(f'=> {aspect_category},{polarity}')
