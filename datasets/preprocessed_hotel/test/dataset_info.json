@@ -6,7 +6,7 @@
   "dataset_size": 3057622,
   "description": "",
   "download_checksums": {
-    "/content/absa-vlsp-2018/experiments/../datasets/vlsp2018_hotel/1-VLSP2018-SA-Hotel-train.csv": {
+    "/content/absa-vlsp-2018/experiments/../datasets/vlsp2018_hotel/synthetic_reviews_formatted.csv": {
       "num_bytes": 1242027,
       "checksum": null
     },
@@ -186,7 +186,7 @@
     "train": {
       "name": "train",
       "num_bytes": 1857098,
-      "num_examples": 3000,
+      "num_examples": 22658,
       "dataset_name": "csv"
     },
     "val": {
