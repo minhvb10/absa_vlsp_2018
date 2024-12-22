@@ -3,11 +3,11 @@
   "citation": "",
   "config_name": "default",
   "dataset_name": "csv",
-  "dataset_size": 4500000,
+  "dataset_size": 3057622,
   "description": "",
   "download_checksums": {
-    "/content/absa-vlsp-2018/experiments/../datasets/vlsp2018_hotel/synthetic_reviews_formatted.csv": {
-      "num_bytes": 3590000,
+    "/content/absa-vlsp-2018/experiments/../datasets/vlsp2018_hotel/1-VLSP2018-SA-Hotel-train.csv": {
+      "num_bytes": 1242027,
       "checksum": null
     },
     "/content/absa-vlsp-2018/experiments/../datasets/vlsp2018_hotel/2-VLSP2018-SA-Hotel-dev.csv": {
@@ -19,7 +19,7 @@
       "checksum": null
     }
   },
-  "download_size": 4257477,
+  "download_size": 1909504,
   "features": {
     "FACILITIES#CLEANLINESS": {
       "dtype": "int64",
@@ -181,12 +181,12 @@
   },
   "homepage": "",
   "license": "",
-  "size_in_bytes": 13000000,
+  "size_in_bytes": 4967126,
   "splits": {
     "train": {
       "name": "train",
-      "num_bytes": 10801632,
-      "num_examples": 22658,
+      "num_bytes": 1857098,
+      "num_examples": 3000,
       "dataset_name": "csv"
     },
     "val": {
