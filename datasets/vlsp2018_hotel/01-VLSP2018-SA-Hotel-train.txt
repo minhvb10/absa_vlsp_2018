@@ -13197,3 +13197,1207 @@ Dịch vụ phòng rất chậm, không thân thiện và phòng thiếu vệ si
 #3300
 Phòng nhỏ và không đủ tiện nghi, vệ sinh chưa đạt yêu cầu. 
 {ROOMS#COMFORT, neutral}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#GENERAL, negative}
+
+#3301
+Khách sạn mới, phòng đẹp nhưng các dịch vụ chưa đáp ứng yêu cầu, đặc biệt là phòng tắm có mùi và thiết bị xuống cấp. Thái độ nhân viên cần cải thiện thêm.
+{ROOM_AMENITIES#QUALITY, negative}, {HOTEL#GENERAL, negative}
+
+#3302
+Vị trí khách sạn khá thuận tiện nhưng chất lượng phòng không như mong đợi. Phòng ẩm thấp và thiếu sáng, vệ sinh chưa được tốt.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3303
+Giá cả hợp lý nhưng phòng quá nhỏ, không đủ tiện nghi. Phòng tắm cũng cần được cải thiện nhiều hơn để đáp ứng tiêu chuẩn.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3304
+Khách sạn không có điểm gì đặc biệt, các tiện nghi trong phòng khá cũ và thiếu sót. Dịch vụ phòng chưa đủ tốt.
+{HOTEL#GENERAL, negative}, {ROOM_AMENITIES#QUALITY, negative}, {SERVICE#GENERAL, negative}
+
+#3305
+Phòng chật chội và hơi cũ, dịch vụ không được chú trọng. Thái độ của nhân viên không thật sự thân thiện, cần cải thiện nhiều.
+{ROOM_AMENITIES#QUALITY, negative}, {ROOM_AMENITIES#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3306
+Mặc dù vị trí tốt nhưng phòng không đạt yêu cầu, có mùi ẩm mốc và thiết bị cũ. Dịch vụ phòng không được chú ý đúng mức.
+{LOCATION#GENERAL, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}, {SERVICE#GENERAL, negative}
+
+#3307
+Chất lượng phòng không xứng đáng với giá tiền, nhà vệ sinh có mùi hôi, và điều hòa không hoạt động tốt.
+{ROOMS#QUALITY, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3308
+Khách sạn có vị trí đẹp nhưng phòng nhỏ, thiếu sự thoải mái. Giá cả cũng không hợp lý với chất lượng dịch vụ.
+{LOCATION#GENERAL, negative}, {ROOMS#DESIGN&FEATURES, negative}, {HOTEL#PRICES, negative}
+
+#3309
+Phòng thiếu ánh sáng tự nhiên, và nhà vệ sinh không sạch sẽ, nước nóng không đủ mạnh. Nhân viên cũng không quá nhiệt tình.
+{ROOM_AMENITIES#QUALITY, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3310
+Dịch vụ phòng không được như mong đợi, các thiết bị trong phòng xuống cấp, cần bảo trì. Phòng không thoáng mát và có mùi ẩm.
+{ROOM_AMENITIES#QUALITY, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#CLEANLINESS, negative}
+
+#3311
+Khách sạn có vị trí tốt nhưng phòng rất nhỏ, thiếu không gian và không thoải mái. Dịch vụ phòng cũng không được chú ý.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3312
+Giá phòng hợp lý nhưng phòng không được dọn dẹp sạch sẽ, nhà vệ sinh có mùi hôi. Thiết bị trong phòng cũng cũ và cần thay thế.
+{ROOMS#PRICES, neutral}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3313
+Phòng nhỏ và không đủ ánh sáng tự nhiên, nhà vệ sinh không sạch sẽ. Các thiết bị trong phòng cũng không hoạt động tốt.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3314
+Phòng tắm quá nhỏ, thiếu không gian. Thái độ của nhân viên không thân thiện, cần phải cải thiện nhiều hơn.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3315
+Mặc dù khách sạn có giá hợp lý nhưng phòng rất nhỏ, không thoải mái và không được dọn dẹp kỹ. Nhà vệ sinh có mùi hôi và thiếu sạch sẽ.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3316
+Khách sạn có vị trí thuận lợi nhưng phòng ốc quá nhỏ, thiếu tiện nghi và có mùi ẩm mốc. Dịch vụ không nhanh chóng và chưa chuyên nghiệp.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3317
+Phòng không thoải mái, thiết bị trong phòng không hoạt động tốt và vệ sinh không sạch sẽ. Dịch vụ cũng chưa đáp ứng được yêu cầu.
+{ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3318
+Giá phòng hợp lý nhưng phòng tắm quá nhỏ và thiếu sạch sẽ. Dịch vụ không được chú ý, nhân viên thiếu thân thiện.
+{ROOMS#PRICES, neutral}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3319
+Phòng không thoải mái, không gian chật chội, thiếu ánh sáng. Vệ sinh trong phòng cần được cải thiện, thiết bị trong phòng đã cũ.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3320
+Khách sạn có vị trí tốt nhưng phòng không thoải mái, thiếu tiện nghi cơ bản. Nhà vệ sinh có mùi khó chịu và không được vệ sinh sạch sẽ.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3321
+Khách sạn có vị trí tốt nhưng phòng quá nhỏ, thiếu thoải mái. Dịch vụ chậm và nhân viên không thân thiện, thái độ chưa tốt.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3322
+Phòng không sạch sẽ, có mùi ẩm. Nhà vệ sinh quá nhỏ và thiếu vệ sinh. Giá phòng không tương xứng với chất lượng.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#PRICES, negative}
+
+#3323
+Dịch vụ khách sạn không đáp ứng được kỳ vọng. Phòng nhỏ, không đủ tiện nghi cơ bản và không sạch sẽ.
+{SERVICE#GENERAL, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3324
+Khách sạn có vị trí thuận lợi nhưng phòng không thoải mái, quá nhỏ. Thiết bị trong phòng cần được thay thế và bảo trì.
+{LOCATION#GENERAL, neutral}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3325
+Phòng có mùi hôi, thiết bị trong phòng đã cũ và không hoạt động tốt. Vệ sinh chưa sạch sẽ và cần cải thiện nhiều.
+{ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}, {ROOMS#DESIGN&FEATURES, negative}
+
+#3326
+Giá phòng hợp lý nhưng chất lượng phòng không như mong đợi. Thiết bị cũ, không đủ ánh sáng và không gian chật chội.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}
+
+#3327
+Phòng quá nhỏ và không đủ tiện nghi. Dịch vụ khách sạn không nhanh chóng và nhân viên thiếu sự chuyên nghiệp.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3328
+Dịch vụ phòng không chú ý đến chi tiết, phòng có mùi ẩm và thiếu ánh sáng. Nhà vệ sinh không sạch sẽ.
+{SERVICE#GENERAL, negative}, {ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}
+
+#3329
+Phòng có mùi ẩm, thiết bị trong phòng cần thay thế. Giá phòng không hợp lý với chất lượng và dịch vụ của khách sạn.
+{ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}, {ROOMS#PRICES, negative}
+
+#3330
+Khách sạn khá cũ, phòng không thoải mái và thiếu tiện nghi cơ bản. Dịch vụ không chú ý đến khách hàng, không đáp ứng được yêu cầu.
+{HOTEL#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3331
+Khách sạn có vị trí ổn nhưng phòng quá nhỏ và thiếu sự thoải mái. Dịch vụ không nhanh chóng và nhân viên thiếu chuyên nghiệp.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3332
+Phòng tắm quá nhỏ và không được vệ sinh sạch sẽ. Dịch vụ không đạt yêu cầu và thái độ của nhân viên không thân thiện.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3333
+Giá phòng khá cao nhưng chất lượng phòng không tương xứng. Phòng không sạch sẽ, có mùi ẩm mốc và thiết bị không hoạt động tốt.
+{ROOMS#PRICES, neutral}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3334
+Phòng quá nhỏ và thiếu không gian. Thiết bị trong phòng cũ và không hoạt động tốt. Dịch vụ khách sạn không đáp ứng được yêu cầu.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}, {SERVICE#GENERAL, negative}
+
+#3335
+Phòng không thoải mái và thiếu ánh sáng. Vệ sinh phòng cần cải thiện, thiết bị trong phòng đã cũ và cần bảo trì.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3336
+Khách sạn có vị trí tốt nhưng phòng rất chật chội, thiếu tiện nghi cơ bản. Dịch vụ phòng không chú ý đến các yêu cầu của khách.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3337
+Giá cả hợp lý nhưng phòng quá nhỏ và không thoải mái. Thiết bị trong phòng không hoạt động tốt và không được bảo trì.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3338
+Phòng sạch nhưng rất nhỏ và thiếu không gian. Mặc dù dịch vụ nhanh nhưng thái độ của nhân viên chưa thân thiện.
+{ROOMS#CLEANLINESS, positive}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3339
+Khách sạn không có điểm nổi bật, phòng ốc cũ, không thoải mái và thiếu tiện nghi cơ bản. Dịch vụ khách sạn không được chú trọng.
+{HOTEL#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3340
+Phòng tắm không sạch, thiết bị trong phòng không hoạt động tốt. Vệ sinh cần phải cải thiện, và giá phòng không hợp lý với chất lượng.
+{ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}, {ROOMS#PRICES, negative}
+
+#3341
+Khách sạn có vị trí khá ổn nhưng phòng quá nhỏ và thiếu thoải mái. Dịch vụ chậm, không đáp ứng kịp thời yêu cầu của khách.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3342
+Phòng khá sạch nhưng không thoải mái, thiếu ánh sáng và không gian. Các thiết bị trong phòng cần bảo trì và thay thế.
+{ROOMS#CLEANLINESS, positive}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3343
+Phòng nhỏ, không đủ ánh sáng tự nhiên. Vệ sinh phòng cần cải thiện, đặc biệt là khu vực phòng tắm.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3344
+Dịch vụ của khách sạn không đạt yêu cầu, nhân viên thiếu sự nhiệt tình. Phòng không sạch, có mùi ẩm và thiếu tiện nghi.
+{SERVICE#GENERAL, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3345
+Phòng không đủ thoải mái, không gian hẹp và thiếu tiện nghi cơ bản. Dịch vụ chậm và nhân viên không thân thiện.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3346
+Giá cả hợp lý nhưng phòng nhỏ, thiết bị trong phòng không hoạt động tốt và không sạch sẽ.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3347
+Phòng ốc không thoải mái, thiếu sự tiện nghi. Nhà vệ sinh có mùi hôi và thiếu sạch sẽ.
+{ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3348
+Khách sạn không đáp ứng được yêu cầu của tôi. Phòng quá nhỏ và thiếu ánh sáng, không gian hạn chế.
+{HOTEL#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}
+
+#3349
+Phòng sạch nhưng rất nhỏ và không đủ tiện nghi. Dịch vụ không nhanh chóng và thiếu sự chuyên nghiệp.
+{ROOMS#CLEANLINESS, positive}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3350
+Khách sạn có vị trí thuận tiện nhưng phòng không thoải mái. Thiết bị trong phòng đã cũ và cần được thay thế.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3351
+Khách sạn có vị trí thuận tiện nhưng phòng nhỏ và không thoải mái. Nhà vệ sinh không sạch sẽ và thiết bị trong phòng cũ.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3352
+Phòng có mùi ẩm, thiếu ánh sáng và không thoải mái. Dịch vụ không được chú ý đến và nhân viên thiếu thân thiện.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3353
+Giá phòng hợp lý nhưng chất lượng phòng không xứng đáng với mức giá. Phòng rất nhỏ và thiếu tiện nghi cơ bản.
+{ROOMS#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3354
+Phòng không sạch sẽ và thiếu không gian thoải mái. Dịch vụ phòng rất chậm và nhân viên không chu đáo.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3355
+Khách sạn có vị trí tốt nhưng phòng rất nhỏ và không đủ tiện nghi. Vệ sinh trong phòng không sạch sẽ, cần cải thiện nhiều.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3356
+Phòng quá nhỏ, không có đủ ánh sáng và không thoải mái. Dịch vụ không được chú ý đến và thái độ nhân viên thiếu nhiệt tình.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3357
+Giá cả hợp lý nhưng phòng ốc rất nhỏ, thiếu sự thoải mái. Nhà vệ sinh không sạch và thiết bị trong phòng cũ.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3358
+Phòng không đủ tiện nghi cơ bản, thiếu sự thoải mái. Dịch vụ chậm và không thân thiện.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3359
+Khách sạn không đáp ứng được kỳ vọng. Phòng nhỏ, thiếu ánh sáng và vệ sinh không sạch sẽ.
+{HOTEL#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3360
+Phòng không thoải mái, thiết bị trong phòng không hoạt động tốt và dịch vụ không đáp ứng được yêu cầu.
+{ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}, {SERVICE#GENERAL, negative}
+
+#3361
+Khách sạn có vị trí thuận lợi nhưng phòng quá nhỏ và thiếu tiện nghi cơ bản. Vệ sinh phòng không sạch sẽ, cần cải thiện nhiều.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3362
+Giá phòng hợp lý nhưng phòng quá chật và thiếu sự thoải mái. Thiết bị trong phòng đã cũ và không hoạt động tốt.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3363
+Dịch vụ không nhanh chóng và nhân viên không thân thiện. Phòng nhỏ, thiếu không gian và không thoải mái.
+{SERVICE#GENERAL, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}
+
+#3364
+Phòng không sạch sẽ, có mùi ẩm và thiếu ánh sáng. Thiết bị trong phòng không đáp ứng được yêu cầu cơ bản.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3365
+Khách sạn có giá hợp lý nhưng phòng rất nhỏ và thiếu tiện nghi. Dịch vụ không được chú ý đến và nhân viên thiếu nhiệt tình.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3366
+Phòng sạch nhưng không thoải mái. Thiết bị trong phòng đã cũ và không được bảo trì đúng mức. Dịch vụ khách sạn cần cải thiện.
+{ROOMS#CLEANLINESS, positive}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}, {SERVICE#GENERAL, negative}
+
+#3367
+Giá phòng hợp lý nhưng chất lượng phòng không tương xứng. Thiết bị cũ, phòng thiếu thoải mái và không có đủ tiện nghi cơ bản.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3368
+Phòng tắm quá nhỏ, thiếu sạch sẽ và có mùi khó chịu. Dịch vụ không nhanh chóng, cần cải thiện thái độ của nhân viên.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3369
+Phòng không thoải mái, thiếu tiện nghi và không có đủ ánh sáng. Nhà vệ sinh cần được cải thiện về vệ sinh và thiết bị.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3370
+Khách sạn có vị trí tốt nhưng phòng quá nhỏ và thiếu thoải mái. Vệ sinh chưa được làm sạch kỹ, cần cải thiện nhiều.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3371
+Khách sạn có vị trí tốt nhưng phòng rất nhỏ, không thoải mái. Vệ sinh phòng chưa sạch sẽ và cần phải cải thiện nhiều.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3372
+Giá phòng hợp lý nhưng phòng quá nhỏ và thiếu tiện nghi cơ bản. Dịch vụ phòng chậm và không thân thiện.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3373
+Phòng nhỏ và thiếu ánh sáng, không thoải mái. Thiết bị trong phòng đã cũ và vệ sinh không được làm sạch kỹ lưỡng.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3374
+Khách sạn có vị trí thuận lợi nhưng phòng rất nhỏ, thiếu sự thoải mái. Nhà vệ sinh không sạch và thiết bị trong phòng cũ.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3375
+Dịch vụ không tốt, phòng không thoải mái và thiếu tiện nghi. Thiết bị trong phòng cần được thay thế và vệ sinh cần cải thiện.
+{SERVICE#GENERAL, negative}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3376
+Phòng không sạch sẽ, thiếu ánh sáng và không thoải mái. Giá phòng không tương xứng với chất lượng và dịch vụ của khách sạn.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#PRICES, negative}
+
+#3377
+Khách sạn có vị trí tốt nhưng phòng quá nhỏ và không thoải mái. Dịch vụ chậm và thái độ nhân viên không thân thiện.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3378
+Phòng sạch nhưng thiếu sự thoải mái. Thiết bị trong phòng không hoạt động tốt và vệ sinh trong phòng cần cải thiện.
+{ROOMS#CLEANLINESS, positive}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3379
+Giá phòng hợp lý nhưng chất lượng phòng không đạt yêu cầu. Phòng quá nhỏ, thiếu tiện nghi và không thoải mái.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}
+
+#3380
+Phòng không thoải mái, thiếu không gian và vệ sinh không sạch sẽ. Dịch vụ không được chú ý đến và nhân viên thiếu nhiệt tình.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3381
+Khách sạn có vị trí tốt nhưng phòng quá nhỏ và thiếu tiện nghi cơ bản. Vệ sinh không sạch sẽ và dịch vụ chậm.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3382
+Phòng rất nhỏ, không thoải mái và thiếu ánh sáng. Thiết bị trong phòng đã cũ và không hoạt động tốt.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3383
+Dịch vụ khách sạn không nhanh chóng và không đáp ứng được yêu cầu. Phòng không sạch và thiết bị trong phòng cần bảo trì.
+{SERVICE#GENERAL, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3384
+Giá phòng khá cao nhưng chất lượng không tương xứng. Phòng thiếu ánh sáng, không thoải mái và nhà vệ sinh không sạch sẽ.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3385
+Phòng không đủ thoải mái, không gian hẹp và thiếu tiện nghi cơ bản. Dịch vụ không đạt yêu cầu, nhân viên thiếu thân thiện.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3386
+Phòng rất nhỏ và không đủ ánh sáng. Thiết bị trong phòng đã cũ và không đáp ứng được yêu cầu cơ bản.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3387
+Khách sạn có vị trí tốt nhưng phòng không thoải mái và không đủ tiện nghi. Dịch vụ không được chú ý đến, nhân viên thiếu nhiệt tình.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3388
+Giá phòng hợp lý nhưng chất lượng phòng không như mong đợi. Phòng quá nhỏ, thiếu ánh sáng và vệ sinh cần được cải thiện.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {ROOMS#COMFORT, negative}
+
+#3389
+Phòng tắm quá nhỏ và thiếu tiện nghi. Vệ sinh không sạch sẽ, cần cải thiện về chất lượng dịch vụ.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3390
+Dịch vụ không chú ý đến chi tiết, nhân viên không thân thiện. Phòng nhỏ và thiếu ánh sáng tự nhiên.
+{SERVICE#GENERAL, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}
+
+#3391
+Phòng có mùi ẩm, thiết bị trong phòng không hoạt động tốt. Vệ sinh phòng cần được làm sạch kỹ lưỡng.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3392
+Khách sạn có giá hợp lý nhưng phòng quá nhỏ và thiếu tiện nghi. Dịch vụ phòng chậm và không thân thiện.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3393
+Phòng thiếu thoải mái, không gian chật chội và không có đủ ánh sáng tự nhiên. Dịch vụ chậm và không chuyên nghiệp.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3394
+Khách sạn có vị trí đẹp nhưng phòng thiếu tiện nghi cơ bản. Thiết bị trong phòng không hoạt động tốt và vệ sinh cần cải thiện.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3395
+Giá phòng hợp lý nhưng phòng nhỏ và thiếu sự thoải mái. Nhà vệ sinh không sạch sẽ và cần cải thiện.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3396
+Phòng không sạch sẽ, thiết bị trong phòng đã cũ. Dịch vụ không nhanh chóng và không đáp ứng được yêu cầu.
+{ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}, {SERVICE#GENERAL, negative}
+
+#3397
+Khách sạn có vị trí thuận lợi nhưng phòng quá nhỏ, thiếu tiện nghi cơ bản. Dịch vụ phòng không hiệu quả và nhân viên thiếu nhiệt tình.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3398
+Phòng thiếu ánh sáng, không thoải mái và thiếu tiện nghi cơ bản. Dịch vụ không tốt, cần cải thiện nhiều hơn.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3399
+Giá phòng hợp lý nhưng chất lượng phòng không đạt yêu cầu. Phòng nhỏ, thiếu ánh sáng và nhà vệ sinh không sạch.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3400
+Phòng không thoải mái, thiếu không gian và không sạch sẽ. Dịch vụ không được chú ý đến và nhân viên thiếu chuyên nghiệp.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3401
+Khách sạn có vị trí tốt nhưng phòng rất nhỏ và thiếu thoải mái. Thiết bị trong phòng đã cũ và vệ sinh không sạch sẽ.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3402
+Phòng quá nhỏ và thiếu tiện nghi cơ bản. Dịch vụ không được chú ý đến và thái độ của nhân viên không thân thiện.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3403
+Giá phòng hợp lý nhưng chất lượng không như mong đợi. Phòng nhỏ, thiếu ánh sáng và không thoải mái.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}
+
+#3404
+Dịch vụ khách sạn không hiệu quả và phòng không sạch sẽ. Thiết bị trong phòng đã cũ và không hoạt động tốt.
+{SERVICE#GENERAL, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3405
+Phòng không thoải mái, thiếu ánh sáng và không sạch sẽ. Vệ sinh cần cải thiện, đặc biệt là khu vực nhà vệ sinh.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3406
+Khách sạn có giá hợp lý nhưng phòng nhỏ và thiếu tiện nghi. Thiết bị trong phòng không hoạt động tốt và cần bảo trì.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3407
+Phòng nhỏ và thiếu không gian, không thoải mái. Dịch vụ không đáp ứng được yêu cầu, nhân viên thiếu thân thiện.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3408
+Khách sạn có vị trí tốt nhưng phòng quá chật và thiếu tiện nghi. Nhà vệ sinh không sạch sẽ và cần được cải thiện.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3409
+Giá phòng hợp lý nhưng phòng thiếu thoải mái và không đủ ánh sáng. Thiết bị trong phòng không hoạt động đúng cách.
+{HOTEL#PRICES, neutral}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3410
+Dịch vụ của khách sạn không được nhanh chóng, phòng thiếu sạch sẽ. Nhân viên không thân thiện và không đáp ứng yêu cầu của khách.
+{SERVICE#GENERAL, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3411
+Phòng nhỏ, thiếu ánh sáng và không thoải mái. Dịch vụ không đạt yêu cầu và cần phải cải thiện nhiều.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3412
+Giá phòng khá cao nhưng phòng không sạch sẽ, thiếu tiện nghi cơ bản. Thiết bị trong phòng đã cũ và không hoạt động tốt.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3413
+Phòng tắm quá nhỏ và thiếu sạch sẽ. Dịch vụ chậm và không đáp ứng được yêu cầu.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3414
+Phòng không sạch sẽ, có mùi khó chịu và thiếu ánh sáng. Vệ sinh không đạt yêu cầu và thiết bị trong phòng không hoạt động tốt.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3415
+Khách sạn có vị trí tốt nhưng phòng rất nhỏ, không thoải mái. Vệ sinh phòng chưa sạch và cần cải thiện thêm.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3416
+Dịch vụ phòng rất chậm, phòng không sạch sẽ. Thiết bị trong phòng đã cũ và không đáp ứng yêu cầu cơ bản.
+{SERVICE#GENERAL, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3417
+Phòng nhỏ và thiếu không gian thoải mái. Nhà vệ sinh không sạch sẽ, cần được cải thiện nhiều hơn.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3418
+Khách sạn có giá hợp lý nhưng phòng rất nhỏ, thiếu tiện nghi cơ bản. Dịch vụ không đáp ứng được kỳ vọng, nhân viên thiếu nhiệt tình.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3419
+Phòng tắm quá nhỏ, thiếu sạch sẽ và có mùi ẩm. Thiết bị trong phòng không hoạt động tốt và cần bảo trì.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3420
+Giá phòng hợp lý nhưng phòng rất nhỏ và thiếu ánh sáng. Dịch vụ phòng chậm và vệ sinh không sạch.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3421
+Khách sạn có vị trí tốt nhưng phòng rất nhỏ, không đủ ánh sáng và thiếu tiện nghi cơ bản. Dịch vụ không chú ý đến chi tiết.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3422
+Giá phòng hợp lý nhưng phòng rất nhỏ và thiếu tiện nghi cơ bản. Phòng tắm không sạch sẽ, cần cải thiện.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3423
+Phòng không sạch sẽ và thiếu không gian thoải mái. Thiết bị trong phòng đã cũ và không hoạt động đúng cách.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3424
+Khách sạn có vị trí đẹp nhưng phòng rất nhỏ và không thoải mái. Vệ sinh không được làm sạch kỹ lưỡng.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3425
+Phòng không đủ tiện nghi và thiết bị cũ. Dịch vụ chậm và thái độ nhân viên không thân thiện.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}, {SERVICE#GENERAL, negative}
+
+#3426
+Phòng thiếu không gian và ánh sáng. Vệ sinh chưa được làm sạch tốt, cần cải thiện.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3427
+Giá phòng hợp lý nhưng chất lượng phòng không tốt. Phòng không sạch, có mùi ẩm và thiếu tiện nghi cơ bản.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3428
+Phòng không sạch sẽ và thiếu sự thoải mái. Nhà vệ sinh có mùi và thiết bị trong phòng đã cũ.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3429
+Khách sạn có vị trí tốt nhưng phòng thiếu tiện nghi và không thoải mái. Dịch vụ phòng rất chậm.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3430
+Phòng quá nhỏ và thiếu ánh sáng tự nhiên. Thiết bị trong phòng không hoạt động tốt và vệ sinh không đạt yêu cầu.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3431
+Giá phòng hợp lý nhưng phòng rất nhỏ, thiếu tiện nghi và không sạch sẽ. Dịch vụ không đáp ứng được kỳ vọng.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3432
+Phòng không thoải mái, thiết bị không hoạt động tốt và nhà vệ sinh không sạch. Cần cải thiện chất lượng dịch vụ.
+{ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3433
+Phòng nhỏ và thiếu sự thoải mái. Nhà vệ sinh không sạch, cần phải cải thiện thêm.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3434
+Khách sạn có vị trí đẹp nhưng phòng không đủ thoải mái và thiếu tiện nghi cơ bản. Dịch vụ không được chú ý.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3435
+Phòng không sạch, thiếu tiện nghi cơ bản và không thoải mái. Thiết bị trong phòng cần thay thế.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3436
+Giá phòng hợp lý nhưng phòng không thoải mái và thiếu ánh sáng. Thiết bị trong phòng cũ và không hoạt động tốt.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3437
+Phòng nhỏ và thiếu không gian. Dịch vụ không đáp ứng được yêu cầu, nhân viên thiếu nhiệt tình.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3438
+Phòng không thoải mái, thiếu tiện nghi cơ bản và không sạch. Nhà vệ sinh cần được cải thiện.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3439
+Giá phòng hợp lý nhưng phòng rất nhỏ và không sạch. Vệ sinh phòng cần được làm sạch kỹ lưỡng.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3440
+Phòng không đủ sáng, thiếu không gian và không thoải mái. Dịch vụ khách sạn không chú ý đến các yêu cầu của khách.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3441
+Phòng không sạch sẽ, thiếu tiện nghi và thiết bị trong phòng đã cũ. Dịch vụ không hiệu quả.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}, {SERVICE#GENERAL, negative}
+
+#3442
+Phòng quá nhỏ, thiếu tiện nghi cơ bản và không thoải mái. Dịch vụ không được chú ý, nhân viên không nhiệt tình.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3443
+Khách sạn có vị trí tốt nhưng phòng quá nhỏ, thiếu ánh sáng và vệ sinh chưa được làm sạch kỹ.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3444
+Phòng không sạch, thiếu ánh sáng và không thoải mái. Dịch vụ không chú ý đến chi tiết và nhân viên thiếu thân thiện.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3445
+Giá phòng hợp lý nhưng phòng nhỏ, thiếu tiện nghi và không thoải mái. Vệ sinh không sạch và phòng có mùi.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3446
+Phòng quá nhỏ, thiếu ánh sáng và không thoải mái. Dịch vụ không đáp ứng được yêu cầu và nhân viên thiếu chuyên nghiệp.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3447
+Phòng không đủ tiện nghi, thiếu sự thoải mái. Dịch vụ chậm và nhân viên không thân thiện.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3448
+Khách sạn có vị trí tốt nhưng phòng rất nhỏ, thiếu ánh sáng và thiết bị trong phòng đã cũ.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3449
+Giá phòng hợp lý nhưng phòng rất nhỏ, thiếu thoải mái. Vệ sinh cần được làm sạch kỹ và thiết bị trong phòng cũ.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3450
+Phòng không thoải mái, thiếu tiện nghi cơ bản và không sạch. Nhà vệ sinh cần cải thiện.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3451
+Khách sạn có vị trí đẹp nhưng phòng nhỏ, thiếu không gian và thiếu tiện nghi cơ bản. Dịch vụ không đáp ứng được kỳ vọng.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3452
+Phòng không sạch sẽ, có mùi ẩm và không thoải mái. Dịch vụ rất chậm, cần cải thiện thái độ của nhân viên.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3453
+Giá phòng hợp lý nhưng phòng quá nhỏ, thiếu tiện nghi cơ bản và không thoải mái. Nhà vệ sinh cần cải thiện.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3454
+Phòng thiếu ánh sáng, không gian chật chội và không sạch. Dịch vụ không chú ý đến yêu cầu của khách.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3455
+Khách sạn có giá hợp lý nhưng phòng không thoải mái, thiếu ánh sáng và không sạch sẽ. Dịch vụ không đủ nhanh chóng.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3456
+Phòng quá nhỏ, thiếu tiện nghi cơ bản và không thoải mái. Thiết bị trong phòng cần được thay thế và bảo trì.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3457
+Phòng không đủ sáng, không thoải mái và thiếu không gian. Dịch vụ không được chú ý đến và nhân viên thiếu nhiệt tình.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3458
+Giá phòng hợp lý nhưng phòng không sạch và không thoải mái. Dịch vụ phòng không nhanh chóng và thiếu chuyên nghiệp.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3459
+Phòng không sạch, thiếu ánh sáng và thiết bị trong phòng không hoạt động tốt. Vệ sinh cần được làm sạch kỹ lưỡng.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3460
+Phòng tắm quá nhỏ, thiếu sạch sẽ và có mùi hôi. Thiết bị trong phòng đã cũ và không hoạt động đúng cách.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3461
+Khách sạn có vị trí thuận lợi nhưng phòng rất nhỏ và thiếu tiện nghi cơ bản. Vệ sinh phòng không sạch và dịch vụ phòng chậm.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3462
+Giá phòng hợp lý nhưng phòng quá nhỏ, thiếu thoải mái và không sạch sẽ. Thiết bị trong phòng đã cũ và không đáp ứng được nhu cầu.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3463
+Phòng thiếu tiện nghi cơ bản, không thoải mái và không sạch sẽ. Dịch vụ không chú ý đến các yêu cầu của khách.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3464
+Phòng không sạch, thiếu ánh sáng tự nhiên và không thoải mái. Dịch vụ chậm và nhân viên thiếu thân thiện.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3465
+Khách sạn có giá hợp lý nhưng phòng quá nhỏ và thiếu tiện nghi cơ bản. Nhà vệ sinh không sạch và thiết bị trong phòng đã cũ.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3466
+Phòng không thoải mái, thiếu tiện nghi và không sạch. Nhà vệ sinh không được dọn dẹp kỹ.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3467
+Giá phòng hợp lý nhưng phòng không đủ sáng và thiếu không gian thoải mái. Vệ sinh cần cải thiện.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3468
+Phòng nhỏ, thiếu không gian và ánh sáng. Thiết bị trong phòng cần bảo trì và vệ sinh không sạch sẽ.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3469
+Khách sạn có vị trí tốt nhưng phòng không thoải mái, thiếu tiện nghi cơ bản. Vệ sinh không sạch và dịch vụ không nhanh chóng.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3470
+Giá phòng hợp lý nhưng phòng quá nhỏ, không thoải mái và thiếu ánh sáng. Thiết bị trong phòng đã cũ và không hoạt động tốt.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3471
+Phòng không sạch sẽ, thiếu ánh sáng tự nhiên và không thoải mái. Dịch vụ không chú ý đến yêu cầu của khách.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3472
+Phòng quá nhỏ và thiếu ánh sáng tự nhiên. Vệ sinh không sạch và thiết bị trong phòng không hoạt động tốt.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3473
+Khách sạn có giá hợp lý nhưng phòng nhỏ và không thoải mái. Dịch vụ không tốt và thiếu sự chú ý đến khách hàng.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3474
+Giá phòng hợp lý nhưng phòng không sạch và thiếu tiện nghi cơ bản. Nhà vệ sinh có mùi và không sạch.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3475
+Phòng không thoải mái, thiếu ánh sáng và không sạch sẽ. Thiết bị trong phòng đã cũ và không hoạt động tốt.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3476
+Khách sạn có vị trí tốt nhưng phòng rất nhỏ, thiếu tiện nghi cơ bản. Dịch vụ không đáp ứng được yêu cầu của khách.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}, {SERVICE#GENERAL, negative}
+
+#3477
+Giá phòng hợp lý nhưng phòng không sạch, thiếu ánh sáng và thiết bị trong phòng đã cũ.
+{HOTEL#PRICES, neutral}, {ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3478
+Phòng không thoải mái, thiếu không gian và không sạch sẽ. Thiết bị trong phòng đã cũ và cần thay thế.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3479
+Giá phòng hợp lý nhưng phòng nhỏ và không thoải mái. Dịch vụ không đáp ứng được kỳ vọng.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3480
+Khách sạn có vị trí tốt nhưng phòng không sạch và thiếu ánh sáng. Thiết bị trong phòng không hoạt động đúng cách.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3481
+Khách sạn có vị trí tốt nhưng phòng quá nhỏ và thiếu ánh sáng tự nhiên. Dịch vụ phòng chậm và không thân thiện.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3482
+Giá phòng hợp lý nhưng phòng không thoải mái và thiếu tiện nghi. Vệ sinh phòng không sạch và thiết bị trong phòng cũ.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3483
+Phòng không sạch sẽ và thiếu không gian thoải mái. Thiết bị trong phòng đã cũ và cần bảo trì.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3484
+Phòng rất nhỏ, thiếu tiện nghi cơ bản và không thoải mái. Nhà vệ sinh không sạch và thiết bị trong phòng không hoạt động tốt.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3485
+Khách sạn có vị trí tốt nhưng phòng không đủ thoải mái, thiếu tiện nghi cơ bản. Vệ sinh phòng cần cải thiện nhiều.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3486
+Giá phòng hợp lý nhưng phòng quá nhỏ và không sạch. Dịch vụ phòng không nhanh chóng và nhân viên thiếu thân thiện.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3487
+Phòng không thoải mái, thiếu tiện nghi và ánh sáng. Thiết bị trong phòng cũ và vệ sinh không sạch sẽ.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3488
+Khách sạn có giá hợp lý nhưng phòng không sạch, thiếu tiện nghi cơ bản. Nhà vệ sinh có mùi và không được dọn dẹp kỹ.
+{HOTEL#PRICES, neutral}, {ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}
+
+#3489
+Giá phòng hợp lý nhưng phòng rất nhỏ và thiếu không gian. Vệ sinh phòng cần cải thiện và thiết bị trong phòng không hoạt động tốt.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3490
+Phòng không thoải mái, thiếu không gian và ánh sáng. Thiết bị trong phòng đã cũ và cần bảo trì.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3491
+Khách sạn có vị trí tốt nhưng phòng thiếu tiện nghi cơ bản, không thoải mái. Dịch vụ phòng cần cải thiện nhiều hơn.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3492
+Phòng quá nhỏ, thiếu tiện nghi và không sạch. Dịch vụ không đáp ứng được yêu cầu và nhân viên thiếu thân thiện.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3493
+Phòng không sạch và thiếu ánh sáng tự nhiên. Dịch vụ phòng không nhanh chóng và thái độ nhân viên không thân thiện.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3494
+Giá phòng hợp lý nhưng phòng quá nhỏ và không thoải mái. Vệ sinh cần được làm sạch kỹ và thiết bị trong phòng cũ.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3495
+Khách sạn có vị trí đẹp nhưng phòng không sạch và thiếu ánh sáng. Dịch vụ không được chú ý đến và nhân viên thiếu nhiệt tình.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3496
+Phòng không sạch và thiếu sự thoải mái. Thiết bị trong phòng đã cũ và không hoạt động tốt. Dịch vụ phòng chậm.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}, {SERVICE#GENERAL, negative}
+
+#3497
+Giá phòng hợp lý nhưng phòng quá nhỏ và không thoải mái. Nhà vệ sinh cần được dọn dẹp kỹ hơn.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3498
+Khách sạn có vị trí thuận lợi nhưng phòng không sạch và thiếu tiện nghi cơ bản. Dịch vụ cần cải thiện nhiều hơn.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3499
+Phòng không thoải mái, thiếu tiện nghi và không sạch. Thiết bị trong phòng cũ và cần bảo trì.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3500
+Giá phòng hợp lý nhưng phòng rất nhỏ và không sạch. Vệ sinh không được làm sạch kỹ lưỡng và thiết bị trong phòng không hoạt động tốt.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3501
+Khách sạn có vị trí tốt nhưng phòng quá nhỏ và thiếu ánh sáng. Thiết bị trong phòng đã cũ và không hoạt động tốt.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3502
+Phòng không sạch và thiếu sự thoải mái. Dịch vụ không hiệu quả và nhân viên không nhiệt tình.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3503
+Giá phòng hợp lý nhưng phòng quá nhỏ và thiếu tiện nghi cơ bản. Vệ sinh phòng không sạch và thiết bị trong phòng không hoạt động tốt.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3504
+Phòng nhỏ, thiếu ánh sáng và không thoải mái. Dịch vụ khách sạn không nhanh chóng và cần cải thiện.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3505
+Khách sạn có vị trí tốt nhưng phòng không thoải mái, thiếu tiện nghi cơ bản. Vệ sinh cần được cải thiện thêm.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3506
+Giá phòng hợp lý nhưng phòng không sạch và thiếu không gian thoải mái. Thiết bị trong phòng đã cũ và không hoạt động đúng cách.
+{HOTEL#PRICES, neutral}, {ROOMS#CLEANLINESS, negative}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3507
+Phòng không sạch sẽ, có mùi ẩm và không thoải mái. Dịch vụ không nhanh chóng và không đáp ứng yêu cầu.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3508
+Khách sạn có giá hợp lý nhưng phòng quá nhỏ và thiếu tiện nghi cơ bản. Dịch vụ không đủ nhanh chóng và nhân viên thiếu thân thiện.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3509
+Phòng không thoải mái và thiếu tiện nghi. Vệ sinh phòng cần được làm sạch kỹ và thiết bị trong phòng đã cũ.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3510
+Giá phòng hợp lý nhưng phòng không sạch và thiếu ánh sáng. Dịch vụ phòng không nhanh chóng và thái độ nhân viên không thân thiện.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3511
+Phòng quá nhỏ và không thoải mái. Dịch vụ không chú ý đến yêu cầu và nhà vệ sinh không sạch.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3512
+Khách sạn có vị trí tốt nhưng phòng rất nhỏ và không đủ tiện nghi. Dịch vụ không chú ý đến các yêu cầu của khách.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3513
+Giá phòng hợp lý nhưng phòng rất nhỏ và thiếu thoải mái. Vệ sinh cần được cải thiện và thiết bị trong phòng cũ.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3514
+Phòng không sạch và thiếu tiện nghi cơ bản. Dịch vụ không được chú ý đến và nhân viên thiếu thân thiện.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3515
+Khách sạn có vị trí thuận tiện nhưng phòng nhỏ, thiếu không gian và không thoải mái. Thiết bị trong phòng cần bảo trì.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3516
+Giá phòng hợp lý nhưng phòng không sạch và thiếu ánh sáng tự nhiên. Vệ sinh phòng cần được làm sạch kỹ.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3517
+Phòng không thoải mái, thiếu tiện nghi cơ bản và không sạch. Dịch vụ không đáp ứng được yêu cầu và nhân viên thiếu chuyên nghiệp.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3518
+Khách sạn có vị trí tốt nhưng phòng rất nhỏ và thiếu ánh sáng. Dịch vụ phòng không nhanh chóng và vệ sinh cần cải thiện.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3519
+Phòng quá nhỏ, thiếu ánh sáng và không thoải mái. Dịch vụ không chú ý đến các yêu cầu và vệ sinh phòng chưa sạch.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3520
+Giá phòng hợp lý nhưng phòng không sạch và không thoải mái. Thiết bị trong phòng không hoạt động tốt và vệ sinh phòng cần cải thiện.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3521
+Khách sạn có vị trí tốt nhưng phòng rất nhỏ và không thoải mái. Dịch vụ phòng chậm và vệ sinh không sạch.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3522
+Giá phòng hợp lý nhưng phòng quá nhỏ và không đủ tiện nghi. Nhà vệ sinh không sạch và cần cải thiện nhiều hơn.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3523
+Phòng không sạch và thiếu không gian thoải mái. Dịch vụ không nhanh chóng và thiết bị trong phòng không hoạt động tốt.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3524
+Khách sạn có vị trí thuận lợi nhưng phòng không thoải mái, thiếu tiện nghi cơ bản. Thiết bị trong phòng đã cũ và không hoạt động tốt.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}, {ROOMS#COMFORT, negative}
+
+#3525
+Giá phòng hợp lý nhưng phòng nhỏ và không sạch. Dịch vụ không chú ý đến yêu cầu của khách và nhân viên thiếu thân thiện.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3526
+Phòng quá nhỏ và thiếu ánh sáng tự nhiên. Vệ sinh phòng không sạch và cần được cải thiện.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {ROOMS#COMFORT, negative}
+
+#3527
+Khách sạn có giá hợp lý nhưng phòng không thoải mái và thiếu tiện nghi cơ bản. Dịch vụ cần cải thiện nhiều.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3528
+Phòng không sạch sẽ và không thoải mái. Thiết bị trong phòng không hoạt động đúng và cần thay thế.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3529
+Giá phòng hợp lý nhưng phòng quá nhỏ và không thoải mái. Dịch vụ không đáp ứng được yêu cầu và nhà vệ sinh không sạch.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3530
+Khách sạn có vị trí tốt nhưng phòng nhỏ và thiếu tiện nghi. Vệ sinh không sạch và thiết bị trong phòng không hoạt động tốt.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3531
+Phòng không sạch, thiếu không gian và thiếu ánh sáng tự nhiên. Dịch vụ không đáp ứng được kỳ vọng.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3532
+Giá phòng hợp lý nhưng phòng không thoải mái và thiếu tiện nghi. Dịch vụ phòng không nhanh chóng và thái độ nhân viên không thân thiện.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3533
+Khách sạn có vị trí thuận tiện nhưng phòng thiếu tiện nghi cơ bản và không thoải mái. Vệ sinh phòng cần cải thiện thêm.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3534
+Phòng không thoải mái và thiếu tiện nghi cơ bản. Thiết bị trong phòng đã cũ và cần thay thế.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3535
+Giá phòng hợp lý nhưng phòng quá nhỏ, không đủ ánh sáng và thiếu không gian. Vệ sinh phòng cần được làm sạch kỹ.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3536
+Phòng không sạch và không thoải mái. Thiết bị trong phòng cần bảo trì và dịch vụ không nhanh chóng.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}, {SERVICE#GENERAL, negative}
+
+#3537
+Khách sạn có vị trí đẹp nhưng phòng nhỏ và thiếu tiện nghi cơ bản. Dịch vụ phòng không chú ý đến yêu cầu của khách.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3538
+Giá phòng hợp lý nhưng phòng không sạch và thiếu ánh sáng. Dịch vụ không đáp ứng được yêu cầu, nhân viên thiếu thân thiện.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3539
+Phòng không thoải mái, thiếu tiện nghi cơ bản và không sạch. Thiết bị trong phòng đã cũ và không hoạt động tốt.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3540
+Khách sạn có vị trí tốt nhưng phòng không thoải mái và thiếu tiện nghi cơ bản. Vệ sinh không sạch và thiết bị trong phòng cần bảo trì.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3541
+Khách sạn có vị trí thuận tiện nhưng phòng nhỏ, thiếu ánh sáng tự nhiên và không thoải mái. Dịch vụ không nhanh chóng và nhân viên thiếu nhiệt tình.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3542
+Giá phòng hợp lý nhưng phòng không sạch sẽ và thiếu tiện nghi. Dịch vụ phòng không nhanh và thiết bị trong phòng đã cũ.
+{HOTEL#PRICES, neutral}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}, {SERVICE#GENERAL, negative}
+
+#3543
+Phòng tắm quá nhỏ, thiếu không gian và không sạch. Dịch vụ không chú ý đến yêu cầu của khách.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3544
+Khách sạn có vị trí đẹp nhưng phòng không sạch và thiếu tiện nghi cơ bản. Thiết bị trong phòng đã cũ và không hoạt động tốt.
+{LOCATION#GENERAL, neutral}, {ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3545
+Phòng không thoải mái, thiếu không gian và ánh sáng. Dịch vụ không đáp ứng được yêu cầu, nhân viên thiếu thân thiện.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3546
+Giá phòng hợp lý nhưng phòng rất nhỏ, thiếu tiện nghi và không sạch sẽ. Dịch vụ phòng không chú ý đến yêu cầu của khách.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3547
+Phòng không sạch và thiếu ánh sáng tự nhiên. Thiết bị trong phòng không hoạt động đúng và vệ sinh cần được cải thiện.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3548
+Khách sạn có vị trí thuận tiện nhưng phòng quá nhỏ và thiếu ánh sáng. Vệ sinh phòng không sạch và cần phải cải thiện.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3549
+Phòng quá nhỏ, thiếu tiện nghi cơ bản và không thoải mái. Thiết bị trong phòng đã cũ và không hoạt động tốt.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3550
+Giá phòng hợp lý nhưng phòng không sạch sẽ và thiếu ánh sáng. Dịch vụ chậm và không đáp ứng được yêu cầu của khách.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3551
+Khách sạn có vị trí tốt nhưng phòng không thoải mái, thiếu không gian và không sạch. Thiết bị trong phòng cần bảo trì.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3552
+Phòng không sạch và thiếu tiện nghi cơ bản. Dịch vụ không chú ý đến yêu cầu và nhân viên thiếu thân thiện.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3553
+Giá phòng hợp lý nhưng phòng quá nhỏ và thiếu tiện nghi. Vệ sinh phòng không sạch và phòng tắm không thoải mái.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3554
+Phòng quá nhỏ và thiếu ánh sáng tự nhiên. Vệ sinh không sạch và thiết bị trong phòng không hoạt động tốt.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3555
+Khách sạn có vị trí đẹp nhưng phòng không sạch và thiếu không gian thoải mái. Dịch vụ không đáp ứng được yêu cầu và thái độ nhân viên không thân thiện.
+{LOCATION#GENERAL, neutral}, {ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3556
+Giá phòng hợp lý nhưng phòng thiếu ánh sáng và không thoải mái. Thiết bị trong phòng đã cũ và không hoạt động tốt.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3557
+Phòng không sạch sẽ, thiếu tiện nghi và không thoải mái. Vệ sinh phòng cần được cải thiện, đặc biệt là nhà vệ sinh.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}
+
+#3558
+Khách sạn có vị trí thuận tiện nhưng phòng nhỏ và thiếu tiện nghi cơ bản. Dịch vụ không đủ tốt, nhân viên không thân thiện.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3559
+Phòng không thoải mái, thiếu không gian và ánh sáng tự nhiên. Vệ sinh phòng cần cải thiện, thiết bị trong phòng không hoạt động tốt.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3560
+Giá phòng hợp lý nhưng phòng quá nhỏ và không sạch. Dịch vụ không chú ý đến các yêu cầu của khách, nhân viên thiếu thân thiện.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3561
+Khách sạn có vị trí tốt nhưng tôi không cảm thấy thoải mái khi ở đây. Phòng rất nhỏ và thiếu ánh sáng tự nhiên, không gian chật chội. Dịch vụ không đáp ứng kịp thời yêu cầu của tôi.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3562
+Mặc dù khách sạn có giá hợp lý, nhưng phòng tôi ở lại rất bẩn và không được dọn dẹp kỹ. Cảm giác không thoải mái trong suốt thời gian lưu trú.
+{HOTEL#PRICES, neutral}, {ROOMS#CLEANLINESS, negative}, {ROOMS#COMFORT, negative}
+
+#3563
+Khách sạn có vị trí rất thuận tiện nhưng phòng quá nhỏ và thiếu tiện nghi. Tôi không thể ngủ ngon do giường quá cứng và không thoải mái.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}
+
+#3564
+Phòng tắm quá nhỏ, không đủ ánh sáng và không sạch sẽ. Thiết bị trong phòng đã cũ và không hoạt động tốt.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3565
+Phòng không được vệ sinh kỹ, có mùi ẩm mốc và thiếu ánh sáng tự nhiên. Mặc dù vị trí của khách sạn tốt nhưng tôi không cảm thấy thoải mái.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}
+
+#3566
+Dịch vụ không đủ tốt, nhân viên không thân thiện. Phòng quá nhỏ và không thoải mái. Tôi rất thất vọng với trải nghiệm này.
+{SERVICE#GENERAL, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}
+
+#3567
+Giá phòng không xứng đáng với chất lượng. Phòng không sạch sẽ, có mùi hôi và thiết bị trong phòng không hoạt động đúng cách.
+{HOTEL#PRICES, neutral}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3568
+Khách sạn có vị trí tuyệt vời nhưng phòng lại không thoải mái, thiếu tiện nghi cơ bản. Dịch vụ phòng cũng rất chậm và không nhiệt tình.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3569
+Phòng không sạch sẽ và thiếu không gian. Dịch vụ không đáp ứng được yêu cầu của tôi, tôi cảm thấy không được chăm sóc đúng mức.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3570
+Khách sạn có giá hợp lý nhưng phòng rất nhỏ và không đủ tiện nghi. Thiết bị trong phòng cũ và không hoạt động tốt.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3571
+Phòng tôi ở không được vệ sinh sạch sẽ, có bụi và mùi ẩm. Điều hòa không hoạt động đúng cách, làm cho tôi cảm thấy rất khó chịu.
+{ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3572
+Mặc dù khách sạn nằm ở vị trí thuận tiện nhưng phòng rất chật, thiếu ánh sáng và không thoải mái. Dịch vụ không nhanh chóng và nhân viên không nhiệt tình.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3573
+Giá phòng hợp lý nhưng phòng rất nhỏ và thiếu sạch sẽ. Cảm giác không thoải mái, nhà vệ sinh cần được dọn dẹp kỹ hơn.
+{HOTEL#PRICES, neutral}, {ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}
+
+#3574
+Khách sạn có vị trí đẹp nhưng phòng không được dọn dẹp kỹ, thiết bị trong phòng cũ và không hoạt động tốt. Tôi rất thất vọng với chất lượng dịch vụ.
+{LOCATION#GENERAL, neutral}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}, {SERVICE#GENERAL, negative}
+
+#3575
+Phòng tôi ở thiếu tiện nghi, không sạch và có mùi khó chịu. Dịch vụ khách sạn không đáng tin cậy, nhân viên thiếu chuyên nghiệp.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3576
+Khách sạn có vị trí tốt nhưng phòng không sạch sẽ và không thoải mái. Các thiết bị trong phòng cần được bảo trì và thay thế.
+{LOCATION#GENERAL, neutral}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}, {ROOMS#COMFORT, negative}
+
+#3577
+Phòng quá nhỏ và không có đủ tiện nghi. Dịch vụ phòng rất chậm và không đáp ứng được yêu cầu của tôi.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3578
+Giá phòng hợp lý nhưng phòng không sạch và thiếu ánh sáng. Nhà vệ sinh không được làm sạch kỹ và có mùi hôi.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3579
+Khách sạn có vị trí thuận tiện nhưng phòng nhỏ, thiếu tiện nghi cơ bản. Dịch vụ chậm và không có sự chăm sóc đúng mức.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {SERVICE#GENERAL, negative}
+
+#3580
+Phòng không thoải mái, thiếu ánh sáng và thiết bị trong phòng đã cũ. Dịch vụ không tốt và nhân viên thiếu chuyên nghiệp.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}, {SERVICE#GENERAL, negative}
+
+#3581
+Khách sạn có vị trí thuận tiện nhưng phòng quá nhỏ và không thoải mái. Thiết bị trong phòng không hoạt động tốt, và nhà vệ sinh không sạch.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3582
+Giá phòng hợp lý nhưng phòng không sạch sẽ, thiếu tiện nghi cơ bản. Dịch vụ phòng rất chậm và không đáp ứng yêu cầu của tôi.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3583
+Phòng không sạch và có mùi ẩm, thiếu không gian và không thoải mái. Thiết bị trong phòng đã cũ và không hoạt động đúng cách.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3584
+Khách sạn có vị trí tuyệt vời nhưng phòng quá nhỏ, thiếu ánh sáng tự nhiên và không đủ tiện nghi cơ bản. Dịch vụ không nhanh chóng và nhân viên thiếu nhiệt tình.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3585
+Giá phòng hợp lý nhưng phòng không sạch và thiếu tiện nghi cơ bản. Thiết bị trong phòng cũ và không hoạt động tốt, phòng tắm rất nhỏ và không thoải mái.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3586
+Phòng không thoải mái, thiếu ánh sáng và không sạch sẽ. Dịch vụ không đáp ứng kịp thời yêu cầu và nhân viên thiếu thân thiện.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3587
+Phòng rất nhỏ, thiếu tiện nghi cơ bản và không thoải mái. Dịch vụ phòng rất chậm và nhân viên không nhiệt tình.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3588
+Khách sạn có vị trí đẹp nhưng phòng không sạch và thiếu không gian thoải mái. Dịch vụ không đáp ứng yêu cầu và nhân viên thiếu chuyên nghiệp.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3589
+Giá phòng hợp lý nhưng phòng không sạch, thiếu ánh sáng và không thoải mái. Thiết bị trong phòng đã cũ và không hoạt động tốt.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3590
+Phòng nhỏ, thiếu tiện nghi và không thoải mái. Dịch vụ phòng không đáp ứng yêu cầu và thái độ nhân viên không thân thiện.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3591
+Khách sạn có vị trí tốt nhưng phòng quá nhỏ và không sạch sẽ. Dịch vụ chậm và không đáp ứng được yêu cầu của khách.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3592
+Phòng không sạch, thiếu không gian và ánh sáng tự nhiên. Vệ sinh không đạt yêu cầu và dịch vụ không nhanh chóng.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3593
+Giá phòng hợp lý nhưng phòng thiếu tiện nghi và không thoải mái. Thiết bị trong phòng đã cũ và cần bảo trì.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3594
+Phòng không sạch và thiếu ánh sáng tự nhiên. Thiết bị trong phòng không hoạt động tốt và dịch vụ không đáp ứng được yêu cầu.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}, {SERVICE#GENERAL, negative}
+
+#3595
+Khách sạn có vị trí đẹp nhưng phòng quá nhỏ, thiếu ánh sáng và không thoải mái. Thiết bị trong phòng đã cũ và không hoạt động tốt.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3596
+Giá phòng hợp lý nhưng phòng không sạch, thiếu không gian thoải mái và có mùi ẩm. Dịch vụ không đủ nhanh chóng và nhân viên thiếu thân thiện.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3597
+Phòng không sạch và thiếu ánh sáng tự nhiên. Vệ sinh phòng không sạch và thiết bị trong phòng cần bảo trì.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3598
+Khách sạn có vị trí tốt nhưng phòng quá nhỏ, thiếu tiện nghi cơ bản và không thoải mái. Dịch vụ không chú ý đến yêu cầu của khách.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3599
+Giá phòng hợp lý nhưng phòng không sạch, thiếu không gian và không thoải mái. Dịch vụ không đáp ứng yêu cầu và thái độ nhân viên không chuyên nghiệp.
+{HOTEL#PRICES, neutral}, {ROOMS#DESIGN&FEATURES, negative}, {ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3600
+Phòng không sạch sẽ, thiếu ánh sáng và không thoải mái. Thiết bị trong phòng đã cũ và không hoạt động tốt. Dịch vụ không tốt và nhân viên thiếu chuyên nghiệp.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}, {SERVICE#GENERAL, negative}
+
+
+
+
