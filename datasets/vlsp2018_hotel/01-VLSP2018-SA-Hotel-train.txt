@@ -14398,6 +14398,2403 @@ Giá phòng hợp lý nhưng phòng không sạch, thiếu không gian và khôn
 Phòng không sạch sẽ, thiếu ánh sáng và không thoải mái. Thiết bị trong phòng đã cũ và không hoạt động tốt. Dịch vụ không tốt và nhân viên thiếu chuyên nghiệp.
 {ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#QUALITY, negative}, {SERVICE#GENERAL, negative}
 
+#3601
+Phòng nhỏ và không thoải mái. Một số thiết bị trong phòng không hoạt động tốt.
+{ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}
 
+#3602
+Khách sạn nằm ở vị trí xa trung tâm, không thuận tiện để di chuyển.
+{LOCATION#GENERAL, negative}
 
+#3603
+Nhân viên lễ tân không thân thiện, thái độ phục vụ kém chuyên nghiệp.
+{SERVICE#GENERAL, negative}
+
+#3604
+Phòng thiết kế lỗi thời, ánh sáng yếu gây cảm giác khó chịu.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, neutral}
+
+#3605
+Thiết bị phòng tắm đã cũ và không sử dụng được.
+{ROOM_AMENITIES#QUALITY, negative}
+
+#3606
+Giá cả không tương xứng với chất lượng phòng và dịch vụ.
+{HOTEL#PRICES, negative}, {HOTEL#GENERAL, negative}
+
+#3607
+Vị trí khách sạn không thuận tiện, khu vực xung quanh ồn ào.
+{LOCATION#GENERAL, negative}, {HOTEL#COMFORT, negative}
+
+#3608
+Bữa sáng đơn điệu, không có nhiều lựa chọn phù hợp.
+{FOOD&DRINKS#STYLE&OPTIONS, negative}
+
+#3609
+Khách sạn thiếu các tiện nghi cơ bản như hồ bơi và khu vui chơi.
+{FACILITIES#GENERAL, negative}
+
+#3610
+Phòng có mùi ẩm mốc, không được vệ sinh sạch sẽ.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#COMFORT, neutral}
+
+#3611
+Giá phòng khá cao so với chất lượng dịch vụ trung bình.
+{HOTEL#PRICES, negative}, {HOTEL#QUALITY, neutral}
+
+#3612
+Nhân viên không hỗ trợ kịp thời khi có vấn đề xảy ra.
+{SERVICE#GENERAL, negative}
+
+#3613
+Nội thất phòng cũ, không được bảo trì tốt.
+{ROOMS#DESIGN&FEATURES, negative}
+
+#3614
+Đồ ăn sáng hết nhanh, nhân viên không phục vụ bổ sung kịp thời.
+{FOOD&DRINKS#STYLE&OPTIONS, negative}, {SERVICE#GENERAL, negative}
+
+#3615
+Phòng cách âm kém, gây khó chịu khi nghỉ ngơi.
+{ROOMS#COMFORT, negative}
+
+#3616
+Nhân viên phục vụ thiếu thân thiện, không nhiệt tình.
+{SERVICE#GENERAL, negative}
+
+#3617
+Hệ thống nước nóng không ổn định, gây bất tiện khi sử dụng.
+{ROOM_AMENITIES#QUALITY, negative}
+
+#3618
+Khách sạn không có chỗ đậu xe rộng rãi, gây bất tiện cho khách có ô tô.
+{FACILITIES#GENERAL, negative}
+
+#3619
+Phòng tắm nhỏ, không đủ không gian sử dụng thoải mái.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, neutral}
+
+#3620
+Giá cả dịch vụ nhà hàng cao nhưng chất lượng món ăn không tương xứng.
+{FOOD&DRINKS#PRICES, negative}, {FOOD&DRINKS#QUALITY, negative}
+
+#3621
+Phòng có dấu hiệu xuống cấp, không được bảo trì thường xuyên.
+{ROOMS#QUALITY, negative}
+
+#3622
+Đường vào khách sạn khó tìm, không có biển chỉ dẫn rõ ràng.
+{LOCATION#GENERAL, negative}
+
+#3623
+Nhân viên không thân thiện khi tiếp xúc, gây ấn tượng không tốt.
+{SERVICE#GENERAL, negative}
+
+#3624
+Phòng khách sạn không sạch sẽ, giường còn dính vết bẩn.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#COMFORT, negative}
+
+#3625
+Bữa sáng không đảm bảo vệ sinh, thức ăn nguội lạnh.
+{FOOD&DRINKS#QUALITY, negative}
+
+#3626
+Không gian khách sạn không thoải mái, hành lang tối và chật hẹp.
+{HOTEL#DESIGN&FEATURES, negative}, {HOTEL#COMFORT, negative}
+
+#3627
+Giá thuê xe tại khách sạn cao hơn bên ngoài nhiều.
+{FACILITIES#PRICES, negative}
+
+#3628
+Máy lạnh trong phòng kêu to, gây khó chịu khi ngủ.
+{ROOM_AMENITIES#QUALITY, negative}, {ROOMS#COMFORT, negative}
+
+#3629
+Phòng không có cửa sổ, cảm giác ngột ngạt.
+{ROOMS#DESIGN&FEATURES, negative}
+
+#3630
+Nhân viên dọn phòng làm việc không kỹ, đồ đạc không được sắp xếp gọn gàng.
+{SERVICE#GENERAL, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3631
+Phòng nhỏ và bí bách, không phù hợp cho gia đình có trẻ nhỏ.
+{ROOMS#COMFORT, negative}, {ROOMS#DESIGN&FEATURES, negative}
+
+#3632
+Nhân viên lễ tân không hỗ trợ khách khi cần đổi phòng.
+{SERVICE#GENERAL, negative}
+
+#3633
+Tiện nghi trong phòng không đầy đủ, thiếu khăn tắm và giấy vệ sinh.
+{ROOM_AMENITIES#GENERAL, negative}
+
+#3634
+Phòng có mùi hôi từ nhà vệ sinh, không thể ở lâu.
+{ROOM_AMENITIES#QUALITY, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3635
+Thức ăn tại nhà hàng không tươi, trình bày kém.
+{FOOD&DRINKS#QUALITY, negative}
+
+#3636
+Nhân viên khách sạn không giải quyết khiếu nại của khách một cách hợp lý.
+{SERVICE#GENERAL, negative}
+
+#3637
+Không gian phòng khách sạn tối, không đủ ánh sáng tự nhiên.
+{ROOMS#DESIGN&FEATURES, negative}
+
+#3638
+Đồ uống tại quầy bar có giá cao và không chất lượng.
+{FOOD&DRINKS#PRICES, negative}, {FOOD&DRINKS#QUALITY, negative}
+
+#3639
+Khách sạn không có thang máy, gây bất tiện cho khách lớn tuổi.
+{FACILITIES#GENERAL, negative}
+
+#3640
+Hệ thống wifi yếu, không sử dụng được trong phòng.
+{FACILITIES#QUALITY, negative}
+
+#3641
+Phòng khách sạn có muỗi, không tạo cảm giác an toàn khi ngủ.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#COMFORT, negative}
+
+#3642
+Bãi đỗ xe nhỏ và không có bảo vệ trông coi.
+{FACILITIES#GENERAL, negative}, {SERVICE#GENERAL, neutral}
+
+#3643
+Khách sạn không đạt tiêu chuẩn 3 sao như quảng cáo.
+{HOTEL#QUALITY, negative}, {HOTEL#GENERAL, negative}
+
+#3644
+Phòng không được dọn sạch sau khi khách trước trả phòng.
+{ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3645
+Giá phòng cao nhưng dịch vụ không tương xứng, không đáng tiền.
+{ROOMS#PRICES, negative}, {HOTEL#QUALITY, negative}
+
+#3646
+Không gian chung của khách sạn khá ồn ào, khó chịu khi nghỉ ngơi.
+{HOTEL#COMFORT, negative}
+
+#3647
+Nhân viên thiếu kiến thức khi tư vấn địa điểm du lịch xung quanh.
+{SERVICE#GENERAL, negative}
+
+#3648
+Phòng không có nước uống miễn phí, gây bất tiện.
+{ROOM_AMENITIES#GENERAL, negative}
+
+#3649
+Bữa sáng không được bổ sung đầy đủ khi hết món.
+{FOOD&DRINKS#STYLE&OPTIONS, negative}
+
+#3650
+Hệ thống điều hòa không hoạt động tốt, gây cảm giác nóng bức.
+{ROOM_AMENITIES#QUALITY, negative}
+
+#3651
+Khách sạn nằm ở vị trí không thuận tiện, cách xa các địa điểm vui chơi và mua sắm, khiến việc di chuyển mất nhiều thời gian và tốn kém chi phí.
+{LOCATION#GENERAL, negative}
+
+#3652
+Mặc dù giá phòng được quảng cáo là ưu đãi, nhưng khi nhận phòng, tôi cảm thấy chất lượng phòng không đáng với số tiền bỏ ra, đặc biệt là giường ngủ không thoải mái và điều hòa hoạt động kém.
+{HOTEL#PRICES, negative}, {ROOMS#COMFORT, negative}, {ROOM_AMENITIES#QUALITY, negative}
+
+#3653
+Thái độ của nhân viên lễ tân khá thờ ơ, không niềm nở với khách, và khi được yêu cầu hỗ trợ, họ dường như không có đủ kiến thức để giải quyết vấn đề.
+{SERVICE#GENERAL, negative}
+
+#3654
+Phòng khách sạn được thiết kế cũ kỹ, thiếu sáng tạo và không tận dụng được ánh sáng tự nhiên, khiến không gian trở nên tù túng và ngột ngạt.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}
+
+#3655
+Hệ thống nước nóng không ổn định, lúc quá nóng lúc lại lạnh, làm tôi phải mất thời gian điều chỉnh mỗi lần sử dụng, gây khó chịu không đáng có.
+{ROOM_AMENITIES#QUALITY, negative}
+
+#3656
+Bữa sáng tại khách sạn rất đơn điệu, chỉ có vài món lặp đi lặp lại mỗi ngày, không có sự đổi mới, và nhiều món đã nguội khi tôi tới ăn.
+{FOOD&DRINKS#STYLE&OPTIONS, negative}, {FOOD&DRINKS#QUALITY, negative}
+
+#3657
+Khách sạn nằm ở khu vực khá ồn ào, đặc biệt là vào buổi tối, khiến tôi không thể nghỉ ngơi một cách thoải mái sau một ngày dài.
+{LOCATION#GENERAL, negative}, {HOTEL#COMFORT, negative}
+
+#3658
+Phòng tắm nhỏ hẹp và không được dọn sạch, còn lưu lại mùi hôi khó chịu từ khách trước, gây ấn tượng không tốt ngay khi bước vào.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#DESIGN&FEATURES, negative}
+
+#3659
+Giá dịch vụ tại nhà hàng khách sạn quá cao so với chất lượng món ăn và không gian phục vụ khá tầm thường.
+{FOOD&DRINKS#PRICES, negative}, {FOOD&DRINKS#QUALITY, negative}
+
+#3660
+Nhân viên khách sạn thiếu chuyên nghiệp, không biết cách xử lý khi xảy ra vấn đề và không có thái độ thân thiện với khách hàng.
+{SERVICE#GENERAL, negative}
+
+#3661
+Mặc dù khách sạn có quảng cáo rằng có các tiện nghi hiện đại, nhưng thực tế không có phòng gym hay hồ bơi như mong đợi, gây thất vọng lớn.
+{FACILITIES#GENERAL, negative}
+
+#3662
+Phòng không được cách âm tốt, nên tôi có thể nghe rõ tiếng ồn từ hành lang và các phòng bên cạnh, điều này thật sự phiền phức.
+{ROOMS#COMFORT, negative}
+
+#3663
+Nhà vệ sinh trong phòng có mùi hôi, vòi nước bị rò rỉ, và bồn rửa không thoát nước nhanh, làm giảm đáng kể trải nghiệm lưu trú của tôi.
+{ROOM_AMENITIES#QUALITY, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3664
+Không gian chung của khách sạn tối và không sạch sẽ, đặc biệt là khu vực hành lang và thang máy có mùi ẩm mốc.
+{HOTEL#CLEANLINESS, negative}, {HOTEL#DESIGN&FEATURES, negative}
+
+#3665
+Nhân viên phục vụ phòng làm việc không chu đáo, đồ đạc trong phòng không được sắp xếp ngăn nắp, và đôi khi không bổ sung đủ khăn tắm hoặc giấy vệ sinh.
+{SERVICE#GENERAL, negative}, {ROOM_AMENITIES#GENERAL, negative}
+
+#3666
+Khách sạn nằm trong khu vực không có nhiều lựa chọn về nhà hàng hoặc dịch vụ giải trí, khiến kỳ nghỉ của tôi trở nên nhàm chán và bất tiện.
+{LOCATION#GENERAL, negative}
+
+#3667
+Phòng khách sạn được bố trí thiếu hợp lý, với nội thất đã cũ và giường ngủ không thoải mái, làm tôi cảm thấy không xứng đáng với số tiền đã chi trả.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}, {ROOMS#PRICES, negative}
+
+#3668
+Wi-Fi khách sạn rất yếu, gần như không sử dụng được trong phòng, gây nhiều phiền toái khi tôi cần làm việc trực tuyến.
+{FACILITIES#QUALITY, negative}
+
+#3669
+Bữa sáng tại khách sạn không đáp ứng được kỳ vọng, nhiều món ăn không tươi và cách trình bày thiếu hấp dẫn.
+{FOOD&DRINKS#QUALITY, negative}
+
+#3670
+Phòng tắm không được trang bị đầy đủ tiện nghi, thiếu máy sấy tóc và khăn tắm đủ kích cỡ, điều này gây bất tiện cho khách hàng.
+{ROOM_AMENITIES#GENERAL, negative}
+
+#3671
+Khi đến nhận phòng, tôi phải đợi rất lâu vì phòng chưa sẵn sàng, mặc dù đã đặt trước và đến đúng giờ như yêu cầu của khách sạn.
+{SERVICE#GENERAL, negative}
+
+#3672
+Hành lang và sảnh chờ của khách sạn không được vệ sinh kỹ, còn dính nhiều rác và mùi hôi khó chịu.
+{HOTEL#CLEANLINESS, negative}, {HOTEL#GENERAL, negative}
+
+#3673
+Giường ngủ không thoải mái, nệm quá mềm khiến tôi bị đau lưng sau một đêm nghỉ ngơi tại đây.
+{ROOMS#COMFORT, negative}
+
+#3674
+Phòng khách sạn không có cửa sổ hoặc bất kỳ ánh sáng tự nhiên nào, tạo cảm giác ngột ngạt và khó chịu.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}
+
+#3675
+Dịch vụ lễ tân không hiệu quả, tôi phải chờ rất lâu để được nhận phòng và không nhận được bất kỳ lời xin lỗi nào từ nhân viên.
+{SERVICE#GENERAL, negative}
+
+#3676
+Khách sạn không cung cấp thông tin rõ ràng về các tiện nghi hoặc quy định, khiến tôi gặp nhiều phiền phức khi sử dụng dịch vụ.
+{HOTEL#GENERAL, negative}
+
+#3677
+Phòng khách sạn quá ồn ào, không phù hợp cho việc nghỉ ngơi hoặc làm việc, đặc biệt là vào ban đêm khi tiếng ồn từ ngoài đường vọng vào.
+{ROOMS#COMFORT, negative}, {LOCATION#GENERAL, negative}
+
+#3678
+Bữa sáng không có nhiều sự lựa chọn, và các món ăn không đảm bảo độ nóng, khiến bữa ăn trở nên không hấp dẫn.
+{FOOD&DRINKS#STYLE&OPTIONS, negative}, {FOOD&DRINKS#QUALITY, negative}
+
+#3679
+Nhân viên khách sạn không linh hoạt trong việc xử lý các yêu cầu đặc biệt, khiến trải nghiệm lưu trú của tôi không được như ý muốn.
+{SERVICE#GENERAL, negative}
+
+#3680
+Không gian trong phòng chật chội và thiếu tiện nghi cơ bản như bàn làm việc hoặc kệ để đồ.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#GENERAL, negative}
+
+#3681
+Khách sạn không có chỗ đậu xe riêng, tôi phải đỗ xe ở nơi khác và đi bộ khá xa để về phòng.
+{FACILITIES#GENERAL, negative}, {LOCATION#GENERAL, negative}
+
+#3682
+Nhiều thiết bị trong phòng không hoạt động, như tivi và máy lạnh, khiến tôi cảm thấy thất vọng về dịch vụ.
+{ROOM_AMENITIES#QUALITY, negative}
+
+#3683
+Phòng không được dọn sạch kỹ lưỡng, vẫn còn tóc và bụi bẩn từ khách trước.
+{ROOMS#CLEANLINESS, negative}
+
+#3684
+Giá thuê phòng cao nhưng không bao gồm bữa sáng, điều này không hợp lý so với các khách sạn khác trong cùng khu vực.
+{ROOMS#PRICES, negative}, {FOOD&DRINKS#PRICES, negative}
+
+#3685
+Thang máy khách sạn cũ kỹ và chậm, gây bất tiện mỗi lần di chuyển giữa các tầng.
+{FACILITIES#QUALITY, negative}
+
+#3686
+Nhân viên không hỗ trợ khách nhiệt tình khi có vấn đề xảy ra, khiến tôi cảm thấy không được chào đón.
+{SERVICE#GENERAL, negative}
+
+#3687
+Phòng được dọn qua loa, chăn ga và gối có mùi khó chịu, không mang lại cảm giác sạch sẽ.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#COMFORT, negative}
+
+#3688
+Không có hướng dẫn rõ ràng về các dịch vụ của khách sạn, khiến tôi phải tự tìm hiểu và mất nhiều thời gian.
+{SERVICE#GENERAL, negative}, {HOTEL#GENERAL, negative}
+
+#3689
+Giá dịch vụ giặt ủi quá cao, không hợp lý với chất lượng và thời gian trả đồ.
+{FACILITIES#PRICES, negative}
+
+#3690
+Phòng khách sạn không có ổ cắm điện đủ gần giường, gây bất tiện khi sạc điện thoại hoặc làm việc.
+{ROOM_AMENITIES#DESIGN&FEATURES, negative}
+
+#3691
+Bữa sáng tại khách sạn không ngon, các món ăn bị nguội và không được nêm nếm hợp khẩu vị.
+{FOOD&DRINKS#QUALITY, negative}
+
+#3692
+Không có dịch vụ đưa đón sân bay như quảng cáo, tôi phải tự tìm phương tiện di chuyển với giá cao hơn dự kiến.
+{SERVICE#GENERAL, negative}, {FACILITIES#GENERAL, negative}
+
+#3693
+Phòng cách âm kém, tôi nghe rõ tiếng nước chảy và tiếng nói chuyện từ các phòng bên cạnh.
+{ROOMS#COMFORT, negative}
+
+#3694
+Nhân viên khách sạn không hướng dẫn rõ ràng khi tôi cần hỏi về các địa điểm tham quan xung quanh.
+{SERVICE#GENERAL, negative}
+
+#3695
+Hành lang và khu vực chung của khách sạn không có hệ thống điều hòa, gây nóng nực và khó chịu.
+{FACILITIES#QUALITY, negative}, {HOTEL#COMFORT, negative}
+
+#3696
+Phòng khách sạn không có két sắt an toàn, khiến tôi cảm thấy không an tâm khi để lại đồ quý giá trong phòng.
+{ROOM_AMENITIES#GENERAL, negative}
+
+#3697
+Khách sạn không có dịch vụ phòng 24/24, gây bất tiện khi tôi cần hỗ trợ vào buổi tối muộn.
+{SERVICE#GENERAL, negative}
+
+#3698
+Phòng vệ sinh nhỏ hẹp và không được trang bị đủ đồ dùng cần thiết, như khăn giấy và xà phòng.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOM_AMENITIES#GENERAL, negative}
+
+#3699
+Phòng khách sạn không có rèm đủ dày, ánh sáng bên ngoài chiếu vào gây khó ngủ vào ban đêm.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}
+
+#3700
+Không gian trong phòng tối, bóng đèn không đủ sáng và không tạo cảm giác dễ chịu.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}
+
+#3701
+Phòng khách sạn không có tủ đựng đồ, khiến tôi phải để hành lý trên sàn, làm không gian càng trở nên chật chội.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}
+
+#3702
+Khách sạn quảng cáo là gần trung tâm, nhưng thực tế nằm trong một con ngõ khó tìm, gây bất tiện khi di chuyển.
+{LOCATION#GENERAL, negative}
+
+#3703
+Bữa sáng thiếu sự lựa chọn và đồ uống không được bổ sung khi hết, khiến tôi phải tìm đồ ăn ở nơi khác.
+{FOOD&DRINKS#STYLE&OPTIONS, negative}, {SERVICE#GENERAL, negative}
+
+#3704
+Phòng tắm thiếu khăn tắm và xà phòng, khiến tôi phải liên hệ lễ tân nhiều lần để bổ sung.
+{ROOM_AMENITIES#GENERAL, negative}, {SERVICE#GENERAL, neutral}
+
+#3705
+Giá phòng được xem là cao so với chất lượng, đặc biệt khi không có bữa sáng kèm theo.
+{ROOMS#PRICES, negative}, {HOTEL#GENERAL, neutral}
+
+#3706
+Khách sạn không có khu vực chung để thư giãn, làm kỳ nghỉ của tôi trở nên nhàm chán.
+{FACILITIES#GENERAL, negative}
+
+#3707
+Phòng không có đủ ánh sáng, cả ngày lẫn đêm đều phải bật đèn, tạo cảm giác ngột ngạt.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}
+
+#3708
+Nhân viên không chu đáo khi dọn phòng, còn sót lại tóc và bụi trên sàn.
+{ROOMS#CLEANLINESS, negative}, {SERVICE#GENERAL, negative}
+
+#3709
+Hệ thống nước trong phòng tắm không ổn định, lúc quá yếu lúc quá mạnh, rất khó sử dụng.
+{ROOM_AMENITIES#QUALITY, negative}
+
+#3710
+Khách sạn nằm ở khu vực ồn ào, tiếng xe cộ và người qua lại liên tục làm phiền giấc ngủ của tôi.
+{LOCATION#GENERAL, negative}, {HOTEL#COMFORT, negative}
+
+#3711
+Phòng không có bàn làm việc, khiến tôi gặp khó khăn khi cần làm việc vào buổi tối.
+{ROOMS#DESIGN&FEATURES, negative}
+
+#3712
+Nhân viên không hỗ trợ khách hàng kịp thời khi cần, khiến tôi phải tự xử lý vấn đề.
+{SERVICE#GENERAL, negative}
+
+#3713
+Wi-Fi yếu và không ổn định, tôi không thể truy cập internet để làm việc hoặc giải trí.
+{FACILITIES#QUALITY, negative}
+
+#3714
+Phòng khách sạn có mùi ẩm mốc, dường như chưa được vệ sinh kỹ trước khi khách nhận phòng.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#COMFORT, negative}
+
+#3715
+Hệ thống điều hòa cũ kỹ, gây tiếng ồn lớn mỗi khi bật, khiến tôi khó chịu khi nghỉ ngơi.
+{ROOM_AMENITIES#QUALITY, negative}, {ROOMS#COMFORT, negative}
+
+#3716
+Nhân viên khách sạn không thân thiện, không cung cấp đầy đủ thông tin khi tôi cần hỏi về dịch vụ.
+{SERVICE#GENERAL, negative}
+
+#3717
+Khách sạn không có chỗ đậu xe riêng, tôi phải tìm bãi đậu xe cách xa khách sạn, gây nhiều bất tiện.
+{FACILITIES#GENERAL, negative}, {LOCATION#GENERAL, negative}
+
+#3718
+Phòng nhỏ và thiếu ánh sáng tự nhiên, tạo cảm giác tù túng và không thoải mái.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}
+
+#3719
+Đồ uống tại minibar có giá quá cao và không có nhiều lựa chọn, khiến tôi phải mua ở nơi khác.
+{FOOD&DRINKS#PRICES, negative}, {FOOD&DRINKS#STYLE&OPTIONS, negative}
+
+#3720
+Không gian chung của khách sạn không được vệ sinh thường xuyên, đặc biệt là khu vực thang máy và sảnh.
+{HOTEL#CLEANLINESS, negative}, {HOTEL#GENERAL, neutral}
+
+#3721
+Khách sạn không cung cấp dịch vụ gọi đồ ăn vào buổi tối, làm tôi phải tìm nhà hàng bên ngoài khá xa.
+{SERVICE#GENERAL, negative}, {FACILITIES#GENERAL, negative}
+
+#3722
+Phòng khách sạn không có nước uống miễn phí, điều này làm tôi cảm thấy dịch vụ chưa chu đáo.
+{ROOM_AMENITIES#GENERAL, negative}
+
+#3723
+Giá dịch vụ giặt là tại khách sạn cao, nhưng quần áo được trả về không được là ủi cẩn thận.
+{FACILITIES#PRICES, negative}, {SERVICE#GENERAL, negative}
+
+#3724
+Phòng khách sạn có tiếng động từ đường phố bên ngoài, mặc dù cửa sổ đã đóng kín.
+{ROOMS#COMFORT, negative}
+
+#3725
+Nhân viên dọn phòng đến quá sớm, làm tôi cảm thấy không thoải mái khi nghỉ ngơi.
+{SERVICE#GENERAL, negative}, {ROOMS#COMFORT, negative}
+
+#3726
+Khách sạn thiếu các tiện ích giải trí như phòng gym hoặc hồ bơi, khiến kỳ nghỉ trở nên đơn điệu.
+{FACILITIES#GENERAL, negative}
+
+#3727
+Phòng khách sạn không có rèm cản sáng, ánh nắng buổi sáng làm tôi tỉnh giấc sớm hơn dự định.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}
+
+#3728
+Hành lang khách sạn quá ồn vào buổi tối, nhân viên không có biện pháp kiểm soát tiếng ồn từ khách khác.
+{HOTEL#COMFORT, negative}, {SERVICE#GENERAL, negative}
+
+#3729
+Phòng không được trang bị két sắt an toàn, tôi phải luôn mang theo đồ quý giá, gây bất tiện lớn.
+{ROOM_AMENITIES#GENERAL, negative}
+
+#3730
+Dịch vụ đưa đón sân bay không có sẵn như thông báo, khiến tôi phải tự sắp xếp phương tiện di chuyển.
+{SERVICE#GENERAL, negative}, {FACILITIES#GENERAL, negative}
+
+#3731
+Bữa sáng quá đơn giản và không hấp dẫn, tôi phải ăn ngoài để có bữa sáng đầy đủ hơn.
+{FOOD&DRINKS#STYLE&OPTIONS, negative}, {FOOD&DRINKS#QUALITY, negative}
+
+#3732
+Phòng tắm không có kệ để đồ, tôi phải để các vật dụng cá nhân trên sàn, rất bất tiện.
+{ROOM_AMENITIES#DESIGN&FEATURES, negative}
+
+#3733
+Nhân viên khách sạn không hỗ trợ tốt khi tôi yêu cầu đổi phòng do vấn đề vệ sinh.
+{SERVICE#GENERAL, negative}, {ROOMS#CLEANLINESS, negative}
+
+#3734
+Phòng ngủ có mùi hôi từ thảm trải sàn, làm giảm trải nghiệm nghỉ ngơi của tôi.
+{ROOMS#CLEANLINESS, negative}, {ROOMS#COMFORT, negative}
+
+#3735
+Không có dịch vụ hỗ trợ khách mang hành lý lên phòng, tôi phải tự di chuyển đồ nặng qua nhiều bậc thang.
+{SERVICE#GENERAL, negative}, {HOTEL#GENERAL, negative}
+
+#3736
+Hệ thống thang máy chậm và nhỏ, gây bất tiện khi khách đông vào giờ cao điểm.
+{FACILITIES#QUALITY, negative}
+
+#3737
+Khách sạn không thông báo trước về các khoản phụ phí khi nhận phòng, gây cảm giác không minh bạch.
+{HOTEL#GENERAL, negative}, {HOTEL#PRICES, negative}
+
+#3738
+Phòng khách sạn không được trang bị bàn là hoặc dịch vụ là ủi, làm khó khăn cho tôi khi chuẩn bị đồ đi họp.
+{ROOM_AMENITIES#GENERAL, negative}
+
+#3739
+Bữa tối tại nhà hàng khách sạn không ngon và phục vụ quá chậm, khiến tôi phải chờ rất lâu.
+{FOOD&DRINKS#QUALITY, negative}, {SERVICE#GENERAL, negative}
+
+#3740
+Không gian khách sạn thiếu cây xanh hoặc khu vực thư giãn, tạo cảm giác không thoải mái.
+{HOTEL#DESIGN&FEATURES, negative}, {HOTEL#COMFORT, negative}
+
+#3741
+Khách sạn không có khu vực chơi dành cho trẻ em, khiến gia đình tôi gặp khó khăn trong việc quản lý trẻ.
+{FACILITIES#GENERAL, negative}
+
+#3742
+Hệ thống nước trong phòng tắm yếu, không đủ để tắm thoải mái sau một ngày dài.
+{ROOM_AMENITIES#QUALITY, negative}
+
+#3743
+Phòng khách sạn thiếu kệ để hành lý, làm không gian thêm bừa bộn.
+{ROOMS#DESIGN&FEATURES, negative}
+
+#3744
+Giá đồ ăn trong minibar cao và không đáng với chất lượng, tôi không sử dụng lần nào.
+{FOOD&DRINKS#PRICES, negative}, {FOOD&DRINKS#QUALITY, negative}
+
+#3745
+Hành lang khách sạn không có điều hòa, rất nóng nực vào mùa hè.
+{FACILITIES#QUALITY, negative}, {HOTEL#COMFORT, negative}
+
+#3746
+Nhân viên không thông báo về việc sửa chữa trong khu vực, gây tiếng ồn lớn và làm phiền tôi.
+{SERVICE#GENERAL, negative}, {HOTEL#COMFORT, negative}
+
+#3747
+Không có quầy bar hoặc khu vực giải trí tại khách sạn, khiến buổi tối khá nhàm chán.
+{FACILITIES#GENERAL, negative}
+
+#3748
+Phòng không có cửa sổ, tạo cảm giác như ở trong hộp kín, rất ngột ngạt.
+{ROOMS#DESIGN&FEATURES, negative}, {ROOMS#COMFORT, negative}
+
+#3749
+Bữa sáng không có nhiều món địa phương, chỉ phục vụ đồ ăn nhanh, làm giảm sự hứng thú.
+{FOOD&DRINKS#STYLE&OPTIONS, negative}
+
+#3750
+Phòng cách âm kém, tôi nghe rõ tiếng trẻ em chạy nhảy từ hành lang, làm tôi khó chịu suốt kỳ nghỉ.
+{ROOMS#COMFORT, negative}, {HOTEL#COMFORT, negative}
+
+#3751
+Vị trí khách sạn nằm ở khu vực trung tâm nhưng không có nhiều địa điểm ăn uống gần đó.
+{LOCATION#GENERAL, neutral}
+
+#3752
+Giá phòng của khách sạn được xem là hợp lý, nhưng không bao gồm bữa sáng.
+{HOTEL#PRICES, neutral}
+
+#3753
+Phòng được trang bị đầy đủ tiện nghi cơ bản, nhưng không có gì nổi bật.
+{ROOMS#GENERAL, neutral}
+
+#3754
+Nhân viên lễ tân hỗ trợ tôi check-in nhanh chóng, nhưng không đưa ra bất kỳ thông tin nào về dịch vụ của khách sạn.
+{SERVICE#GENERAL, neutral}
+
+#3755
+Không gian khách sạn khá yên tĩnh, phù hợp cho việc nghỉ ngơi ngắn ngày.
+{HOTEL#COMFORT, neutral}
+
+#3756
+Hệ thống thang máy hoạt động ổn định, nhưng hơi chậm vào giờ cao điểm.
+{FACILITIES#QUALITY, neutral}
+
+#3757
+Phòng có diện tích nhỏ, phù hợp cho một người ở nhưng không tiện cho gia đình.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3758
+Dịch vụ dọn phòng làm việc đúng giờ, nhưng không tương tác nhiều với khách.
+{SERVICE#GENERAL, neutral}
+
+#3759
+Wi-Fi trong phòng ổn định, đủ để sử dụng cho các nhu cầu cơ bản.
+{FACILITIES#QUALITY, neutral}
+
+#3760
+Phòng được trang bị nội thất cơ bản, không có gì đặc biệt đáng chú ý.
+{ROOM_AMENITIES#GENERAL, neutral}
+
+#3761
+Nhân viên khách sạn thực hiện công việc một cách chuyên nghiệp nhưng không tạo ấn tượng đặc biệt.
+{SERVICE#GENERAL, neutral}
+
+#3762
+Khu vực sảnh khách sạn có không gian thoải mái, phù hợp để chờ đợi hoặc gặp gỡ.
+{HOTEL#GENERAL, neutral}
+
+#3763
+Bữa sáng có đủ các món cơ bản nhưng không có món địa phương đặc sắc.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3764
+Hành lang khách sạn được giữ sạch sẽ, nhưng không có gì nổi bật về thiết kế.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#3765
+Phòng có tầm nhìn ra khu vực dân cư, không phải cảnh đẹp nhưng cũng không tệ.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3766
+Giá thuê xe của khách sạn ở mức trung bình, không rẻ nhưng cũng không quá đắt.
+{FACILITIES#PRICES, neutral}
+
+#3767
+Dịch vụ giặt ủi của khách sạn đúng giờ, nhưng giá cả không có sự khác biệt so với bên ngoài.
+{FACILITIES#GENERAL, neutral}, {FACILITIES#PRICES, neutral}
+
+#3768
+Khu vực ăn sáng rộng rãi, nhưng thiết kế khá đơn giản, không tạo điểm nhấn.
+{HOTEL#DESIGN&FEATURES, neutral}
+
+#3769
+Nhân viên bảo vệ làm việc ổn định, nhưng không có nhiều tương tác với khách.
+{SERVICE#GENERAL, neutral}
+
+#3770
+Hệ thống điều hòa trong phòng hoạt động tốt, nhưng không có chức năng lọc không khí.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#3771
+Phòng khách sạn không có ban công, chỉ phù hợp cho những ai không quan tâm đến cảnh quan.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3772
+Khu vực khách sạn nằm gần trung tâm nhưng phải đi bộ khá xa để đến các địa điểm chính.
+{LOCATION#GENERAL, neutral}
+
+#3773
+Thức uống trong minibar có đầy đủ các loại cơ bản, nhưng không có món đặc biệt.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3774
+Nhân viên lễ tân trả lời câu hỏi của tôi một cách ngắn gọn, không thêm thông tin chi tiết.
+{SERVICE#GENERAL, neutral}
+
+#3775
+Giá phòng của khách sạn phù hợp với những ai chỉ cần một nơi lưu trú đơn giản.
+{HOTEL#PRICES, neutral}
+
+#3776
+Hành lang khách sạn đủ sáng, nhưng không có trang trí gì đặc biệt.
+{HOTEL#DESIGN&FEATURES, neutral}
+
+#3777
+Dịch vụ phòng được thực hiện đúng theo lịch trình, nhưng không có thêm sự hỗ trợ đặc biệt nào.
+{SERVICE#GENERAL, neutral}
+
+#3778
+Phòng khách sạn nhỏ gọn, đủ tiện nghi cho một kỳ nghỉ ngắn ngày.
+{ROOMS#GENERAL, neutral}
+
+#3779
+Không gian khách sạn phù hợp để nghỉ ngơi, nhưng không thích hợp cho các hoạt động giải trí.
+{HOTEL#COMFORT, neutral}
+
+#3780
+Giá thuê xe đạp tại khách sạn không quá cao, phù hợp với du khách thích di chuyển gần.
+{FACILITIES#PRICES, neutral}
+
+#3781
+Khu vực xung quanh khách sạn yên tĩnh vào ban đêm, nhưng ban ngày hơi ồn do công trình gần đó.
+{LOCATION#GENERAL, neutral}
+
+#3782
+Dịch vụ giặt ủi được thực hiện nhanh chóng, nhưng không có thêm gói ưu đãi nào.
+{FACILITIES#GENERAL, neutral}
+
+#3783
+Bữa sáng được chuẩn bị đủ món cơ bản, nhưng không có sự thay đổi qua các ngày.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3784
+Nhân viên dọn phòng làm việc ổn định, không có vấn đề gì nhưng cũng không nổi bật.
+{SERVICE#GENERAL, neutral}
+
+#3785
+Hệ thống chiếu sáng trong phòng khá ổn, không quá sáng nhưng đủ dùng cho các hoạt động cơ bản.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3786
+Phòng không có tủ lạnh lớn, chỉ có minibar cơ bản phù hợp để lưu trữ đồ uống nhỏ.
+{ROOM_AMENITIES#GENERAL, neutral}
+
+#3787
+Khách sạn cung cấp đủ khăn tắm và vật dụng cá nhân, nhưng chất lượng ở mức trung bình.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#3788
+Thang máy khách sạn hoạt động tốt, nhưng có không gian khá nhỏ, không phù hợp cho nhóm lớn.
+{FACILITIES#QUALITY, neutral}
+
+#3789
+Khu vực sảnh không có nhiều ghế ngồi, phù hợp hơn với những ai không cần chờ lâu.
+{HOTEL#GENERAL, neutral}
+
+#3790
+Giá đồ uống tại quầy bar trong khách sạn ở mức trung bình, không quá cao so với mặt bằng chung.
+{FOOD&DRINKS#PRICES, neutral}
+
+#3791
+Phòng không có nhiều ổ cắm điện, nhưng vẫn đủ cho các thiết bị cơ bản như điện thoại và laptop.
+{ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#3792
+Bãi đỗ xe của khách sạn đủ rộng, nhưng không có mái che.
+{FACILITIES#GENERAL, neutral}
+
+#3793
+Hành lang được thắp sáng vừa đủ, nhưng không có cảm giác sang trọng.
+{HOTEL#DESIGN&FEATURES, neutral}
+
+#3794
+Bữa sáng có thêm lựa chọn món ăn quốc tế, nhưng khẩu phần không lớn.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3795
+Nhân viên khách sạn chào đón khách với thái độ lịch sự, nhưng không quá thân thiện.
+{SERVICE#GENERAL, neutral}
+
+#3796
+Phòng có thiết kế đơn giản, không tạo được cảm giác sang trọng hay cao cấp.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3797
+Vị trí khách sạn không gần biển, nhưng dễ dàng bắt taxi để di chuyển đến các điểm tham quan.
+{LOCATION#GENERAL, neutral}
+
+#3798
+Khách sạn cung cấp đủ các tiện nghi cơ bản, nhưng không có khu vực giải trí cho trẻ em.
+{FACILITIES#GENERAL, neutral}
+
+#3799
+Nhân viên không hỗ trợ nhiều về thông tin du lịch, nhưng trả lời các câu hỏi cơ bản đầy đủ.
+{SERVICE#GENERAL, neutral}
+
+#3800
+Khu vực chung của khách sạn sạch sẽ và thoáng mát, nhưng không có trang trí nổi bật.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#3801
+Phòng khách sạn có cửa sổ lớn nhưng không nhìn ra cảnh quan đẹp, chỉ hướng ra khu vực dân cư.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3802
+Nhân viên khách sạn hướng dẫn thủ tục check-in đúng quy trình, nhưng không cung cấp thông tin chi tiết về các dịch vụ.
+{SERVICE#GENERAL, neutral}
+
+#3803
+Giá phòng không quá cao, phù hợp cho khách du lịch tự túc, nhưng không bao gồm bất kỳ ưu đãi nào.
+{HOTEL#PRICES, neutral}
+
+#3804
+Phòng khách sạn không có bàn là, nhưng vẫn đủ các tiện nghi cơ bản cho kỳ nghỉ ngắn ngày.
+{ROOM_AMENITIES#GENERAL, neutral}
+
+#3805
+Hệ thống điều hòa hoạt động ổn định, nhưng không có chế độ điều chỉnh nhiệt độ chính xác.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#3806
+Bữa sáng đủ món ăn cơ bản, không quá đa dạng nhưng chất lượng ổn định.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3807
+Vị trí khách sạn nằm trong khu vực yên tĩnh, thích hợp cho khách không có nhu cầu khám phá nhiều.
+{LOCATION#GENERAL, neutral}
+
+#3808
+Thang máy khách sạn hoạt động bình thường, nhưng tốc độ di chuyển hơi chậm vào giờ cao điểm.
+{FACILITIES#QUALITY, neutral}
+
+#3809
+Phòng tắm sạch sẽ, nhưng không có nhiều không gian để di chuyển thoải mái.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#3810
+Nhân viên phục vụ trong nhà hàng làm việc đúng giờ nhưng không tạo cảm giác thân thiện.
+{SERVICE#GENERAL, neutral}
+
+#3811
+Khách sạn không cung cấp dịch vụ đưa đón sân bay, nhưng có thể dễ dàng bắt taxi bên ngoài.
+{FACILITIES#GENERAL, neutral}
+
+#3812
+Phòng khách sạn được bố trí hợp lý, đủ không gian cho 2 người nhưng không thích hợp với gia đình lớn.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3813
+Giá thuê xe máy tại khách sạn nằm ở mức trung bình so với các dịch vụ bên ngoài.
+{FACILITIES#PRICES, neutral}
+
+#3814
+Hệ thống nước nóng trong phòng hoạt động tốt, nhưng không có áp lực nước mạnh.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#3815
+Bữa sáng có món địa phương nhưng không thay đổi mỗi ngày, dễ gây nhàm chán cho khách lưu trú dài hạn.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3816
+Hành lang khách sạn sáng sủa và sạch sẽ, nhưng thiết kế không tạo được cảm giác ấm cúng.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#3817
+Nhân viên khách sạn thực hiện công việc đúng tiêu chuẩn, nhưng không có thêm gợi ý về các hoạt động du lịch.
+{SERVICE#GENERAL, neutral}
+
+#3818
+Không gian phòng khá thoáng, nhưng nội thất chỉ ở mức cơ bản, không tạo được cảm giác cao cấp.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3819
+Giá dịch vụ tại quầy bar hợp lý, nhưng menu đồ uống không có nhiều sự sáng tạo.
+{FOOD&DRINKS#PRICES, neutral}, {FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3820
+Phòng khách sạn không có tầm nhìn đẹp, nhưng đủ ánh sáng tự nhiên để cảm thấy dễ chịu.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3821
+Khách sạn có khu vực đậu xe rộng, nhưng không có bảo vệ giám sát liên tục.
+{FACILITIES#GENERAL, neutral}
+
+#3822
+Nhân viên dọn phòng thực hiện công việc đúng thời gian quy định, nhưng không tương tác nhiều với khách.
+{SERVICE#GENERAL, neutral}
+
+#3823
+Phòng khách sạn có thiết kế đơn giản, không gây ấn tượng mạnh nhưng phù hợp cho kỳ nghỉ ngắn.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3824
+Bữa sáng được phục vụ đúng giờ, nhưng thực đơn không có sự thay đổi so với các ngày trước.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3825
+Giá phòng không rẻ, nhưng vẫn nằm trong mức chấp nhận được với khách đi công tác.
+{HOTEL#PRICES, neutral}
+
+#3826
+Hành lang khách sạn được trang trí đơn giản, không tạo được cảm giác sang trọng.
+{HOTEL#DESIGN&FEATURES, neutral}
+
+#3827
+Nhân viên khách sạn hỗ trợ khách nhanh chóng, nhưng không cung cấp thêm các lựa chọn khác.
+{SERVICE#GENERAL, neutral}
+
+#3828
+Phòng ngủ đủ rộng cho hai người, nhưng không có nhiều chỗ để hành lý lớn.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3829
+Thang máy khách sạn vận hành tốt, nhưng hơi nhỏ và không phù hợp cho nhóm đông khách.
+{FACILITIES#QUALITY, neutral}
+
+#3830
+Giá đồ uống trong minibar nằm ở mức trung bình, không cao so với các khách sạn khác.
+{FOOD&DRINKS#PRICES, neutral}
+
+#3831
+Khách sạn cung cấp khăn tắm và vật dụng cá nhân đầy đủ, nhưng chất lượng chỉ ở mức cơ bản.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#3832
+Hệ thống điều hòa trong phòng làm việc ổn định, không gây tiếng ồn lớn.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#3833
+Phòng không có cửa sổ hướng ra bên ngoài, nhưng vẫn đảm bảo không gian thoải mái.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3834
+Giá thuê xe hơi tại khách sạn nằm trong mức trung bình, không có sự chênh lệch lớn với bên ngoài.
+{FACILITIES#PRICES, neutral}
+
+#3835
+Hành lang và khu vực chung của khách sạn sạch sẽ, nhưng không có điểm nhấn trong thiết kế.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#3836
+Nhân viên nhà hàng phục vụ nhanh chóng, nhưng không có nhiều sự tương tác với khách.
+{SERVICE#GENERAL, neutral}
+
+#3837
+Giá phòng phù hợp cho kỳ nghỉ ngắn, nhưng không có khuyến mãi hoặc ưu đãi đặc biệt.
+{HOTEL#PRICES, neutral}
+
+#3838
+Phòng khách sạn không được trang trí cầu kỳ, nhưng đủ để mang lại cảm giác sạch sẽ.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3839
+Khu vực ăn sáng rộng rãi, nhưng không có nhiều lựa chọn về đồ uống.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3840
+Hành lang khách sạn có đủ ánh sáng, nhưng không tạo được cảm giác thân thiện.
+{HOTEL#DESIGN&FEATURES, neutral}
+
+#3841
+Nhân viên bảo vệ làm việc đúng giờ, nhưng không hỗ trợ khách khi mang hành lý.
+{SERVICE#GENERAL, neutral}
+
+#3842
+Phòng có nội thất cơ bản, phù hợp với nhu cầu lưu trú ngắn hạn, không có gì đặc biệt.
+{ROOMS#GENERAL, neutral}
+
+#3843
+Giá dịch vụ giặt ủi nằm ở mức chấp nhận được, nhưng không có gói ưu đãi cho khách ở lâu dài.
+{FACILITIES#PRICES, neutral}
+
+#3844
+Thang máy hoạt động ổn định, nhưng không có điều hòa bên trong, gây nóng khi đông khách.
+{FACILITIES#QUALITY, neutral}
+
+#3845
+Bữa sáng được chuẩn bị đúng giờ, nhưng không có nhiều món ăn nóng.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3846
+Phòng khách sạn nhỏ gọn, đủ để đáp ứng các nhu cầu cơ bản, nhưng không thích hợp cho nhóm đông người.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3847
+Nhân viên lễ tân trả lời câu hỏi đầy đủ, nhưng không có gợi ý gì thêm về các dịch vụ.
+{SERVICE#GENERAL, neutral}
+
+#3848
+Hành lang khách sạn sạch sẽ và thoáng, nhưng không có ghế ngồi cho khách chờ thang máy.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#3849
+Khu vực chung của khách sạn đủ không gian để thư giãn, nhưng không có điểm đặc biệt về thiết kế.
+{HOTEL#GENERAL, neutral}
+
+#3850
+Phòng được dọn sạch hàng ngày, nhưng không có mùi thơm tạo cảm giác dễ chịu.
+{ROOMS#CLEANLINESS, neutral}
+
+#3851
+Phòng khách sạn đủ sáng, nhưng ánh sáng chỉ ở mức cơ bản, không có đèn trang trí tạo điểm nhấn.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3852
+Nhân viên lễ tân làm thủ tục check-out nhanh chóng, nhưng không kiểm tra lại phòng trước khi khách rời đi.
+{SERVICE#GENERAL, neutral}
+
+#3853
+Giá phòng hợp lý cho kỳ nghỉ ngắn, nhưng không bao gồm các dịch vụ như giặt ủi hoặc ăn sáng.
+{HOTEL#PRICES, neutral}
+
+#3854
+Phòng khách sạn có máy pha cà phê, nhưng không được bổ sung túi cà phê hàng ngày.
+{ROOM_AMENITIES#GENERAL, neutral}
+
+#3855
+Hệ thống điều hòa trong phòng ổn định, nhưng không có tính năng hẹn giờ.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#3856
+Bữa sáng bao gồm cả món Tây và món Á, nhưng không có nhiều món đặc sản địa phương.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3857
+Vị trí khách sạn gần trạm xe buýt, nhưng phải đi bộ khoảng 10 phút để tới các nhà hàng lớn.
+{LOCATION#GENERAL, neutral}
+
+#3858
+Thang máy hoạt động ổn định, nhưng không có nhạc nền hoặc màn hình hiển thị thông tin.
+{FACILITIES#QUALITY, neutral}
+
+#3859
+Phòng tắm được trang bị đầy đủ đồ dùng cơ bản, nhưng không có bàn để đồ tiện lợi.
+{ROOM_AMENITIES#GENERAL, neutral}
+
+#3860
+Nhân viên phục vụ trong nhà hàng nhanh nhẹn, nhưng không giới thiệu thêm các món nổi bật.
+{SERVICE#GENERAL, neutral}
+
+#3861
+Khách sạn không cung cấp dịch vụ massage hoặc spa, nhưng có khu vực thư giãn nhỏ ở sảnh.
+{FACILITIES#GENERAL, neutral}
+
+#3862
+Phòng ngủ rộng rãi, nhưng không có nhiều đồ trang trí để tạo cảm giác ấm cúng.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3863
+Giá thuê xe đạp nằm ở mức trung bình, phù hợp với du khách thích di chuyển gần.
+{FACILITIES#PRICES, neutral}
+
+#3864
+Hệ thống nước nóng trong phòng hoạt động ổn định, nhưng không có chế độ tiết kiệm nước.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#3865
+Bữa sáng có một số món bánh mì và trái cây, nhưng không có nhiều sự đa dạng trong đồ uống.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3866
+Hành lang khách sạn sạch sẽ và thoáng, nhưng không có nhiều ánh sáng tự nhiên.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#3867
+Nhân viên khách sạn hướng dẫn đầy đủ về các dịch vụ cơ bản, nhưng không gợi ý thêm về các địa điểm du lịch.
+{SERVICE#GENERAL, neutral}
+
+#3868
+Không gian phòng gọn gàng, phù hợp với nhu cầu cơ bản, nhưng không có gì nổi bật về mặt thiết kế.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3869
+Giá đồ ăn trong nhà hàng khách sạn nằm ở mức trung bình, không có sự chênh lệch lớn với bên ngoài.
+{FOOD&DRINKS#PRICES, neutral}
+
+#3870
+Phòng khách sạn không có cửa sổ lớn, nhưng hệ thống thông gió hoạt động tốt.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3871
+Khách sạn có khu vực để xe rộng rãi, nhưng không có mái che để bảo vệ xe khỏi thời tiết xấu.
+{FACILITIES#GENERAL, neutral}
+
+#3872
+Nhân viên dọn phòng làm việc theo lịch trình hàng ngày, nhưng không kiểm tra kỹ các chi tiết nhỏ.
+{SERVICE#GENERAL, neutral}
+
+#3873
+Phòng ngủ được trang bị nội thất cơ bản, không có điểm nhấn nào đáng chú ý trong thiết kế.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3874
+Bữa sáng phục vụ đúng giờ, nhưng không có món ăn thay đổi theo mùa.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3875
+Giá phòng ở mức hợp lý cho khách du lịch tự túc, nhưng không đi kèm bất kỳ tiện ích nào.
+{HOTEL#PRICES, neutral}
+
+#3876
+Hành lang khách sạn đủ rộng để di chuyển thoải mái, nhưng không có khu vực nghỉ chân.
+{HOTEL#DESIGN&FEATURES, neutral}
+
+#3877
+Nhân viên khách sạn hỗ trợ nhanh chóng các yêu cầu cơ bản, nhưng không đưa ra lời khuyên cá nhân.
+{SERVICE#GENERAL, neutral}
+
+#3878
+Phòng có diện tích nhỏ nhưng đủ thoải mái cho một người hoặc cặp đôi trong kỳ nghỉ ngắn ngày.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3879
+Thang máy hoạt động bình thường, nhưng không có nút ưu tiên dành cho người khuyết tật.
+{FACILITIES#QUALITY, neutral}
+
+#3880
+Giá đồ uống trong minibar nằm ở mức trung bình, không quá cao nhưng cũng không rẻ.
+{FOOD&DRINKS#PRICES, neutral}
+
+#3881
+Khách sạn cung cấp đầy đủ khăn tắm và bàn chải, nhưng không có thêm các vật dụng cao cấp.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#3882
+Hệ thống điều hòa hoạt động hiệu quả, nhưng không có chế độ tự động tắt khi đạt nhiệt độ mong muốn.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#3883
+Phòng ngủ không có ban công, nhưng vẫn đảm bảo không gian thoáng mát và sạch sẽ.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3884
+Giá thuê xe hơi của khách sạn hợp lý, phù hợp với khách đi công tác hoặc du lịch nhóm.
+{FACILITIES#PRICES, neutral}
+
+#3885
+Hành lang khách sạn được vệ sinh hàng ngày, nhưng không có mùi thơm dễ chịu.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#GENERAL, neutral}
+
+#3886
+Nhân viên phục vụ trong nhà hàng đáp ứng yêu cầu của khách nhanh chóng, nhưng không có sự tương tác nhiệt tình.
+{SERVICE#GENERAL, neutral}
+
+#3887
+Giá phòng hợp lý với các tiện nghi cơ bản, nhưng không có thêm ưu đãi dành cho khách ở lâu.
+{HOTEL#PRICES, neutral}
+
+#3888
+Phòng khách sạn được dọn sạch, nhưng không có trang trí nào nổi bật để tạo cảm giác sang trọng.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#3889
+Khu vực ăn sáng có không gian rộng rãi, nhưng không có nhiều lựa chọn về món ăn nóng.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3890
+Hành lang khách sạn được chiếu sáng đầy đủ, nhưng không tạo được cảm giác thân thiện.
+{HOTEL#DESIGN&FEATURES, neutral}
+
+#3891
+Nhân viên bảo vệ làm việc đầy đủ trách nhiệm, nhưng không hướng dẫn khách khi đến.
+{SERVICE#GENERAL, neutral}
+
+#3892
+Phòng khách sạn gọn gàng và ngăn nắp, nhưng không có đồ nội thất mang tính thẩm mỹ cao.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3893
+Giá dịch vụ giặt là của khách sạn không quá cao, nhưng không có các gói ưu đãi kèm theo.
+{FACILITIES#PRICES, neutral}
+
+#3894
+Thang máy vận hành ổn định, nhưng không có không gian phù hợp cho xe đẩy hoặc hành lý lớn.
+{FACILITIES#QUALITY, neutral}
+
+#3895
+Bữa sáng được chuẩn bị đúng giờ, nhưng không có nhiều món ăn quốc tế.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3896
+Phòng nhỏ và đơn giản, phù hợp với khách đi du lịch một mình, nhưng không thích hợp cho nhóm.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3897
+Nhân viên lễ tân lịch sự và chu đáo, nhưng không hướng dẫn khách tận tình về các dịch vụ tại khách sạn.
+{SERVICE#GENERAL, neutral}
+
+#3898
+Hành lang sạch sẽ và thoáng, nhưng không có khu vực nghỉ chân cho khách chờ thang máy.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#3899
+Phòng khách sạn được trang trí đơn giản, không có cảm giác quá cầu kỳ nhưng vẫn sạch sẽ.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#3900
+Khu vực chung của khách sạn đủ rộng rãi, nhưng không có các tiện nghi giải trí dành cho khách.
+{HOTEL#GENERAL, neutral}
+
+#3901
+Phong trong sach se nhung ko co gi dac biet ve thiet ke.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#3902
+Gia phong hop ly nhung ko bao gom bua sang.
+{HOTEL#PRICES, neutral}
+
+#3903
+Nhan vien le tan lam viec nhanh nhung ko tu van ky cac dich vu cua khach san.
+{SERVICE#GENERAL, neutral}
+
+#3904
+Phong tam day du do dung can thiet nhung ko co ke de do.
+{ROOM_AMENITIES#GENERAL, neutral}
+
+#3905
+He thong dieu hoa hoat dong on nhung ko co che do hen gio.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#3906
+Bua sang co mon co ban nhung ko co mon dac san dia phuong.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3907
+Vi tri khach san gan tram xe buyt nhung di bo khoang 10 phut moi toi nha hang lon.
+{LOCATION#GENERAL, neutral}
+
+#3908
+Thang may chay on nhung k co nhanh vao gio cao diem.
+{FACILITIES#QUALITY, neutral}
+
+#3909
+Phong tam sach nhung ko co nhieu khong gian di chuyen.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#3910
+Nhan vien phuc vu nha hang nhiet tinh nhung ko tu van mon noi bat.
+{SERVICE#GENERAL, neutral}
+
+#3911
+Khach san ko co dich vu spa nhung co khu thu gian nho o sanh.
+{FACILITIES#GENERAL, neutral}
+
+#3912
+Phong ngu du rong cho 2 nguoi nhung ko thich hop cho gia dinh lon.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3913
+Gia thue xe dap o muc trung binh, thich hop voi khach thich di chuyen gan.
+{FACILITIES#PRICES, neutral}
+
+#3914
+Nuoc nong on dinh nhung ko co che do tiet kiem nuoc.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#3915
+Bua sang co mon banh mi nhung ko nhieu su da dang ve do uong.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3916
+Hanh lang sach nhung k co anh sang tu nhien nhieu.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#3917
+Nhan vien huong dan dich vu co ban nhung ko goi y dia diem du lich gan.
+{SERVICE#GENERAL, neutral}
+
+#3918
+Phong thoang nhung noi that chi o muc co ban, ko an tuong.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3919
+Gia do uong trong minibar o muc trung binh, ko qua cao nhung cung ko re.
+{FOOD&DRINKS#PRICES, neutral}
+
+#3920
+Phong ko co cua so nhung thong gio on dinh.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3921
+Khu de xe rong nhung ko co mai che.
+{FACILITIES#GENERAL, neutral}
+
+#3922
+Nhan vien don phong dung gio nhung ko kiem tra ky chi tiet.
+{SERVICE#GENERAL, neutral}
+
+#3923
+Phong ngu co noi that co ban, ko co diem nhan ve thiet ke.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3924
+Bua sang dung gio nhung ko co mon thay doi theo ngay.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3925
+Gia phong hop ly nhung ko co uu dai them cho khach o lau.
+{HOTEL#PRICES, neutral}
+
+#3926
+Hanh lang du rong nhung ko co khu vuc nghi chan.
+{HOTEL#DESIGN&FEATURES, neutral}
+
+#3927
+Nhan vien ho tro nhiet tinh nhung ko dua ra loi khuyen ca nhan.
+{SERVICE#GENERAL, neutral}
+
+#3928
+Phong nho nhung du de thoai mai cho ky nghi ngan.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3929
+Thang may chay tot nhung k co nut uu tien cho nguoi khuyet tat.
+{FACILITIES#QUALITY, neutral}
+
+#3930
+Do uong minibar gia vua phai nhung ko nhieu lua chon.
+{FOOD&DRINKS#PRICES, neutral}
+
+#3931
+Khach san cung cap khan tam day du nhung chat luong o muc co ban.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#3932
+He thong dieu hoa ko gay on nhung ko co che do tu dong tat.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#3933
+Phong ko co ban cong nhung dam bao thong thoang.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3934
+Gia thue xe hop ly, phu hop voi khach di du lich nhom.
+{FACILITIES#PRICES, neutral}
+
+#3935
+Hanh lang ve sinh on nhung k co mui thom tao cam giac de chiu.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#GENERAL, neutral}
+
+#3936
+Nhan vien phuc vu dap ung yeu cau nhanh nhung ko tuong tac nhiet tinh.
+{SERVICE#GENERAL, neutral}
+
+#3937
+Gia phong hop ly voi tien nghi co ban, nhung ko co uu dai dac biet.
+{HOTEL#PRICES, neutral}
+
+#3938
+Phong don sach nhung k co trang tri tao cam giac cao cap.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#3939
+Khu an sang thoang nhung k nhieu mon nong.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3940
+Hanh lang anh sang day du nhung ko tao cam giac am ap.
+{HOTEL#DESIGN&FEATURES, neutral}
+
+#3941
+Nhan vien bao ve lam viec tot nhung ko chu dong huong dan khach.
+{SERVICE#GENERAL, neutral}
+
+#3942
+Phong gon gang nhung k co do noi that tham my cao.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3943
+Gia giat la o muc vua phai nhung ko co uu dai kem theo.
+{FACILITIES#PRICES, neutral}
+
+#3944
+Thang may chay on nhung ko thich hop cho hanh ly lon.
+{FACILITIES#QUALITY, neutral}
+
+#3945
+Bua sang dung gio nhung k nhieu lua chon mon au.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3946
+Phong don gian nhung thich hop voi khach du lich mot minh.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3947
+Nhan vien lich su nhung k chu dong gioi thieu dich vu khach san.
+{SERVICE#GENERAL, neutral}
+
+#3948
+Hanh lang sach nhung ko co khu nghi cho khach cho thang may.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#3949
+Phong sach nhung ko co noi that tao diem nhan.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#3950
+Khu vuc chung cua khach san du rong nhung ko co tien nghi giai tri.
+{HOTEL#GENERAL, neutral}
+
+#3951
+Phong thoang nhung ko co nhieu anh sang tu nhien.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3952
+Nhan vien don phong dung lich nhung ko chu dong kiem tra vat dung con thieu.
+{SERVICE#GENERAL, neutral}
+
+#3953
+Gia phong tam chap nhan duoc nhung ko kem bua sang.
+{HOTEL#PRICES, neutral}
+
+#3954
+Phong tam co do dung day du nhung ko co ke de do.
+{ROOM_AMENITIES#GENERAL, neutral}
+
+#3955
+He thong dieu hoa lam viec tot nhung ko co chuc nang tiet kiem dien.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#3956
+Bua sang co mon pho bien nhung k thay doi qua cac ngay.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3957
+Khach san gan tram xe buyt nhung ko gan khu mua sam.
+{LOCATION#GENERAL, neutral}
+
+#3958
+Thang may hoat dong binh thuong nhung k co man hinh thong bao tang.
+{FACILITIES#QUALITY, neutral}
+
+#3959
+Phong tam sach nhung k co thiet ke hien dai.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#3960
+Nhan vien nha hang nhanh nhung ko nhiet tinh khi tuong tac.
+{SERVICE#GENERAL, neutral}
+
+#3961
+Khach san ko co spa nhung co mot goc thu gian nho.
+{FACILITIES#GENERAL, neutral}
+
+#3962
+Phong vua du cho hai nguoi nhung ko phu hop voi gia dinh lon.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3963
+Gia thue xe dap vua tam nhung ko co uu dai kem theo.
+{FACILITIES#PRICES, neutral}
+
+#3964
+Nuoc nong trong phong tam on dinh nhung ko co ap luc manh.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#3965
+Bua sang gom nhieu loai banh nhung ko co mon nong phu hop.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3966
+Hanh lang sach nhung ko co tranh trang tri tao an tuong.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#3967
+Nhan vien chi ho tro cac yeu cau co ban nhung ko dua ra goi y du lich.
+{SERVICE#GENERAL, neutral}
+
+#3968
+Phong don gian nhung day du cac do dung co ban.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3969
+Gia minibar tam chap nhan duoc nhung ko co mon moi la.
+{FOOD&DRINKS#PRICES, neutral}
+
+#3970
+Phong ko co cua so nhung dam bao luu thong khong khi.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3971
+Khu de xe rong nhung ko co bao ve truc lien tuc.
+{FACILITIES#GENERAL, neutral}
+
+#3972
+Nhan vien don phong lam viec dung lich nhung k tuong tac nhieu voi khach.
+{SERVICE#GENERAL, neutral}
+
+#3973
+Phong sach nhung noi that chi o muc trung binh.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#3974
+Bua sang on nhung ko co nhieu lua chon phong phu.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3975
+Gia phong thich hop voi khach di cong tac nhung ko co uu dai.
+{HOTEL#PRICES, neutral}
+
+#3976
+Hanh lang thong thoang nhung ko co cho ngoi nghi.
+{HOTEL#DESIGN&FEATURES, neutral}
+
+#3977
+Nhan vien tu van nhung chi dua thong tin co ban, ko chu dong gioi thieu dich vu phu.
+{SERVICE#GENERAL, neutral}
+
+#3978
+Phong gon gang nhung nho, thich hop cho khach di mot minh.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3979
+Thang may hoat dong on nhung k co nut danh cho khach khuyet tat.
+{FACILITIES#QUALITY, neutral}
+
+#3980
+Do uong trong minibar tam duoc nhung k co mon dac biet.
+{FOOD&DRINKS#PRICES, neutral}
+
+#3981
+Khach san cung cap khan day du nhung chat luong binh thuong.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#3982
+He thong dieu hoa on nhung ko co che do tu dong tat.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#3983
+Phong ko co ban cong nhung khong gian van thoai mai.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3984
+Gia thue xe hoi vua phai nhung ko co uu dai gia dinh.
+{FACILITIES#PRICES, neutral}
+
+#3985
+Hanh lang sach nhung ko co diem nhan thiet ke noi bat.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#3986
+Nhan vien nha hang dap ung duoc nhung ko chu dong tuong tac nhiet tinh.
+{SERVICE#GENERAL, neutral}
+
+#3987
+Gia phong hop ly nhung ko kem bua sang.
+{HOTEL#PRICES, neutral}
+
+#3988
+Phong duoc don sach se nhung ko tao cam giac sang trong.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#3989
+Khu an sang thoang nhung ko co nhieu mon nong.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3990
+Hanh lang day du anh sang nhung ko tao cam giac am ap.
+{HOTEL#DESIGN&FEATURES, neutral}
+
+#3991
+Nhan vien bao ve lam viec dung gio nhung ko chu dong ho tro.
+{SERVICE#GENERAL, neutral}
+
+#3992
+Phong gon gang nhung noi that ko co gi an tuong.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3993
+Gia giat la tam trung nhung ko co goi uu dai khuyen mai.
+{FACILITIES#PRICES, neutral}
+
+#3994
+Thang may chay tot nhung ko co du phong khi dong khach.
+{FACILITIES#QUALITY, neutral}
+
+#3995
+Bua sang du co ban nhung k co mon dac trung vung mien.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#3996
+Phong don gian nhung thich hop voi khach o ngan han.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#3997
+Nhan vien le tan lam viec dung quy trinh nhung ko chu dong chao don khach.
+{SERVICE#GENERAL, neutral}
+
+#3998
+Hanh lang thoang nhung ko co khu vuc nghi cho khach.
+{HOTEL#DESIGN&FEATURES, neutral}
+
+#3999
+Phong du don dep nhung ko co noi that tao cam giac cao cap.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4000
+Khu vuc chung khach san thoang nhung ko co cac tien nghi giai tri nhu phong tap gym.
+{HOTEL#GENERAL, neutral}
+
+#4001
+Phong du rong nhung noi that chi o muc co ban, ko co diem nhan gi dac biet.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4002
+Nhan vien le tan huong dan nhanh nhung k co giai thich chi tiet cac dich vu cua khach san.
+{SERVICE#GENERAL, neutral}
+
+#4003
+Gia phong o muc vua phai nhung ko kem bua sang hay dich vu tang kem.
+{HOTEL#PRICES, neutral}
+
+#4004
+Phong tam sach nhung ke de do qua nho, ko tien loi cho viec su dung.
+{ROOM_AMENITIES#GENERAL, neutral}
+
+#4005
+Dieu hoa lam viec tot nhung ko co chuc nang dieu chinh nhiet do chinh xac.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#4006
+Bua sang co mon an nhe nhung ko co su thay doi qua cac ngay.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4007
+Vi tri khach san gan tram xe nhung phai di bo xa de den khu vui choi.
+{LOCATION#GENERAL, neutral}
+
+#4008
+Thang may hoat dong binh thuong nhung ko co che do tu dong mo cua lau hon.
+{FACILITIES#QUALITY, neutral}
+
+#4009
+Phong tam thoai mai nhung k co khong gian day du cho viec trang diem.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4010
+Nhan vien nha hang phuc vu dung gio nhung ko tao cam giac nhiet tinh.
+{SERVICE#GENERAL, neutral}
+
+#4011
+Khach san ko co ho boi nhung co san vuon de nghi ngoi.
+{FACILITIES#GENERAL, neutral}
+
+#4012
+Phong ngu thiet ke don gian nhung du de nghi ngoi ngan han.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4013
+Gia thue xe dap hop ly nhung ko kem cac goi uu dai khac.
+{FACILITIES#PRICES, neutral}
+
+#4014
+He thong nuoc nong trong phong tam lam viec on nhung ko manh.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#4015
+Bua sang du gom mon co ban nhung k co mon an nong vua lam.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4016
+Hanh lang du sach se nhung ko co trang tri gi dac biet.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#4017
+Nhan vien chi dap ung nhung gi khach yeu cau, k tu van nhieu ve cac lua chon khac.
+{SERVICE#GENERAL, neutral}
+
+#4018
+Phong du don dep nhung ko co thiet ke an tuong de tao cam giac thoai mai.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4019
+Gia minibar on nhung ko co nhieu lua chon ve do uong.
+{FOOD&DRINKS#PRICES, neutral}
+
+#4020
+Phong ko co cua so nhung thong gio tot, phu hop cho nghi ngan ngay.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4021
+Khu de xe co khong gian rong nhung ko co camera giam sat.
+{FACILITIES#GENERAL, neutral}
+
+#4022
+Nhan vien don phong lam dung gio nhung ko chu dong ho tro khach.
+{SERVICE#GENERAL, neutral}
+
+#4023
+Phong ngu sach nhung ko co noi that cao cap hay sang trong.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4024
+Bua sang dap ung nhu cau co ban nhung ko co mon dac trung dia phuong.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4025
+Gia phong vua phai nhung ko bao gom cac dich vu phu nhu giat ui.
+{HOTEL#PRICES, neutral}
+
+#4026
+Hanh lang duong di thong thoang nhung k co cho nghi ngoi cho khach.
+{HOTEL#DESIGN&FEATURES, neutral}
+
+#4027
+Nhan vien tu van dung nhu mong doi nhung ko chu dong goi y them cac hoat dong khac.
+{SERVICE#GENERAL, neutral}
+
+#4028
+Phong khong qua rong nhung du su dung cho gia dinh nho.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4029
+Thang may chay binh thuong nhung ko co muc do nhanh hon khi co nhieu khach.
+{FACILITIES#QUALITY, neutral}
+
+#4030
+Do uong trong minibar co gia phai chang nhung ko nhieu lua chon ve mon dac biet.
+{FOOD&DRINKS#PRICES, neutral}
+
+#4031
+Phong tam co do dung day du nhung chat luong o muc trung binh.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#4032
+Dieu hoa hoat dong kha on nhung ko co che do gio nhe vao ban dem.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#4033
+Phong thiet ke don gian, ko co cua so nhung van giu duoc do thoai mai.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4034
+Gia thue xe hoi vua phai nhung ko co nhieu lua chon loai xe.
+{FACILITIES#PRICES, neutral}
+
+#4035
+Hanh lang sach se nhung ko tao cam giac dep mat hay an tuong.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#4036
+Nhan vien nha hang ho tro khach nhanh nhung ko tao an tuong tot bang thai do.
+{SERVICE#GENERAL, neutral}
+
+#4037
+Gia phong hop ly nhung ko kem uu dai khi dat nhieu dem.
+{HOTEL#PRICES, neutral}
+
+#4038
+Phong tam sach nhung ko co nuoc rua tay mang den cam giac hoan hao.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4039
+Bua sang phuc vu nhanh nhung k co nhieu lua chon ve do uong nong.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4040
+Hanh lang khach san co du anh sang nhung ko co thiet ke hien dai.
+{HOTEL#DESIGN&FEATURES, neutral}
+
+#4041
+Nhan vien bao ve lam dung nhiem vu nhung ko chu dong ho tro khach van chuyen hanh ly.
+{SERVICE#GENERAL, neutral}
+
+#4042
+Phong gon gang nhung noi that khong an tuong, chi dap ung nhu cau co ban.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4043
+Gia giat ui vua tam nhung ko kem uu dai cho khach o lau.
+{FACILITIES#PRICES, neutral}
+
+#4044
+Thang may hoat dong binh thuong nhung k co cho cho hanh ly lon.
+{FACILITIES#QUALITY, neutral}
+
+#4045
+Bua sang du dap ung nhu cau nhung ko co mon au de tao diem nhan.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4046
+Phong gon gang, thich hop cho ky nghi ngan nhung ko phu hop cho gia dinh lon.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4047
+Nhan vien le tan lich su nhung k chu dong gioi thieu dich vu cua khach san.
+{SERVICE#GENERAL, neutral}
+
+#4048
+Hanh lang sach nhung k co cho nghi cho khach doi thang may.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#4049
+Phong duoc don dep nhung ko co noi that tao cam giac sang trong.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4050
+Khu vuc chung cua khach san thoang nhung ko co cac tien nghi cao cap nhu spa hay ho boi.
+{HOTEL#GENERAL, neutral}
+
+#4051
+Phòng sạch sẽ, nhưng nội thất chỉ ở mức bt, k có gì nổi bật.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4052
+Nhân viên lễ tân làm việc nhanh nhưng kp tận tình trong việc hướng dẫn khách.
+{SERVICE#GENERAL, neutral}
+
+#4053
+Giá phòng hợp lý, nhưng ko kèm theo dịch vụ ăn sáng hoặc các ưu đãi đặc biệt.
+{HOTEL#PRICES, neutral}
+
+#4054
+Phòng tắm đầy đủ đồ dùng cơ bản, nhưng hok có kệ để đồ, hơi bất tiện.
+{ROOM_AMENITIES#GENERAL, neutral}
+
+#4055
+Hệ thống điều hòa hoạt động oke, nhưng kô có chế độ hẹn giờ.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#4056
+Bữa sáng có vài món cơ bản, nhưng ko thay đổi menu theo ngày, cảm giác hơi chán.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4057
+Vị trí khách sạn gần trạm xe buýt, nhưng cần đi bộ wa xa để tới các quán ăn.
+{LOCATION#GENERAL, neutral}
+
+#4058
+Thang máy chạy oke nhưng tốc độ hơi chậm vào giờ cao điểm.
+{FACILITIES#QUALITY, neutral}
+
+#4059
+Phòng tắm sạch sẽ, nhưng thiết kế hơi chật chội, kô thoải mái lắm.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4060
+Nhân viên phục vụ nhà hàng thân thiện, nhưng chỉ làm đúng yêu cầu, kp linh hoạt.
+{SERVICE#GENERAL, neutral}
+
+#4061
+Khách sạn kô có hồ bơi nhưng có khu vườn nhỏ để nghỉ ngơi, cảm giác bt.
+{FACILITIES#GENERAL, neutral}
+
+#4062
+Phòng ngủ thiết kế đơn giản, thích hợp cho kỳ nghỉ ngắn, nhưng kp phù hợp vs gia đình lớn.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4063
+Giá thuê xe đạp ở mức bt, nhưng ko có chương trình ưu đãi nào kèm theo.
+{FACILITIES#PRICES, neutral}
+
+#4064
+Hệ thống nước nóng oke, nhưng áp lực nước hơi yếu, dùng cũng đx.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#4065
+Bữa sáng chỉ có các món cơ bản, kp có nhiều lựa chọn về đồ uống nóng.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4066
+Hành lang khách sạn sạch sẽ nhưng hơi tối, thiết kế cũng bt, kô có gì nổi bật.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#4067
+Nhân viên đáp ứng tốt các yêu cầu cơ bản của khách, nhưng kp đưa ra gợi ý thêm về dịch vụ.
+{SERVICE#GENERAL, neutral}
+
+#4068
+Phòng thiết kế đơn giản, không cầu kỳ, nhưng vẫn đủ để nghỉ ngơi thoải mái.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4069
+Giá minibar hợp lý, nhưng các lựa chọn về đồ uống khá bt, kô có gì đặc biệt.
+{FOOD&DRINKS#PRICES, neutral}
+
+#4070
+Phòng kô có cửa sổ lớn, nhưng hệ thống thông gió hoạt động oke.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4071
+Khu để xe rộng rãi, nhưng kô có bảo vệ túc trực 24/7, chỉ ở mức bt.
+{FACILITIES#GENERAL, neutral}
+
+#4072
+Nhân viên dọn phòng làm việc đúng giờ, nhưng kô chú ý đến các chi tiết nhỏ.
+{SERVICE#GENERAL, neutral}
+
+#4073
+Phòng ngủ sạch sẽ, nhưng nội thất kô sang trọng, chỉ ở mức bt.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4074
+Bữa sáng đủ các món cơ bản, nhưng menu kô thay đổi, dễ gây nhàm chán nếu ở lâu.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4075
+Giá phòng hợp lý vs các tiện nghi cơ bản, nhưng kp có khuyến mãi hay ưu đãi đặc biệt.
+{HOTEL#PRICES, neutral}
+
+#4076
+Hành lang rộng rãi, nhưng kô có khu vực nghỉ chân cho khách.
+{HOTEL#DESIGN&FEATURES, neutral}
+
+#4077
+Nhân viên chỉ hỗ trợ các yêu cầu cơ bản của khách, kp đưa ra gợi ý thêm về các địa điểm du lịch.
+{SERVICE#GENERAL, neutral}
+
+#4078
+Phòng ngủ hơi nhỏ, nhưng vẫn đủ để 2 người sử dụng, phù hợp cho kỳ nghỉ ngắn.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4079
+Thang máy hoạt động ổn, nhưng hơi chật, kô thoải mái khi di chuyển với hành lý lớn.
+{FACILITIES#QUALITY, neutral}
+
+#4080
+Đồ uống trong minibar có giá hợp lý, nhưng các món kô đa dạng, chỉ ở mức bt.
+{FOOD&DRINKS#PRICES, neutral}
+
+#4081
+Khách sạn cung cấp đủ khăn tắm và xà phòng, nhưng chất lượng ở mức bt.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#4082
+Hệ thống điều hòa làm việc tốt, nhưng kô có chức năng tự động điều chỉnh theo nhiệt độ ngoài trời.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#4083
+Phòng ngủ kô có ban công, nhưng không gian vẫn đủ thoáng mát để cảm thấy thoải mái.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4084
+Giá thuê xe hơi của khách sạn hợp lý, nhưng kô có nhiều loại xe để lựa chọn.
+{FACILITIES#PRICES, neutral}
+
+#4085
+Hành lang sạch sẽ, nhưng kô có mùi thơm dễ chịu hoặc trang trí bắt mắt.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#4086
+Nhân viên nhà hàng phục vụ đúng giờ, nhưng kô tạo cảm giác thân thiện khi giao tiếp.
+{SERVICE#GENERAL, neutral}
+
+#4087
+Giá phòng kô cao, nhưng cũng kô đi kèm với các tiện ích bổ sung như giặt là hoặc bữa sáng.
+{HOTEL#PRICES, neutral}
+
+#4088
+Phòng sạch sẽ và ngăn nắp, nhưng nội thất kô tạo được cảm giác sang trọng.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4089
+Khu vực ăn sáng rộng rãi, nhưng các món ăn khá bt, kô có gì đặc biệt.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4090
+Hành lang khách sạn đủ ánh sáng, nhưng thiết kế kô hiện đại hay có điểm nhấn.
+{HOTEL#DESIGN&FEATURES, neutral}
+
+#4091
+Nhân viên bảo vệ làm đúng trách nhiệm, nhưng kô chủ động hỗ trợ khách khi cần.
+{SERVICE#GENERAL, neutral}
+
+#4092
+Phòng sạch sẽ, nội thất đầy đủ, nhưng kô có thiết kế gì nổi bật để tạo ấn tượng.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4093
+Giá dịch vụ giặt là ở mức hợp lý, nhưng kô có chương trình ưu đãi cho khách ở dài ngày.
+{FACILITIES#PRICES, neutral}
+
+#4094
+Thang máy vận hành oke, nhưng hơi chậm khi đông khách.
+{FACILITIES#QUALITY, neutral}
+
+#4095
+Bữa sáng được phục vụ đúng giờ, nhưng các món ăn nóng hơi ít, kô phong phú.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4096
+Phòng ngủ thiết kế đơn giản, nhưng vẫn đáp ứng nhu cầu cơ bản cho kỳ nghỉ ngắn.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4097
+Nhân viên lễ tân lịch sự, nhưng kô chủ động giới thiệu các dịch vụ của khách sạn.
+{SERVICE#GENERAL, neutral}
+
+#4098
+Hành lang sạch sẽ và thoáng mát, nhưng kô có khu vực ghế ngồi cho khách chờ thang máy.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#4099
+Phòng ngủ gọn gàng, nhưng nội thất kô có gì đặc biệt để tạo cảm giác ấn tượng.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4100
+Khu vực chung của khách sạn rộng rãi, nhưng kô có các tiện nghi giải trí cao cấp như phòng gym.
+{HOTEL#GENERAL, neutral}
+
+#4101
+Phòng đủ tiện nghi cơ bản nhưng kô có thiết kế hiện đại, cảm giác bt.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4102
+Nhân viên lễ tân hỗ trợ nhanh, nhưng kô nhiệt tình khi giải đáp thắc mắc của khách.
+{SERVICE#GENERAL, neutral}
+
+#4103
+Giá phòng hợp lý nhưng kô kèm ưu đãi cho khách ở nhiều ngày.
+{HOTEL#PRICES, neutral}
+
+#4104
+Phòng tắm sạch sẽ, nhưng hok có đồ dùng bổ sung như dầu xả hoặc kem đánh răng.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4105
+Hệ thống điều hòa hoạt động oke nhưng kô có chế độ tự động điều chỉnh nhiệt độ.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#4106
+Bữa sáng phục vụ đúng giờ nhưng các món ăn hơi bt, kô có gì nổi bật.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4107
+Vị trí khách sạn gần khu trung tâm, nhưng cần đi bộ khá xa để đến các điểm ăn uống lớn.
+{LOCATION#GENERAL, neutral}
+
+#4108
+Thang máy chạy oke, nhưng không gian hơi nhỏ, kô thoải mái khi đông khách.
+{FACILITIES#QUALITY, neutral}
+
+#4109
+Phòng tắm sạch nhưng thiết kế thiếu kệ để đồ, cảm giác hơi bất tiện.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4110
+Nhân viên phục vụ đúng giờ nhưng kô gợi ý thêm các món đặc biệt trong thực đơn.
+{SERVICE#GENERAL, neutral}
+
+#4111
+Khách sạn kô có hồ bơi, nhưng bù lại có sân vườn để nghỉ ngơi thư giãn.
+{FACILITIES#GENERAL, neutral}
+
+#4112
+Phòng ngủ thiết kế đơn giản, kô cầu kỳ nhưng vẫn đủ để nghỉ ngơi thoải mái.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4113
+Giá thuê xe đạp khá hợp lý, nhưng kô có gói khuyến mãi cho khách ở dài ngày.
+{FACILITIES#PRICES, neutral}
+
+#4114
+Nước nóng trong phòng tắm đủ dùng nhưng áp lực hơi yếu, chỉ ở mức bt.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#4115
+Bữa sáng kô thay đổi qua các ngày, nhưng vẫn có đủ các món cơ bản.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4116
+Hành lang sạch sẽ nhưng ánh sáng hơi yếu, kô tạo được cảm giác sáng sủa.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#4117
+Nhân viên hỗ trợ khách đúng theo yêu cầu, nhưng kô đưa ra các gợi ý thêm về địa điểm du lịch.
+{SERVICE#GENERAL, neutral}
+
+#4118
+Phòng nhỏ gọn, thích hợp cho một người ở ngắn ngày, nhưng kô phù hợp cho gia đình.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4119
+Đồ uống trong minibar có giá hợp lý, nhưng các lựa chọn khá bt, kô đặc biệt.
+{FOOD&DRINKS#PRICES, neutral}
+
+#4120
+Phòng ngủ kô có cửa sổ lớn, nhưng hệ thống thông gió đủ để cảm thấy thoải mái.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4121
+Khu vực đậu xe đủ rộng, nhưng kô có mái che bảo vệ xe khỏi mưa nắng.
+{FACILITIES#GENERAL, neutral}
+
+#4122
+Nhân viên dọn phòng làm việc đúng giờ, nhưng kô kiểm tra kỹ các chi tiết nhỏ.
+{SERVICE#GENERAL, neutral}
+
+#4123
+Phòng sạch sẽ, nhưng nội thất đơn giản, kô tạo cảm giác cao cấp hay ấn tượng.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4124
+Bữa sáng đầy đủ các món cơ bản, nhưng kô có món đặc sản địa phương.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4125
+Giá phòng vừa phải nhưng kô bao gồm bữa sáng hay các dịch vụ phụ.
+{HOTEL#PRICES, neutral}
+
+#4126
+Hành lang rộng rãi, nhưng kô có khu vực nghỉ chân hay ghế ngồi cho khách.
+{HOTEL#DESIGN&FEATURES, neutral}
+
+#4127
+Nhân viên chỉ đáp ứng yêu cầu cơ bản, kô nhiệt tình giới thiệu thêm các dịch vụ khác.
+{SERVICE#GENERAL, neutral}
+
+#4128
+Phòng hơi nhỏ, nhưng vẫn đủ thoải mái cho hai người ở ngắn hạn.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4129
+Thang máy hoạt động ổn định nhưng hơi chậm khi có nhiều khách sử dụng.
+{FACILITIES#QUALITY, neutral}
+
+#4130
+Đồ uống trong minibar giá cả phải chăng, nhưng kô đa dạng các loại.
+{FOOD&DRINKS#PRICES, neutral}
+
+#4131
+Khách sạn cung cấp đủ khăn tắm và xà phòng, nhưng chất lượng chỉ ở mức bt.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#4132
+Hệ thống điều hòa làm việc ổn nhưng kô có chế độ tiết kiệm điện năng.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#4133
+Phòng ngủ kô có ban công, nhưng không gian vẫn thoáng mát và sạch sẽ.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4134
+Giá thuê xe hơi hợp lý nhưng kô có nhiều lựa chọn về loại xe.
+{FACILITIES#PRICES, neutral}
+
+#4135
+Hành lang sạch sẽ, nhưng kô có trang trí nổi bật, cảm giác hơi bt.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#4136
+Nhân viên phục vụ nhanh chóng, nhưng kô tạo được cảm giác thân thiện khi giao tiếp.
+{SERVICE#GENERAL, neutral}
+
+#4137
+Giá phòng ổn nhưng kô có thêm các dịch vụ đi kèm như giặt ủi hay bữa sáng.
+{HOTEL#PRICES, neutral}
+
+#4138
+Phòng ngủ sạch sẽ, nhưng nội thất chỉ ở mức trung bình, kô có gì ấn tượng.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4139
+Khu vực ăn sáng rộng rãi, nhưng các món ăn nóng hơi ít, cảm giác bt.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4140
+Hành lang khách sạn đủ sáng nhưng thiết kế hơi đơn giản, kô tạo điểm nhấn.
+{HOTEL#DESIGN&FEATURES, neutral}
+
+#4141
+Nhân viên bảo vệ làm việc đúng nhiệm vụ, nhưng kô chủ động hỗ trợ khách khi cần.
+{SERVICE#GENERAL, neutral}
+
+#4142
+Phòng ngủ gọn gàng nhưng nội thất kô có gì nổi bật, chỉ đáp ứng nhu cầu cơ bản.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4143
+Giá dịch vụ giặt ủi hợp lý, nhưng kô có chương trình giảm giá cho khách ở dài ngày.
+{FACILITIES#PRICES, neutral}
+
+#4144
+Thang máy vận hành oke, nhưng hơi chậm khi khách đông.
+{FACILITIES#QUALITY, neutral}
+
+#4145
+Bữa sáng được phục vụ đúng giờ, nhưng kô đa dạng các món ăn quốc tế.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4146
+Phòng thiết kế đơn giản, đủ dùng cho kỳ nghỉ ngắn, nhưng kô phù hợp cho nhóm lớn.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4147
+Nhân viên lễ tân làm việc đúng quy trình nhưng kô chào đón khách một cách thân thiện.
+{SERVICE#GENERAL, neutral}
+
+#4148
+Hành lang sạch sẽ nhưng kô có khu vực ghế ngồi chờ thang máy.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#4149
+Phòng ngủ gọn gàng, sạch sẽ, nhưng nội thất kô có cảm giác sang trọng.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4150
+Khu vực chung của khách sạn đủ rộng, nhưng kô có các tiện ích giải trí như phòng gym hoặc spa.
+{HOTEL#GENERAL, neutral}
+
+#4151
+Phòng hơi chật, nhưng cách bố trí đồ dùng hợp lý giúp không gian đỡ ngột ngạt.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4152
+Nhân viên lễ tân hỗ trợ oke khi làm thủ tục, nhưng kô giới thiệu rõ về các dịch vụ đi kèm.
+{SERVICE#GENERAL, neutral}
+
+#4153
+Giá phòng ở mức trung bình, nhưng kô bao gồm bữa sáng hay dịch vụ giặt là miễn phí.
+{HOTEL#PRICES, neutral}
+
+#4154
+Phòng tắm có đầy đủ đồ dùng cá nhân nhưng thiết kế hơi cũ, cảm giác bt.
+{ROOM_AMENITIES#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4155
+Điều hòa làm lạnh nhanh nhưng kô có chế độ làm ấm, hơi bất tiện vào ngày lạnh.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#4156
+Bữa sáng được phục vụ đúng giờ, nhưng menu không có nhiều lựa chọn mới mẻ.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4157
+Khách sạn nằm ở vị trí yên tĩnh, nhưng kô gần các điểm du lịch nổi bật, cần di chuyển thêm.
+{LOCATION#GENERAL, neutral}
+
+#4158
+Thang máy chạy khá ổn định nhưng kô có nút ưu tiên cho người già hay người khuyết tật.
+{FACILITIES#QUALITY, neutral}
+
+#4159
+Phòng tắm sạch nhưng vòi nước hơi cũ, áp lực nước chỉ ở mức bt, chưa thực sự tốt.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4160
+Nhân viên nhà hàng phục vụ tốt, nhưng kô nhiệt tình trong việc tư vấn món ăn phù hợp.
+{SERVICE#GENERAL, neutral}
+
+#4161
+Khách sạn kô có bể bơi, nhưng có khu vực sân vườn nhỏ để khách thư giãn.
+{FACILITIES#GENERAL, neutral}
+
+#4162
+Phòng ngủ có cửa sổ lớn nhưng kô nhìn ra cảnh đẹp, chỉ hướng vào khu dân cư.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4163
+Giá thuê xe máy ở khách sạn oke, nhưng xe hơi cũ, kô có lựa chọn xe đời mới.
+{FACILITIES#PRICES, neutral}
+
+#4164
+Nước nóng trong phòng tắm hoạt động tốt, nhưng vòi hoa sen hơi khó điều chỉnh.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#4165
+Bữa sáng có món Á và món Âu, nhưng hương vị chỉ ở mức bt, kô quá ấn tượng.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4166
+Hành lang sạch sẽ, nhưng thiếu ánh sáng tự nhiên, tạo cảm giác hơi bí bách.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#4167
+Nhân viên lễ tân hỗ trợ check-in nhanh chóng, nhưng kô giới thiệu chi tiết về nội quy khách sạn.
+{SERVICE#GENERAL, neutral}
+
+#4168
+Phòng đơn giản, đầy đủ tiện nghi nhưng thiếu một vài vật dụng như bàn làm việc nhỏ.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4169
+Đồ uống trong minibar giá cả hợp lý, nhưng kô có các lựa chọn độc đáo hay địa phương.
+{FOOD&DRINKS#PRICES, neutral}
+
+#4170
+Phòng ngủ kô có ban công nhưng hệ thống thông gió oke, không gây cảm giác ngột ngạt.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4171
+Khu vực đỗ xe rộng nhưng kô có bảo vệ thường trực, chỉ dừng ở mức cơ bản.
+{FACILITIES#GENERAL, neutral}
+
+#4172
+Nhân viên dọn phòng làm việc đúng giờ, nhưng đôi lúc kô bổ sung khăn tắm đầy đủ.
+{SERVICE#GENERAL, neutral}
+
+#4173
+Phòng sạch sẽ và ngăn nắp, nhưng nội thất hơi cũ, chưa tạo cảm giác cao cấp.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4174
+Bữa sáng phục vụ đầy đủ các món cơ bản, nhưng menu lặp lại mỗi ngày, kô có gì mới.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4175
+Giá phòng hợp lý cho kỳ nghỉ ngắn, nhưng kô kèm dịch vụ ăn sáng hoặc giảm giá.
+{HOTEL#PRICES, neutral}
+
+#4176
+Hành lang thoáng nhưng kô có ghế chờ cho khách khi đông người sử dụng thang máy.
+{HOTEL#DESIGN&FEATURES, neutral}
+
+#4177
+Nhân viên hỗ trợ tốt, nhưng kô đưa ra các gợi ý cá nhân hóa cho từng khách.
+{SERVICE#GENERAL, neutral}
+
+#4178
+Phòng ngủ có không gian vừa đủ, nhưng nếu có thêm kệ để đồ sẽ tiện lợi hơn.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4179
+Thang máy vận hành ổn định, nhưng đôi lúc phải chờ lâu vào giờ cao điểm.
+{FACILITIES#QUALITY, neutral}
+
+#4180
+Đồ uống trong minibar giá cả hợp lý, nhưng số lượng và lựa chọn còn hạn chế.
+{FOOD&DRINKS#PRICES, neutral}
+
+#4181
+Khách sạn cung cấp đủ khăn tắm, nhưng chất lượng vải hơi cứng, chưa thoải mái lắm.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#4182
+Hệ thống điều hòa làm việc hiệu quả, nhưng kô có chế độ tự động bật/tắt.
+{ROOM_AMENITIES#QUALITY, neutral}
+
+#4183
+Phòng ngủ kô có cửa sổ lớn, nhưng vẫn giữ không khí thoáng mát, phù hợp để nghỉ ngơi.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4184
+Giá thuê xe hơi ở mức bt, nhưng kô có nhiều lựa chọn cho khách cần xe lớn.
+{FACILITIES#PRICES, neutral}
+
+#4185
+Hành lang được vệ sinh sạch sẽ, nhưng kô có mùi thơm tạo cảm giác dễ chịu.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#4186
+Nhân viên nhà hàng phục vụ đúng giờ, nhưng kô tương tác nhiều với khách.
+{SERVICE#GENERAL, neutral}
+
+#4187
+Giá phòng hợp lý, nhưng khách sạn kô có chính sách ưu đãi cho khách ở dài ngày.
+{HOTEL#PRICES, neutral}
+
+#4188
+Phòng sạch sẽ và đầy đủ tiện nghi, nhưng nội thất hơi đơn giản, kô nổi bật.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4189
+Khu vực ăn sáng rộng rãi, nhưng kô có nhiều món ăn địa phương, cảm giác bt.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4190
+Hành lang khách sạn đủ ánh sáng, nhưng thiết kế khá cũ, chưa tạo ấn tượng tốt.
+{HOTEL#DESIGN&FEATURES, neutral}
+
+#4191
+Nhân viên bảo vệ làm việc đúng trách nhiệm, nhưng kô hỗ trợ khách vận chuyển hành lý.
+{SERVICE#GENERAL, neutral}
+
+#4192
+Phòng sạch sẽ, nhưng thiết kế nội thất khá cơ bản, kô có điểm nhấn nổi bật.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4193
+Giá dịch vụ giặt là hợp lý, nhưng thời gian trả đồ hơi lâu, cảm giác chưa tối ưu.
+{FACILITIES#PRICES, neutral}
+
+#4194
+Thang máy hoạt động oke, nhưng hơi chậm vào giờ cao điểm, cần cải thiện.
+{FACILITIES#QUALITY, neutral}
+
+#4195
+Bữa sáng được phục vụ đầy đủ, nhưng các món nóng hơi ít, chưa thực sự phong phú.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4196
+Phòng ngủ nhỏ gọn, đầy đủ tiện nghi, nhưng kô phù hợp cho nhóm khách lớn.
+{ROOMS#DESIGN&FEATURES, neutral}
+
+#4197
+Nhân viên lễ tân thân thiện, nhưng kô chủ động giới thiệu các dịch vụ của khách sạn.
+{SERVICE#GENERAL, neutral}
+
+#4198
+Hành lang sạch sẽ nhưng kô có ghế ngồi nghỉ chân, cần bổ sung thêm tiện nghi này.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#4199
+Phòng ngủ gọn gàng và sạch sẽ, nhưng thiết kế kô sang trọng, chỉ ở mức bt.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4200
+Khu vực chung của khách sạn đủ rộng, nhưng kô có các tiện nghi cao cấp như spa hay phòng gym.
+{HOTEL#GENERAL, neutral}
 
