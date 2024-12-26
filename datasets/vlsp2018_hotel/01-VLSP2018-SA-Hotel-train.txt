@@ -17998,3 +17998,1203 @@ The room was clean, but the bathroom lacked amenities like soap dishes, and the 
 The staff was friendly and accommodating, but the room was small, and the breakfast selection could have been better.
 {SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {FOOD&DRINKS#STYLE&OPTIONS, neutral}
 
+#4501
+The location was perfect for sightseeing, but the room was quite small, and the furniture could use some updates.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4502
+The staff was friendly, but the room was noisy due to street traffic, and the Wi-Fi was inconsistent.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4503
+The room was spacious and comfortable, but the air conditioning was too loud, and the bathroom could use more counter space.
+{ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4504
+The hotel had a good atmosphere, but the room lacked a minibar, and the temperature control in the room wasn’t effective.
+{HOTEL#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}, {ROOMS#COMFORT, neutral}
+
+#4505
+The breakfast had a decent selection, but the dining area was too small, and the room lacked adequate lighting.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4506
+The location was great for exploring the city, but the room was smaller than expected, and the bathroom could have been cleaner.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4507
+The room was clean, but the furniture was outdated, and the Wi-Fi was slow.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4508
+The staff was polite, but the room was small, and the air conditioning was not very effective.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4509
+The room was tidy, but there was no proper desk to work, and the bed was not as comfortable as expected.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}, {ROOMS#COMFORT, neutral}
+
+#4510
+The location was ideal for sightseeing, but the room was small, and the temperature in the room was difficult to control.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}
+
+#4511
+The hotel was clean, but the room had a musty smell, and the lighting was too dim.
+{HOTEL#CLEANLINESS, neutral}, {ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4512
+The room was large, but the air conditioning was loud, and the Wi-Fi connection was unreliable.
+{ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4513
+The hotel had great amenities, but the room was small, and the bathroom was not very clean.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4514
+The room was clean, but the furniture needed updating, and the shower pressure was low.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4515
+The staff was helpful, but the room was too small for two people, and the breakfast options were limited.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4516
+The location was convenient for public transport, but the room was cramped, and the bathroom could have been cleaner.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4517
+The room was clean, but the bed was too firm, and the TV was too small.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4518
+The room was clean and spacious, but the air conditioning was difficult to adjust, and the Wi-Fi was inconsistent.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4519
+The hotel was well-located, but the room was noisy, and the lighting in the bathroom could be improved.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4520
+The room was comfortable, but it lacked a desk, and the bathroom needed better lighting.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4521
+The hotel had good facilities, but the room was small, and the Wi-Fi connection was slow.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4522
+The room was clean, but the decor was outdated, and the TV screen could have been larger.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4523
+The staff was friendly, but the room was small, and the air conditioning wasn’t cooling properly.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4524
+The location was great for exploring, but the room was small, and the lighting in the room was too dim.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4525
+The hotel was in a good location, but the room was noisy, and the furniture was outdated.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4526
+The room was clean and comfortable, but the Wi-Fi was slow, and the bathroom needed some maintenance.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4527
+The location was central, but the room was small, and the air conditioning was ineffective.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4528
+The hotel was clean, but the room lacked storage space, and the temperature control in the room didn’t work well.
+{HOTEL#CLEANLINESS, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}
+
+#4529
+The room was clean, but the bed was uncomfortable, and the Wi-Fi was inconsistent.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4530
+The hotel was in a good location, but the room was small, and the breakfast selection was limited.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4531
+The room was spacious and clean, but the air conditioning was noisy, and the bathroom could use better lighting.
+{ROOMS#GENERAL, neutral}, {ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4532
+The location was great, but the room was noisy, and the furniture could use updating.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4533
+The room was comfortable, but the bathroom needed better maintenance, and there were no extra amenities like a robe.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4534
+The staff was helpful, but the room was small, and the Wi-Fi was unreliable.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4535
+The location was ideal, but the room was small, and the furniture looked a bit worn out.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4536
+The room was clean, but it was noisy at night, and the air conditioning didn’t cool the room enough.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4537
+The hotel was clean and quiet, but the room was small, and there were no proper workspaces.
+{HOTEL#CLEANLINESS, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4538
+The location was excellent, but the room was a bit small, and the bathroom could have been cleaner.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4539
+The room was comfortable, but the Wi-Fi was slow, and the bathroom was a bit cramped.
+{ROOMS#COMFORT, neutral}, {FACILITIES#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4540
+The hotel had great amenities, but the room was small, and the bed wasn’t as comfortable as expected.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}
+
+#4541
+The location was central, but the room was small, and the Wi-Fi connection was unstable.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4542
+The room was spacious and clean, but the bathroom lacked sufficient storage, and the furniture could use an update.
+{ROOMS#GENERAL, neutral}, {ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4543
+The staff was helpful, but the room was too small for the price, and the air conditioning didn’t cool effectively.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4544
+The room was clean, but the lighting was too dim, and the furniture felt outdated.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOMS#COMFORT, neutral}
+
+#4545
+The hotel was well-maintained, but the room was a bit noisy, and the TV could have been larger.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4546
+The breakfast had a good selection, but the seating area was cramped, and the room temperature was hard to control.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}, {ROOMS#COMFORT, neutral}
+
+#4547
+The hotel was in a good location, but the room was small, and the bathroom needed more maintenance.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4548
+The room was comfortable, but there was no desk to work, and the Wi-Fi was a bit slow.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4549
+The hotel had excellent service, but the room was small, and the bathroom lacked storage space.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4550
+The location was convenient, but the room was small, and the furniture could use an update.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4551
+The room was clean, but the bed was uncomfortable, and the bathroom could have been better maintained.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4552
+The location was great for sightseeing, but the room was too small, and the air conditioning wasn’t very effective.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4553
+The staff was friendly, but the room was small, and the lighting could have been brighter.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4554
+The room was spacious, but the Wi-Fi was slow, and the furniture felt outdated.
+{ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4555
+The hotel was clean, but the room was noisy due to street traffic, and the bathroom could have been better equipped.
+{HOTEL#CLEANLINESS, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4556
+The location was excellent for accessing public transport, but the room was small, and the TV was too small for the space.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4557
+The room was clean, but the temperature control didn’t work well, and the bed was too firm.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4558
+The hotel had great amenities, but the room was small, and the Wi-Fi was unreliable.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4559
+The room was comfortable, but the air conditioning was noisy, and the bathroom was small.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4560
+The location was ideal for shopping, but the room was small, and the bathroom could have used more cleaning.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4561
+The room was clean, but it lacked sufficient storage, and the furniture was outdated.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOMS#GENERAL, neutral}
+
+#4562
+The hotel was in a good location, but the room lacked adequate lighting, and the bed was uncomfortable.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOMS#COMFORT, neutral}
+
+#4563
+The staff was friendly, but the room was noisy, and the TV was too small.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4564
+The room was spacious, but the furniture was old, and the air conditioning didn’t cool properly.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4565
+The hotel had excellent service, but the room was small, and the bathroom needed better maintenance.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4566
+The room was clean, but the furniture was uncomfortable, and the air conditioning didn’t work well.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4567
+The location was perfect for sightseeing, but the room was noisy, and the Wi-Fi was slow.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4568
+The room was well-maintained, but the bed was too firm, and the air conditioning was hard to control.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4569
+The hotel had a good location, but the room was too small, and the furniture was outdated.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4570
+The room was clean and tidy, but it lacked proper seating, and the Wi-Fi was slow.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4571
+The hotel was well-maintained, but the room was noisy at night, and the furniture could have been updated.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4572
+The room was clean, but the bed was uncomfortable, and there were no extra amenities like a minibar.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4573
+The location was great, but the room was small, and the air conditioning wasn’t very effective.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4574
+The hotel had good facilities, but the room was small, and the TV could have been larger.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4575
+The room was comfortable, but the lighting was dim, and the bathroom could use more cleaning.
+{ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4576
+The location was convenient, but the room was small, and the air conditioning was difficult to control.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4577
+The room was clean and spacious, but the bathroom could use an update, and the furniture was outdated.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4578
+The hotel had good service, but the room was too small, and the bathroom could have been cleaner.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4579
+The room was clean, but the temperature control was not effective, and the bed was too firm.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4580
+The location was excellent, but the room was small, and the bathroom was not as clean as expected.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4581
+The room was clean and spacious, but the Wi-Fi was slow, and the air conditioning wasn’t very effective.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4582
+The location was perfect, but the room was small, and the furniture could use some updating.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4583
+The staff was friendly, but the room was noisy, and the bed was not as comfortable as expected.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}
+
+#4584
+The room was clean, but it lacked proper seating, and the lighting in the room was too dim.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOMS#COMFORT, neutral}
+
+#4585
+The hotel was clean, but the room was small, and the air conditioning didn’t cool effectively.
+{HOTEL#CLEANLINESS, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4586
+The room was spacious and comfortable, but the bathroom needed better maintenance, and the furniture was outdated.
+{ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4587
+The location was excellent, but the room was noisy, and the bed could have been more comfortable.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}
+
+#4588
+The staff was efficient, but the room lacked storage space, and the bathroom was too small.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4589
+The room was clean and tidy, but the air conditioning was noisy, and the Wi-Fi connection was slow.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4590
+The hotel was well-maintained, but the room was small, and there was no desk for working.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4591
+The location was great, but the room felt cramped, and the bathroom was outdated.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4592
+The room was clean, but it lacked proper lighting, and the furniture needed an update.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOMS#COMFORT, neutral}
+
+#4593
+The hotel had great amenities, but the room was small, and the bathroom could have used some attention.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4594
+The room was clean, but the bed was too firm, and there wasn’t enough lighting in the bathroom.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4595
+The location was convenient, but the room was small, and the shower had inconsistent water pressure.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4596
+The staff was friendly, but the room lacked a minibar, and the air conditioning was too noisy.
+{SERVICE#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4597
+The room was comfortable, but it lacked natural light, and the furniture was outdated.
+{ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4598
+The location was perfect for sightseeing, but the room was too small, and the Wi-Fi was slow.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4599
+The room was clean, but the bathroom was cramped, and the temperature control didn’t work well.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}, {ROOMS#COMFORT, neutral}
+
+#4600
+The hotel was clean, but the room was small, and the lighting in the bathroom could have been brighter.
+{HOTEL#CLEANLINESS, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4601
+The room was clean and tidy, but the bed was uncomfortable, and the bathroom lacked sufficient space for toiletries.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4602
+The hotel had a good location, but the room was small, and the air conditioning didn’t cool the room effectively.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4603
+The room was comfortable, but it lacked sufficient lighting, and the Wi-Fi was slow.
+{ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4604
+The staff was friendly, but the room was too small, and the bathroom lacked enough storage space.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4605
+The room was clean, but the TV could have been larger, and the temperature control didn’t work properly.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#QUALITY, neutral}, {ROOMS#COMFORT, neutral}
+
+#4606
+The location was perfect, but the room was noisy at night, and the furniture was outdated.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4607
+The room was spacious, but the bathroom was cramped, and the Wi-Fi connection was unreliable.
+{ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4608
+The hotel had great service, but the room was small, and the bed was too firm for my liking.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}
+
+#4609
+The room was clean, but the lighting was too dim, and the furniture could use an upgrade.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOMS#COMFORT, neutral}
+
+#4610
+The location was great, but the room was small, and the shower pressure was inconsistent.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4611
+The room was comfortable, but there was no desk for working, and the air conditioning was difficult to control.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4612
+The hotel was clean, but the room was small, and the bathroom lacked sufficient counter space.
+{HOTEL#CLEANLINESS, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4613
+The room was clean, but the bed was uncomfortable, and the room temperature was hard to control.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4614
+The location was great, but the room was small, and the air conditioning was too noisy.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4615
+The room was clean, but it lacked a minibar, and the Wi-Fi connection was slow.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4616
+The hotel had good service, but the room was small, and the furniture felt outdated.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4617
+The room was spacious, but the furniture needed updating, and the bathroom wasn’t as clean as expected.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4618
+The hotel had great amenities, but the room was small, and the air conditioning wasn’t working properly.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4619
+The room was clean, but the TV could have been bigger, and the furniture was a bit outdated.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#QUALITY, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4620
+The location was convenient, but the room was small, and the bed was uncomfortable.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}
+
+#4621
+The room was clean, but the furniture felt outdated, and there was no proper desk to work.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4622
+The staff was friendly, but the room lacked proper seating, and the bathroom was cramped.
+{SERVICE#GENERAL, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4623
+The room was clean, but it lacked natural light, and the air conditioning wasn’t very efficient.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4624
+The hotel had a great location, but the room was small, and the bathroom needed better cleaning.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4625
+The room was spacious, but the TV was small, and the Wi-Fi connection was slow.
+{ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4626
+The hotel was clean, but the room was small, and the bed wasn’t as comfortable as I hoped.
+{HOTEL#CLEANLINESS, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}
+
+#4627
+The room was clean and comfortable, but the furniture was outdated, and the air conditioning was noisy.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4628
+The location was great, but the room was noisy, and the Wi-Fi connection was unreliable.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4629
+The room was clean, but the bathroom lacked counter space, and the furniture was a bit old.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4630
+The hotel had great amenities, but the room was small, and the furniture was uncomfortable.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}
+
+#4631
+The location was perfect for exploring, but the room was small, and the air conditioning didn’t cool properly.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4632
+The room was comfortable, but the bathroom could have been cleaner, and the furniture needed updating.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4633
+The hotel had good service, but the room was small, and the bathroom lacked some basic amenities.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4634
+The room was clean and tidy, but the furniture was old, and there weren’t enough charging outlets.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4635
+The location was ideal, but the room was small, and the TV was too small.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4636
+The room was spacious, but the air conditioning was ineffective, and the bathroom was outdated.
+{ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4637
+The hotel had great facilities, but the room was small, and the furniture needed updating.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4638
+The room was clean, but the bed was too firm, and the bathroom needed better maintenance.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4639
+The location was convenient, but the room was small, and the air conditioning was noisy.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4640
+The room was clean and comfortable, but the Wi-Fi connection was slow, and the furniture felt outdated.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4641
+The room was clean, but the lighting was dim, and the air conditioning was noisy.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4642
+The location was great, but the room was small, and the furniture looked outdated.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4643
+The hotel was clean, but the room was noisy due to street traffic, and the bathroom was a bit cramped.
+{HOTEL#CLEANLINESS, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4644
+The room was comfortable, but there was no desk for work, and the air conditioning wasn’t very effective.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4645
+The hotel had great amenities, but the room was small, and the furniture could be updated.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4646
+The room was clean, but the bathroom lacked storage space, and the furniture looked outdated.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}, {ROOMS#COMFORT, neutral}
+
+#4647
+The staff was friendly, but the room was noisy, and the temperature control didn’t work well.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4648
+The room was spacious, but the lighting was poor, and the bed was not very comfortable.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOMS#COMFORT, neutral}
+
+#4649
+The location was great for sightseeing, but the room was small, and the air conditioning was not very efficient.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4650
+The hotel was clean, but the room was small, and the bathroom needed some maintenance.
+{HOTEL#CLEANLINESS, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4651
+The room was comfortable, but the furniture felt outdated, and the Wi-Fi connection was slow.
+{ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4652
+The location was convenient, but the room was too small for the price, and the air conditioning was noisy.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4653
+The room was clean, but it lacked proper seating, and the bathroom was cramped.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4654
+The hotel had great service, but the room was small, and the lighting was too dim.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4655
+The room was spacious, but the bed was uncomfortable, and the bathroom was small.
+{ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4656
+The location was perfect, but the room lacked sufficient storage space, and the Wi-Fi was slow.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4657
+The hotel had good amenities, but the room was small, and the bathroom could use better lighting.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4658
+The room was clean, but the temperature control was hard to use, and the furniture was old.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4659
+The location was convenient, but the room was noisy at night, and the bathroom was outdated.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4660
+The hotel had excellent service, but the room was small, and the air conditioning was not working properly.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4661
+The room was clean, but the furniture could use updating, and the TV was too small.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4662
+The location was perfect for exploring, but the room was small, and the bathroom could have been cleaner.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4663
+The room was spacious, but the Wi-Fi was slow, and the bed was uncomfortable.
+{ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}, {ROOMS#COMFORT, neutral}
+
+#4664
+The hotel was clean, but the room lacked sufficient natural light, and the bathroom could use better maintenance.
+{HOTEL#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4665
+The location was great for public transport, but the room was small, and the air conditioning didn’t cool properly.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4666
+The room was comfortable, but it lacked a proper work desk, and the bathroom could use better lighting.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4667
+The hotel had great service, but the room was small, and the furniture was outdated.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4668
+The room was clean, but the bed was too firm, and the air conditioning was difficult to adjust.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4669
+The location was ideal, but the room was small, and the TV was outdated.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4670
+The room was spacious, but the air conditioning was noisy, and the lighting in the bathroom was dim.
+{ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4671
+The location was convenient, but the room lacked natural light, and the bathroom could have been cleaner.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4672
+The hotel was clean, but the room lacked comfortable seating, and the temperature control was not working well.
+{HOTEL#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOMS#COMFORT, neutral}
+
+#4673
+The location was great for sightseeing, but the room was too small, and the furniture felt outdated.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4674
+The room was clean, but it was noisy, and the bed was not very comfortable.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}
+
+#4675
+The hotel was well-maintained, but the room was small, and the bathroom needed maintenance.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4676
+The location was perfect, but the room was small, and the furniture could use an update.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4677
+The room was comfortable, but the bathroom was outdated, and the air conditioning was ineffective.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4678
+The hotel had good amenities, but the room was too small, and the bed was uncomfortable.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}
+
+#4679
+The room was clean, but the air conditioning was too loud, and the bathroom was small.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4680
+The location was great, but the room was small, and the bathroom could use some improvements.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4681
+The room was clean, but the bed was too firm, and the furniture was outdated.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4682
+The location was perfect for sightseeing, but the room was small, and the Wi-Fi was unreliable.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4683
+The room was spacious, but the bathroom was cramped, and the air conditioning didn’t cool the room enough.
+{ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}, {ROOMS#COMFORT, neutral}
+
+#4684
+The hotel had excellent amenities, but the room was small, and the temperature control was difficult to adjust.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}
+
+#4685
+The staff was friendly, but the room was too small, and the bathroom could have been cleaner.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4686
+The location was convenient, but the room was small, and the furniture needed updating.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4687
+The room was clean, but it lacked proper seating, and the bathroom needed maintenance.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4688
+The hotel had a good atmosphere, but the room was noisy at night, and the bathroom was a bit cramped.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4689
+The room was clean, but it lacked sufficient lighting, and the furniture was old.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4690
+The location was great, but the room was small, and the air conditioning didn’t cool the room properly.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4691
+The room was spacious, but the bed was uncomfortable, and the bathroom could have been cleaner.
+{ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4692
+The room was clean, but it lacked a desk for working, and the Wi-Fi was slow.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4693
+The staff was helpful, but the room was too small, and the furniture was outdated.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4694
+The room was clean, but the bed was too firm, and the bathroom was cramped.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4695
+The location was perfect for exploring the city, but the room was small, and the furniture needed updating.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4696
+The room was clean, but the bathroom was too small, and the air conditioning was not very effective.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#QUALITY, neutral}, {ROOMS#COMFORT, neutral}
+
+#4697
+The hotel had a good location, but the room was small, and the bathroom could have used more cleaning.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4698
+The room was clean, but the lighting in the bathroom was dim, and the furniture was outdated.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4699
+The hotel was clean, but the room was small, and the air conditioning was noisy.
+{HOTEL#CLEANLINESS, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4700
+The room was comfortable, but the Wi-Fi was slow, and the bathroom could have been cleaner.
+{ROOMS#COMFORT, neutral}, {FACILITIES#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4701
+The location was great for shopping, but the room was small, and the furniture was outdated.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4702
+The room was clean, but the bed was uncomfortable, and the air conditioning was not effective.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4703
+The hotel had excellent service, but the room was small, and the air conditioning was difficult to control.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4704
+The room was spacious, but the Wi-Fi was slow, and the bathroom could have used better maintenance.
+{ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4705
+The room was clean, but the furniture was outdated, and the bathroom needed more storage space.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4706
+The location was convenient, but the room was small, and the bathroom needed better cleaning.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4707
+The staff was polite, but the room was small, and the bathroom lacked sufficient counter space.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4708
+The room was comfortable, but the air conditioning was too loud, and the furniture needed updating.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4709
+The location was ideal, but the room was small, and the TV was outdated.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4710
+The room was clean, but the bed was too firm, and there was no desk for working.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4711
+The hotel had a good location, but the room was small, and the bathroom was outdated.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4712
+The room was clean, but the lighting was too dim, and the bathroom was cramped.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4713
+The location was great, but the room was small, and the furniture needed updating.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4714
+The room was clean, but the bed was uncomfortable, and the air conditioning was ineffective.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4715
+The hotel was clean, but the room was small, and the Wi-Fi connection was weak.
+{HOTEL#CLEANLINESS, neutral}, {ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4716
+The room was comfortable, but the bathroom lacked counter space, and the furniture was outdated.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4717
+The location was perfect, but the room was small, and the bathroom needed more storage space.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4718
+The room was clean, but the furniture needed an update, and the air conditioning wasn’t working properly.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4719
+The hotel was well-maintained, but the room was small, and the furniture could use an update.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4720
+The location was convenient, but the room was small, and the air conditioning was too loud.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4721
+The room was clean, but the bed was too firm, and the furniture could use updating.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4722
+The location was great, but the room was small, and the bathroom was cramped.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4723
+The room was comfortable, but the lighting was dim, and the TV was too small.
+{ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4724
+The staff was friendly, but the room was small, and the air conditioning was difficult to adjust.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4725
+The room was clean, but the bathroom could have been more spacious, and the bed wasn’t as comfortable as expected.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}, {ROOMS#COMFORT, neutral}
+
+#4726
+The location was convenient, but the room was small, and the Wi-Fi was slow.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4727
+The room was spacious, but the furniture was outdated, and the bathroom was a bit small.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4728
+The hotel had a great location, but the room was small, and the furniture was old.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4729
+The room was clean, but the bed was too firm, and the bathroom needed more maintenance.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4730
+The location was ideal, but the room was noisy, and the furniture was outdated.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4731
+The room was clean, but the air conditioning didn’t work properly, and the bathroom was small.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#QUALITY, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4732
+The staff was helpful, but the room was small, and the TV was outdated.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4733
+The location was convenient, but the room was small, and the bed was uncomfortable.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}
+
+#4734
+The room was spacious, but the air conditioning was too loud, and the furniture was outdated.
+{ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4735
+The room was clean, but the Wi-Fi connection was unreliable, and the bed wasn’t very comfortable.
+{ROOMS#CLEANLINESS, neutral}, {FACILITIES#GENERAL, neutral}, {ROOMS#COMFORT, neutral}
+
+#4736
+The location was excellent, but the room was small, and the air conditioning didn’t work properly.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4737
+The room was clean, but the furniture was old, and the bathroom needed more cleaning.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4738
+The hotel had great amenities, but the room was small, and the bathroom was cramped.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4739
+The room was comfortable, but the lighting was too dim, and the furniture could use updating.
+{ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOMS#GENERAL, neutral}
+
+#4740
+The location was great, but the room was small, and the air conditioning wasn’t very efficient.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4741
+The room was clean, but the bathroom could have been bigger, and the bed wasn’t very comfortable.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}, {ROOMS#COMFORT, neutral}
+
+#4742
+The location was ideal, but the room was small, and the bathroom lacked sufficient counter space.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4743
+The room was clean, but the bed was too firm, and the Wi-Fi was slow.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4744
+The room was spacious, but the furniture was outdated, and the bathroom needed maintenance.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4745
+The hotel had excellent service, but the room was small, and the air conditioning was difficult to control.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4746
+The room was clean, but the bed was uncomfortable, and the temperature control was difficult to manage.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4747
+The location was excellent, but the room was small, and the furniture was outdated.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4748
+The room was comfortable, but the Wi-Fi was slow, and the air conditioning was loud.
+{ROOMS#COMFORT, neutral}, {FACILITIES#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4749
+The room was clean, but the lighting was dim, and the bed wasn’t as comfortable as expected.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOMS#COMFORT, neutral}
+
+#4750
+The location was great for public transport, but the room was small, and the bathroom needed more cleaning.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4751
+The room was clean, but the bed was too firm, and the air conditioning was a bit noisy.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4752
+The hotel had a good location, but the room was small, and the furniture was outdated.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4753
+The room was comfortable, but the lighting was too dim, and the bathroom was cramped.
+{ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4754
+The location was perfect for sightseeing, but the room was too small, and the Wi-Fi was slow.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4755
+The room was spacious, but the furniture needed updating, and the bed was not very comfortable.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOMS#COMFORT, neutral}
+
+#4756
+The staff was friendly, but the room was small, and the air conditioning was not very efficient.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4757
+The hotel had good amenities, but the room was small, and the bathroom lacked storage space.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4758
+The room was clean, but the bed was uncomfortable, and the TV was small.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4759
+The location was great, but the room was small, and the air conditioning was too loud.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4760
+The room was clean, but the furniture could use an update, and the lighting was dim.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4761
+The location was convenient, but the room was small, and the air conditioning was ineffective.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4762
+The room was comfortable, but the bed was too firm, and the Wi-Fi was slow.
+{ROOMS#COMFORT, neutral}, {ROOMS#COMFORT, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4763
+The hotel had good service, but the room was small, and the TV was outdated.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4764
+The room was clean, but the bathroom was cramped, and the bed wasn’t very comfortable.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}, {ROOMS#COMFORT, neutral}
+
+#4765
+The location was perfect for exploring, but the room was small, and the furniture felt outdated.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4766
+The room was spacious, but the air conditioning was too loud, and the bathroom could have been cleaner.
+{ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4767
+The hotel was clean, but the room was small, and the air conditioning didn’t cool the room well.
+{HOTEL#CLEANLINESS, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4768
+The location was great, but the room was small, and the bathroom lacked storage space.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4769
+The room was clean, but the bed was uncomfortable, and the furniture could be updated.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4770
+The hotel had great service, but the room was small, and the Wi-Fi was unreliable.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4771
+The room was clean, but the air conditioning was noisy, and the bathroom could use more cleaning.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#QUALITY, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4772
+The room was spacious, but the furniture was outdated, and the bed was uncomfortable.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOMS#COMFORT, neutral}
+
+#4773
+The location was ideal, but the room was small, and the furniture needed an update.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4774
+The room was clean, but the bed was uncomfortable, and the bathroom was outdated.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4775
+The staff was friendly, but the room was small, and the Wi-Fi was slow.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4776
+The room was clean, but the furniture was outdated, and the bathroom was small.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4777
+The location was great, but the room was small, and the air conditioning didn’t work properly.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4778
+The room was comfortable, but the Wi-Fi was slow, and the lighting in the bathroom was too dim.
+{ROOMS#COMFORT, neutral}, {FACILITIES#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4779
+The hotel had a good location, but the room was small, and the furniture was old.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4780
+The room was clean, but the furniture was outdated, and the air conditioning was too loud.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4781
+The location was perfect, but the room was small, and the bathroom could use better lighting.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4782
+The room was comfortable, but the bathroom was small, and the Wi-Fi was unreliable.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4783
+The hotel had excellent service, but the room was small, and the furniture could use some updating.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4784
+The room was clean, but the bed was uncomfortable, and the temperature control didn’t work properly.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4785
+The location was convenient, but the room was small, and the furniture was outdated.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4786
+The room was clean, but the furniture was old, and the bathroom was cramped.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4787
+The staff was friendly, but the room was small, and the bathroom needed more maintenance.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4788
+The room was spacious, but the air conditioning was too loud, and the Wi-Fi connection was weak.
+{ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4789
+The location was great, but the room was small, and the TV was outdated.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4790
+The room was clean, but the furniture was old, and the bathroom was too small.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4791
+The room was clean, but the furniture was outdated, and the air conditioning was difficult to control.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4792
+The location was great for exploring, but the room was small, and the bathroom could have been cleaner.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4793
+The staff was friendly, but the room was too small, and the bed was uncomfortable.
+{SERVICE#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}
+
+#4794
+The room was clean, but it lacked sufficient lighting, and the furniture felt a bit outdated.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOMS#COMFORT, neutral}
+
+#4795
+The hotel was clean, but the room was small, and the air conditioning was not effective enough.
+{HOTEL#CLEANLINESS, neutral}, {ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4796
+The room was spacious, but the Wi-Fi was slow, and the bed was not as comfortable as I expected.
+{ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}, {ROOMS#COMFORT, neutral}
+
+#4797
+The room was clean, but the bathroom was small, and the furniture was outdated.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4798
+The location was convenient, but the room was noisy, and the Wi-Fi connection was unstable.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}, {FACILITIES#GENERAL, neutral}
+
+#4799
+The staff was helpful, but the room lacked comfortable seating, and the temperature control was not ideal.
+{SERVICE#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4800
+The room was comfortable, but the lighting was too dim, and the bathroom lacked enough storage space.
+{ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
