@@ -19198,3 +19198,1606 @@ The staff was helpful, but the room lacked comfortable seating, and the temperat
 The room was comfortable, but the lighting was too dim, and the bathroom lacked enough storage space.
 {ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
 
+#4801
+Phòng ngủ có diện tích vừa phải, nhưng chưa đủ ánh sáng tự nhiên, cảm giác hơi u ám.
+{ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4802
+Giá cả hợp lý nhưng chất lượng phòng không phải xuất sắc lắm.
+{ROOMS#PRICES, neutral}, {ROOMS#QUALITY, neutral}
+
+#4803
+Hệ thống điều hòa làm việc ổn, nhưng hơi ồn ào khi hoạt động ở công suất cao.
+{ROOM_AMENITIES#COMFORT, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4804
+Khu vực ăn sáng đủ rộng rãi nhưng không có nhiều lựa chọn món ăn.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#MISCELLANEOUS, neutral}
+
+#4805
+Vị trí khách sạn khá thuận tiện, tuy nhiên xung quanh có quá nhiều tiếng ồn.
+{LOCATION#GENERAL, neutral}
+
+#4806
+Phòng tắm sạch sẽ, nhưng thiếu các sản phẩm chăm sóc cá nhân chất lượng.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4807
+Khu vực lễ tân rộng rãi, nhưng nhân viên chưa thực sự thân thiện.
+{HOTEL#DESIGN&FEATURES, neutral}, {SERVICE#GENERAL, neutral}
+
+#4808
+Chất lượng giường ngủ tốt, nhưng gối hơi mỏng, cần cải thiện.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#4809
+Tiện nghi trong phòng đầy đủ nhưng không có gì nổi bật.
+{ROOM_AMENITIES#GENERAL, neutral}, {ROOMS#GENERAL, neutral}
+
+#4810
+Phòng có thiết kế hiện đại, nhưng thiếu không gian để làm việc thoải mái.
+{ROOMS#DESIGN&FEATURES, neutral}, {ROOMS#GENERAL, neutral}
+
+#4811
+Thức ăn tại nhà hàng hợp khẩu vị, nhưng không có sự thay đổi menu trong suốt kỳ nghỉ.
+{FOOD&DRINKS#QUALITY, neutral}, {FOOD&DRINKS#MISCELLANEOUS, neutral}
+
+#4812
+Dịch vụ phòng nhanh chóng nhưng không phải lúc nào cũng chính xác.
+{SERVICE#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4813
+Khu vực ngoài trời đẹp nhưng không có đủ ghế ngồi để thư giãn.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4814
+Phòng nghỉ được vệ sinh thường xuyên, tuy nhiên, không có mùi thơm dễ chịu.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#MISCELLANEOUS, neutral}
+
+#4815
+Mức giá khá hợp lý so với tiện nghi khách sạn, nhưng không có nhiều sự khác biệt so với những nơi khác.
+{HOTEL#PRICES, neutral}, {ROOMS#PRICES, neutral}
+
+#4816
+Khách sạn có vị trí tốt nhưng lại thiếu sự tiện lợi trong việc di chuyển đến các điểm du lịch.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4817
+Phòng khá rộng, nhưng không có nhiều lựa chọn kênh truyền hình.
+{ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#MISCELLANEOUS, neutral}
+
+#4818
+Nhân viên lễ tân khá nhanh nhẹn, nhưng thái độ chưa thật sự niềm nở.
+{SERVICE#GENERAL, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#4819
+Không gian phòng nghỉ thoáng mát, nhưng thảm trải sàn có vẻ đã cũ.
+{ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4820
+Phòng có đầy đủ đồ dùng cơ bản, tuy nhiên không có sự chăm chút tỉ mỉ về chi tiết.
+{ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4821
+Chất lượng giường và chăn khá ổn, nhưng gối hơi thấp và không thoải mái.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#4822
+Khu vực hành lang sạch sẽ nhưng hơi thiếu ánh sáng, có thể gây cảm giác tối tăm.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#4823
+Khu vực lễ tân rộng rãi nhưng chưa có không gian chờ thoải mái.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4824
+Giá cả hợp lý, nhưng dịch vụ vẫn cần cải thiện về tốc độ và tính chuyên nghiệp.
+{HOTEL#PRICES, neutral}, {SERVICE#GENERAL, neutral}
+
+#4825
+Không gian phòng nghỉ đủ thoải mái nhưng thiết kế nội thất chưa đủ ấn tượng.
+{ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4826
+Khu vực ăn sáng rộng rãi, nhưng không gian khá đông đúc vào giờ cao điểm.
+{FOOD&DRINKS#MISCELLANEOUS, neutral}, {HOTEL#GENERAL, neutral}
+
+#4827
+Khách sạn có đầy đủ tiện nghi nhưng thiếu các hoạt động giải trí trong khuôn viên.
+{HOTEL#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4828
+Các dịch vụ trong khách sạn khá đầy đủ nhưng có vẻ không đồng đều về chất lượng.
+{HOTEL#GENERAL, neutral}, {SERVICE#GENERAL, neutral}
+
+#4829
+Phòng ngủ có thiết kế đơn giản, sạch sẽ nhưng không có gì đặc biệt.
+{ROOMS#DESIGN&FEATURES, neutral}, {ROOMS#CLEANLINESS, neutral}
+
+#4830
+Khu vực tiếp khách khá tiện nghi nhưng thiếu các lựa chọn giải trí.
+{HOTEL#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4831
+Tiện nghi phòng tắm đầy đủ nhưng hơi thiếu tính thẩm mỹ.
+{ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4832
+Nhân viên khách sạn khá chu đáo nhưng tốc độ phục vụ chưa được nhanh.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4833
+Chất lượng phòng ngủ ổn nhưng thiếu không gian để làm việc hiệu quả.
+{ROOMS#COMFORT, neutral}, {ROOMS#GENERAL, neutral}
+
+#4834
+Khu vực ăn uống trong khách sạn đủ rộng, nhưng không có các lựa chọn phong phú.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {HOTEL#GENERAL, neutral}
+
+#4835
+Khu vực sảnh đẹp mắt nhưng không có đủ chỗ ngồi cho khách nghỉ ngơi.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4836
+Phòng sạch sẽ, nhưng không gian hơi chật chội cho 2 người ở lâu dài.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}
+
+#4837
+Khách sạn có vị trí thuận lợi, nhưng không có dịch vụ đưa đón khách đến các điểm tham quan.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4838
+Nhân viên dọn phòng nhanh chóng nhưng không kiểm tra kỹ các chi tiết nhỏ trong phòng.
+{SERVICE#GENERAL, neutral}, {ROOMS#CLEANLINESS, neutral}
+
+#4839
+Phòng nghỉ tiện nghi đầy đủ, nhưng thiếu sự sáng tạo trong việc trang trí.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4840
+Vị trí khách sạn khá tốt nhưng không có bãi đỗ xe đủ lớn.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4841
+Khách sạn sạch sẽ, nhưng những tiện nghi bổ sung không được chăm chút kỹ lưỡng.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4842
+Phòng nghỉ thoải mái nhưng thiếu ánh sáng tự nhiên.
+{ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4843
+Khu vực công cộng rộng rãi, nhưng thiếu các tiện ích giải trí hoặc thư giãn.
+{HOTEL#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4844
+Giá phòng hợp lý, nhưng có thể cải thiện về chất lượng phòng.
+{ROOMS#PRICES, neutral}, {ROOMS#QUALITY, neutral}
+
+#4845
+Khu vực lễ tân sạch sẽ, nhưng thiếu sự tiếp đón nhiệt tình từ nhân viên.
+{HOTEL#CLEANLINESS, neutral}, {SERVICE#GENERAL, neutral}
+
+#4846
+Phòng nghỉ được trang trí khá đơn giản nhưng vẫn rất sạch sẽ.
+{ROOMS#DESIGN&FEATURES, neutral}, {ROOMS#CLEANLINESS, neutral}
+
+#4847
+Giường khá thoải mái nhưng thiếu các loại gối khác nhau để lựa chọn.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#4848
+Nhà hàng trong khách sạn có chất lượng ổn nhưng không có nhiều lựa chọn thức ăn chay.
+{FOOD&DRINKS#QUALITY, neutral}, {FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4849
+Dịch vụ phòng khá nhanh chóng nhưng không phải lúc nào cũng đúng yêu cầu.
+{SERVICE#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4850
+Khách sạn có các tiện nghi đầy đủ nhưng không có sự nổi bật so với các khách sạn khác trong khu vực.
+{HOTEL#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4851
+Phòng có đầy đủ tiện nghi cơ bản, nhưng ánh sáng trong phòng hơi yếu.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4852
+Khách sạn có vị trí thuận tiện, nhưng khu vực xung quanh khá ồn ào vào ban đêm.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4853
+Bữa sáng khá ổn, nhưng dịch vụ phòng có chút chậm trễ.
+{FOOD&DRINKS#QUALITY, neutral}, {SERVICE#GENERAL, neutral}
+
+#4854
+Phòng sạch sẽ và thoải mái, nhưng nhà vệ sinh có vẻ hơi cũ kỹ.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4855
+Khách sạn có vị trí tốt, nhưng khu vực xung quanh không có nhiều hoạt động thú vị.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4856
+Nhân viên khá thân thiện, nhưng thủ tục nhận phòng hơi mất thời gian.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4857
+Phòng có nội thất đầy đủ, nhưng thiết kế có phần đơn giản.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4858
+Khách sạn được bảo trì tốt, nhưng khu vực phòng tập gym rất cơ bản.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4859
+Vị trí khách sạn khá tốt, nhưng không có nhiều phương tiện giao thông công cộng gần đó.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4860
+Phòng nghỉ yên tĩnh, nhưng tường hơi mỏng, có thể nghe tiếng từ hành lang.
+{ROOMS#COMFORT, neutral}, {ROOMS#GENERAL, neutral}
+
+#4861
+Phòng sạch sẽ, nhưng không có đủ không gian để cất đồ.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4862
+Khách sạn cung cấp các dịch vụ cơ bản, nhưng không có điểm gì nổi bật.
+{HOTEL#GENERAL, neutral}, {SERVICE#GENERAL, neutral}
+
+#4863
+Bữa sáng tạm ổn, nhưng không có nhiều món nóng.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#MISCELLANEOUS, neutral}
+
+#4864
+Phòng sạch sẽ và rộng rãi, nhưng đồ nội thất hơi cũ.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4865
+Khách sạn khá tốt, nhưng chất lượng Wi-Fi không ổn định ở một số khu vực.
+{HOTEL#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4866
+Vị trí khách sạn khá thuận tiện, nhưng khu vực xung quanh không có nhiều điểm tham quan.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4867
+Giường ngủ khá thoải mái, nhưng gối hơi mỏng.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#4868
+Khu vực sảnh đẹp mắt, nhưng không có chỗ ngồi thư giãn thoải mái.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4869
+Phòng nghỉ yên tĩnh, nhưng điều hòa không làm mát tốt như mong đợi.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#4870
+Bữa sáng khá đủ, nhưng không có nhiều lựa chọn cho người ăn chay.
+{FOOD&DRINKS#QUALITY, neutral}, {FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4871
+Các tiện nghi trong khách sạn ổn, nhưng khu vực hồ bơi cảm giác hơi chật.
+{HOTEL#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4872
+Phòng sạch sẽ, nhưng ánh sáng trong phòng hơi yếu, không thuận tiện cho việc đọc sách.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4873
+Khách sạn có thiết kế hiện đại, nhưng không khí bên trong khá cứng nhắc, thiếu sự thoải mái.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#GENERAL, neutral}
+
+#4874
+Vị trí khách sạn khá tốt, nhưng không có nhiều lựa chọn nhà hàng xung quanh.
+{LOCATION#GENERAL, neutral}, {FOOD&DRINKS#MISCELLANEOUS, neutral}
+
+#4875
+Phòng có đầy đủ tiện nghi, nhưng không có minibar.
+{ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#MISCELLANEOUS, neutral}
+
+#4876
+Bữa sáng ổn, nhưng không có món ăn tươi ngon, chủ yếu là các món chế biến sẵn.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#4877
+Khách sạn sạch sẽ, nhưng hành lang hơi hẹp, tạo cảm giác chật chội.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#4878
+Vị trí khách sạn rất thuận tiện, nhưng thiếu dịch vụ đưa đón khách đến các điểm tham quan.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4879
+Giường ngủ khá thoải mái, nhưng nhiệt độ phòng khó điều chỉnh cho vừa ý.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#4880
+Khách sạn có vị trí tốt, nhưng thiếu các hoạt động giải trí trong khuôn viên.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4881
+Phòng được trang trí đẹp mắt, nhưng thiếu không gian để làm việc hiệu quả.
+{ROOMS#DESIGN&FEATURES, neutral}, {ROOMS#GENERAL, neutral}
+
+#4882
+Khu vực lễ tân sạch sẽ, nhưng thiếu một không gian để ngồi thư giãn.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4883
+Phòng có đầy đủ tiện nghi cơ bản, nhưng thiếu các lựa chọn giải trí như truyền hình cáp.
+{ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#MISCELLANEOUS, neutral}
+
+#4884
+Giá cả hợp lý, nhưng chất lượng phòng không thực sự vượt trội.
+{ROOMS#PRICES, neutral}, {ROOMS#QUALITY, neutral}
+
+#4885
+Không gian phòng nghỉ thoải mái, nhưng thiếu ánh sáng tự nhiên.
+{ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4886
+Bữa sáng có đa dạng món ăn, nhưng không phải lúc nào cũng tươi mới.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#4887
+Phòng sạch sẽ và đủ rộng, nhưng không có nhiều đồ dùng cá nhân như khăn tắm hay dầu gội.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4888
+Khách sạn có vị trí thuận tiện, nhưng thiếu các dịch vụ tiện ích như spa hoặc massage.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4889
+Dịch vụ phòng khá nhanh chóng, nhưng không phải lúc nào cũng chính xác.
+{SERVICE#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4890
+Phòng nghỉ có chất lượng tốt, nhưng thiếu không gian để thư giãn.
+{ROOMS#QUALITY, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4891
+Khách sạn có thiết kế hiện đại, nhưng khu vực ngoài trời khá đơn điệu.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4892
+Khách sạn có các tiện nghi đầy đủ, nhưng không có đủ không gian để chứa đồ.
+{HOTEL#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4893
+Bữa sáng khá tốt, nhưng không có các món ăn healthy như trái cây tươi.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#4894
+Khách sạn sạch sẽ nhưng có vẻ thiếu sự chú ý đến chi tiết trong việc trang trí.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#DESIGN&FEATURES, neutral}
+
+#4895
+Giường khá thoải mái, nhưng không có nhiều lựa chọn gối.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#4896
+Khách sạn có vị trí tốt, nhưng không có bãi đỗ xe đủ lớn.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4897
+Dịch vụ trong khách sạn khá ổn, nhưng nhân viên có vẻ thiếu sự nhiệt tình.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4898
+Phòng nghỉ tiện nghi đầy đủ, nhưng điều hòa hơi ồn ào.
+{ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#4899
+Khách sạn có vị trí tốt, nhưng không có nhiều hoạt động giải trí tại chỗ.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4900
+Phòng có chất lượng tốt, nhưng thiếu không gian làm việc thoải mái.
+{ROOMS#QUALITY, neutral}, {ROOMS#GENERAL, neutral}
+
+#4901
+Phòng nghỉ sạch sẽ nhưng thiết kế chưa thật sự ấn tượng, có thể cải thiện về không gian.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4902
+Khách sạn có vị trí khá tốt, nhưng phòng hơi nhỏ so với mong đợi.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}
+
+#4903
+Nhân viên lịch sự, nhưng thủ tục nhận phòng cần được cải thiện.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4904
+Bữa sáng tại khách sạn có nhiều món, nhưng một số món ăn không thật sự tươi.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#4905
+Phòng khá yên tĩnh, nhưng điều hòa làm việc không hiệu quả, hơi nóng.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#4906
+Khách sạn có các tiện nghi cơ bản, nhưng thiếu một số tiện ích giải trí.
+{HOTEL#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4907
+Vị trí khách sạn khá tốt, nhưng khu vực xung quanh hơi ồn ào vào ban đêm.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4908
+Phòng sạch sẽ và tiện nghi, nhưng thiếu không gian để lưu trữ đồ đạc.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4909
+Khách sạn có thiết kế hiện đại, nhưng các tiện nghi trong phòng chưa đáp ứng tốt nhu cầu.
+{HOTEL#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4910
+Phòng nghỉ rộng rãi, nhưng thiếu ánh sáng tự nhiên.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4911
+Khách sạn sạch sẽ nhưng không có đủ chỗ ngồi trong khu vực chung.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4912
+Dịch vụ phòng khá nhanh chóng, nhưng một số yêu cầu không được xử lý chính xác.
+{SERVICE#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4913
+Khách sạn có vị trí đẹp nhưng dịch vụ không đồng đều, cần cải thiện thêm.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4914
+Giá phòng hợp lý, nhưng chất lượng phòng chưa đạt mong đợi.
+{ROOMS#PRICES, neutral}, {ROOMS#QUALITY, neutral}
+
+#4915
+Phòng ngủ thoải mái, nhưng thiết kế nội thất có phần đơn giản.
+{ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4916
+Bữa sáng ổn, nhưng không có nhiều lựa chọn món ăn chay.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#4917
+Nhân viên lễ tân thân thiện, nhưng không thể hỗ trợ kịp thời khi cần.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4918
+Khách sạn có các tiện nghi cơ bản, nhưng thiếu các lựa chọn giải trí như hồ bơi hoặc phòng gym.
+{HOTEL#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4919
+Phòng sạch sẽ, nhưng không gian hơi chật chội khi ở lâu dài.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#COMFORT, neutral}
+
+#4920
+Khách sạn có vị trí tốt, nhưng không có nhiều lựa chọn ăn uống gần đó.
+{LOCATION#GENERAL, neutral}, {FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4921
+Khách sạn khá yên tĩnh nhưng thiếu sự chú trọng đến không gian ngoài trời.
+{HOTEL#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4922
+Phòng khá sạch sẽ, nhưng không có nhiều tiện nghi bổ sung như bàn ủi hay máy sấy tóc.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4923
+Giá cả hợp lý, nhưng không có sự khác biệt gì so với các khách sạn khác trong khu vực.
+{HOTEL#PRICES, neutral}, {HOTEL#GENERAL, neutral}
+
+#4924
+Phòng nghỉ được dọn dẹp sạch sẽ, nhưng thiếu sự quan tâm đến chi tiết nhỏ.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4925
+Vị trí khách sạn khá thuận tiện, nhưng thiếu các dịch vụ tiện ích như đưa đón khách.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4926
+Phòng khá đẹp, nhưng thiếu ánh sáng trong phòng tắm.
+{ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4927
+Nhân viên lễ tân rất lịch sự, nhưng sự phục vụ chưa thực sự nhanh chóng.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4928
+Phòng khá rộng rãi, nhưng giường hơi mềm, không thoải mái cho những ai thích giường cứng.
+{ROOMS#GENERAL, neutral}, {ROOMS#COMFORT, neutral}
+
+#4929
+Khách sạn có thiết kế hiện đại, nhưng thiếu các tiện nghi cho trẻ em.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4930
+Vị trí khách sạn khá tốt, nhưng khu vực phòng tắm hơi nhỏ.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4931
+Phòng đẹp, nhưng thiếu không gian để làm việc.
+{ROOMS#DESIGN&FEATURES, neutral}, {ROOMS#GENERAL, neutral}
+
+#4932
+Dịch vụ phòng rất nhanh, nhưng vẫn cần cải thiện về độ chính xác.
+{SERVICE#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4933
+Khách sạn có thiết kế đẹp mắt, nhưng không có không gian để khách thư giãn ngoài phòng.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4934
+Phòng sạch sẽ, nhưng thiếu các tiện nghi cơ bản như dép đi trong phòng.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4935
+Khách sạn có vị trí thuận tiện, nhưng thiếu các dịch vụ nâng cao như spa hoặc massage.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4936
+Giường rất thoải mái, nhưng không có nhiều lựa chọn về gối.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#4937
+Phòng được trang trí đơn giản, nhưng thiếu các chi tiết tinh tế như tranh ảnh hoặc cây xanh.
+{ROOMS#DESIGN&FEATURES, neutral}, {ROOMS#GENERAL, neutral}
+
+#4938
+Khách sạn có vị trí khá tốt, nhưng thiếu các dịch vụ ăn uống phong phú trong khuôn viên.
+{LOCATION#GENERAL, neutral}, {FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4939
+Nhân viên rất thân thiện, nhưng tốc độ phục vụ chưa nhanh.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4940
+Khách sạn có thiết kế đẹp, nhưng không có nhiều hoạt động giải trí trong khuôn viên.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4941
+Phòng có không gian vừa phải, nhưng thiếu ánh sáng tự nhiên.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4942
+Phòng nghỉ khá thoải mái, nhưng thiếu nhiều tiện nghi trong phòng tắm.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4943
+Khách sạn có không gian yên tĩnh, nhưng thiếu một số tiện ích như hồ bơi hoặc phòng gym.
+{HOTEL#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4944
+Giá phòng hợp lý, nhưng chất lượng phòng không được cải thiện nhiều so với lần trước.
+{ROOMS#PRICES, neutral}, {ROOMS#QUALITY, neutral}
+
+#4945
+Khách sạn có khu vực chung rộng rãi, nhưng thiếu ghế ngồi để thư giãn.
+{HOTEL#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4946
+Phòng sạch sẽ, nhưng thiếu nhiều không gian để đặt hành lý.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#GENERAL, neutral}
+
+#4947
+Khách sạn có vị trí khá thuận tiện, nhưng các phòng tắm cần được cải thiện về chất lượng.
+{LOCATION#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4948
+Phòng rộng rãi, nhưng thiếu các lựa chọn giải trí trong phòng.
+{ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#MISCELLANEOUS, neutral}
+
+#4949
+Nhân viên lễ tân nhiệt tình, nhưng không có nhiều sự hỗ trợ về các dịch vụ khách sạn.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4950
+Khách sạn có phòng nghỉ khá thoải mái, nhưng thiếu dịch vụ đưa đón khách tới các điểm tham quan.
+{ROOMS#COMFORT, neutral}, {HOTEL#GENERAL, neutral}
+
+#4951
+Phòng nghỉ sạch sẽ và thoải mái, nhưng thiếu ánh sáng tự nhiên.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4952
+Khách sạn có vị trí thuận tiện, nhưng khu vực xung quanh khá ồn ào.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4953
+Bữa sáng khá đầy đủ, nhưng không có nhiều lựa chọn món ăn cho người ăn chay.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#4954
+Phòng thoải mái, nhưng thiếu một số tiện nghi cơ bản như bàn ủi và máy sấy tóc.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4955
+Khách sạn có thiết kế đẹp nhưng thiếu không gian thư giãn ngoài phòng nghỉ.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4956
+Nhân viên lễ tân rất thân thiện, nhưng thủ tục nhận phòng khá mất thời gian.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4957
+Vị trí khách sạn khá thuận tiện, nhưng không có nhiều hoạt động giải trí trong khu vực.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4958
+Phòng sạch sẽ nhưng không có đủ không gian để lưu trữ hành lý.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4959
+Khách sạn có đầy đủ tiện nghi cơ bản, nhưng thiếu các dịch vụ bổ sung như spa hay phòng tập gym.
+{HOTEL#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4960
+Phòng khá yên tĩnh, nhưng hệ thống điều hòa không khí làm việc khá ồn ào.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#4961
+Khách sạn có vị trí tốt, nhưng không có nhiều lựa chọn về nhà hàng hoặc quán cà phê gần đó.
+{LOCATION#GENERAL, neutral}, {FOOD&DRINKS#MISCELLANEOUS, neutral}
+
+#4962
+Giường khá thoải mái, nhưng gối hơi mỏng và không đủ hỗ trợ.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#4963
+Phòng nghỉ được trang trí đẹp mắt, nhưng thiếu đủ ánh sáng cho các hoạt động trong phòng.
+{ROOMS#DESIGN&FEATURES, neutral}, {ROOMS#GENERAL, neutral}
+
+#4964
+Khách sạn có thiết kế hiện đại, nhưng khu vực lễ tân khá nhỏ, không đủ chỗ ngồi cho khách.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4965
+Bữa sáng có nhiều lựa chọn, nhưng một số món ăn không được làm tươi.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#4966
+Phòng khá rộng rãi, nhưng không có nhiều tiện nghi bổ sung trong phòng tắm.
+{ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4967
+Khách sạn có vị trí thuận lợi, nhưng khu vực ngoài trời thiếu tiện ích như ghế ngồi hoặc bàn.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4968
+Phòng nghỉ sạch sẽ, nhưng thiếu không gian để làm việc hoặc đọc sách thoải mái.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#GENERAL, neutral}
+
+#4969
+Dịch vụ phòng khá nhanh, nhưng có lúc nhân viên không thể thực hiện đúng yêu cầu.
+{SERVICE#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4970
+Khách sạn có đầy đủ tiện nghi cơ bản, nhưng không có bãi đỗ xe rộng rãi cho khách.
+{HOTEL#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4971
+Phòng đẹp và thoải mái, nhưng không có đầy đủ các vật dụng vệ sinh cá nhân.
+{ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#4972
+Khách sạn có vị trí thuận tiện, nhưng không có các dịch vụ bổ sung như xe đưa đón.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4973
+Phòng sạch sẽ và yên tĩnh, nhưng thiếu các hoạt động giải trí trong khuôn viên.
+{ROOMS#CLEANLINESS, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4974
+Giường ngủ khá thoải mái, nhưng thiếu nhiều loại gối để lựa chọn.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#4975
+Bữa sáng ổn, nhưng không có các món ăn nhẹ cho người muốn ăn kiêng.
+{FOOD&DRINKS#QUALITY, neutral}, {FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4976
+Khách sạn có phòng nghỉ đẹp, nhưng thiếu các tiện nghi như minibar hoặc tủ lạnh.
+{HOTEL#GENERAL, neutral}, {ROOM_AMENITIES#MISCELLANEOUS, neutral}
+
+#4977
+Khách sạn có khu vực chung sạch sẽ, nhưng thiếu không gian để khách thư giãn hoặc đọc sách.
+{HOTEL#CLEANLINESS, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4978
+Phòng nghỉ khá thoải mái, nhưng không có đủ không gian để lưu trữ đồ đạc.
+{ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4979
+Khách sạn có dịch vụ tốt, nhưng không có nhiều dịch vụ vui chơi hoặc giải trí trong khuôn viên.
+{SERVICE#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4980
+Khách sạn có không gian phòng rộng rãi, nhưng thiếu các tiện ích như phòng tập gym hoặc spa.
+{ROOMS#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4981
+Phòng sạch sẽ và ngăn nắp, nhưng thiếu các lựa chọn về gối và chăn.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#4982
+Giường khá thoải mái, nhưng không có đủ không gian để đặt đồ đạc cá nhân.
+{ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4983
+Bữa sáng có đủ các món cơ bản, nhưng thiếu các lựa chọn bữa sáng lành mạnh.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#4984
+Khách sạn có vị trí thuận lợi, nhưng không có dịch vụ cho khách tham quan khu vực xung quanh.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4985
+Phòng đẹp nhưng thiếu sự chăm sóc về chi tiết nhỏ, như tranh ảnh hoặc cây xanh.
+{ROOMS#DESIGN&FEATURES, neutral}, {ROOMS#MISCELLANEOUS, neutral}
+
+#4986
+Khách sạn có thiết kế đẹp mắt, nhưng thiếu một số tiện ích cơ bản như máy pha cà phê trong phòng.
+{HOTEL#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4987
+Nhân viên lễ tân rất thân thiện, nhưng thời gian chờ đợi khi check-in khá lâu.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#4988
+Khách sạn có khu vực ăn uống thoải mái, nhưng không có nhiều lựa chọn thực đơn cho người ăn kiêng.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#MISCELLANEOUS, neutral}
+
+#4989
+Phòng khá rộng, nhưng thiếu các tiện nghi như bàn làm việc hoặc chỗ ngồi thoải mái.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4990
+Khách sạn có vị trí tốt, nhưng các hoạt động giải trí trong khuôn viên chưa phong phú.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4991
+Phòng nghỉ có đầy đủ tiện nghi, nhưng không có đủ ánh sáng trong phòng tắm.
+{ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#4992
+Khách sạn có thiết kế hiện đại, nhưng thiếu các tiện nghi như ghế ngồi ngoài trời.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4993
+Phòng khá thoải mái nhưng thiếu các tiện nghi như bàn ủi hoặc máy sấy tóc.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4994
+Bữa sáng ổn, nhưng không có nhiều món ăn sáng nhẹ và lành mạnh.
+{FOOD&DRINKS#QUALITY, neutral}, {FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#4995
+Khách sạn có phòng nghỉ khá thoải mái, nhưng không có đủ các đồ dùng cần thiết cho kỳ nghỉ dài ngày.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4996
+Phòng nghỉ đẹp nhưng thiếu một số tiện ích cần thiết như gương trang điểm.
+{ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#4997
+Khách sạn có vị trí thuận tiện, nhưng thiếu các hoạt động giải trí cho gia đình.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#4998
+Phòng sạch sẽ, nhưng không có đủ không gian để lưu trữ hành lý.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#4999
+Khách sạn có dịch vụ tốt, nhưng không có các tiện ích như bãi biển riêng hoặc khu vực thư giãn ngoài trời.
+{SERVICE#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5000
+Khách sạn có vị trí tốt nhưng thiếu sự sáng tạo trong thiết kế và dịch vụ.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5001
+Khách sạn có vị trí rất thuận tiện, gần các điểm tham quan nổi bật trong thành phố, nhưng không gian phòng nghỉ lại khá chật chội, không đủ không gian để di chuyển thoải mái. Điều này làm cho trải nghiệm lưu trú không thật sự thoải mái như tôi mong đợi.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}
+
+#5002
+Dịch vụ của khách sạn nhìn chung khá tốt, tuy nhiên, tôi cảm thấy thời gian chờ đợi khi nhận phòng quá lâu, và nhân viên không chủ động hỗ trợ khách khi có yêu cầu. Điều này khiến tôi cảm thấy chưa hài lòng về mức độ chuyên nghiệp của đội ngũ nhân viên.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5003
+Phòng của khách sạn khá sạch sẽ và được trang trí hiện đại, tuy nhiên, không có nhiều ánh sáng tự nhiên vì cửa sổ khá nhỏ, điều này làm cho không gian phòng hơi u ám, không tạo cảm giác thoải mái như tôi mong đợi.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5004
+Bữa sáng của khách sạn có sự đa dạng về các món ăn, nhưng chất lượng không đồng đều. Một số món ăn như bánh mì hay trái cây không được làm tươi mới, khiến tôi cảm thấy không hài lòng với bữa sáng tại đây.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#5005
+Khách sạn có khu vực ngoài trời khá rộng, tuy nhiên, lại thiếu các tiện ích như ghế ngồi thư giãn hay bàn để khách có thể thưởng thức cà phê ngoài trời. Điều này làm cho không gian ngoài trời không thật sự hữu ích hoặc thoải mái.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5006
+Giường trong phòng khá thoải mái và dễ ngủ, tuy nhiên, gối hơi mỏng và không cung cấp nhiều sự lựa chọn về độ dày, điều này khiến tôi không thể có giấc ngủ thật sự sâu và thư giãn.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#5007
+Phòng nghỉ tại khách sạn có không gian khá rộng rãi, nhưng không có nhiều tiện nghi hỗ trợ cho việc làm việc, như bàn làm việc lớn hay ghế thoải mái. Điều này là một bất lợi nếu bạn có kế hoạch làm việc trong suốt thời gian lưu trú.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5008
+Khách sạn có vị trí lý tưởng với rất nhiều nhà hàng và cửa hàng xung quanh, nhưng không có khu vực đỗ xe đủ rộng rãi cho tất cả khách hàng. Điều này khiến tôi cảm thấy không tiện lợi khi muốn tự lái xe đi đâu đó.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5009
+Khách sạn có thiết kế nội thất đẹp mắt và hiện đại, nhưng thiếu những chi tiết nhỏ như tranh ảnh hay cây xanh trang trí trong phòng, làm cho không gian cảm giác thiếu ấm cúng và thân thiện.
+{HOTEL#DESIGN&FEATURES, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5010
+Mặc dù phòng nghỉ tại khách sạn sạch sẽ và được bảo trì tốt, nhưng điều hòa trong phòng làm việc không hiệu quả, khiến không khí trong phòng khá oi bức vào những ngày hè nóng nực. Điều này làm giảm trải nghiệm của tôi tại khách sạn.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#5011
+Dịch vụ phòng của khách sạn khá nhanh, nhưng thỉnh thoảng có những lỗi nhỏ trong việc phục vụ, như quên không thay khăn tắm hoặc không bổ sung đầy đủ các vật dụng cần thiết. Những chi tiết nhỏ này khiến tôi cảm thấy không hoàn toàn hài lòng với dịch vụ.
+{SERVICE#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5012
+Khách sạn có vị trí thuận lợi, nhưng thiếu các dịch vụ giải trí trong khuôn viên như phòng gym hoặc spa. Điều này khiến tôi cảm thấy không có nhiều lựa chọn cho các hoạt động ngoài trời hoặc thư giãn trong suốt thời gian lưu trú.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5013
+Khách sạn có khu vực chung rộng rãi, nhưng thiếu chỗ ngồi thư giãn. Không có không gian để khách có thể ngồi và tận hưởng không khí trong khi chờ đợi, điều này khiến khu vực chung trở nên khá lãng phí và không có nhiều công dụng.
+{HOTEL#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5014
+Mặc dù phòng nghỉ tại khách sạn rất sạch sẽ và thoải mái, nhưng tôi nhận thấy không có đủ không gian để cất giữ hành lý. Một chiếc tủ quần áo nhỏ và ít móc treo khiến tôi cảm thấy khá bất tiện.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5015
+Bữa sáng tại khách sạn khá đầy đủ và phong phú, nhưng tôi cảm thấy các món ăn nóng không được giữ ấm đủ lâu, dẫn đến việc chúng bị nguội và không còn ngon miệng như lúc mới chuẩn bị.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#5016
+Khách sạn có vị trí thuận tiện để di chuyển đến các điểm du lịch nổi tiếng, nhưng khu vực bên ngoài lại khá ồn ào và tấp nập, điều này ảnh hưởng đến sự yên tĩnh trong phòng nghỉ của tôi.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5017
+Mặc dù khách sạn có nhiều tiện nghi, nhưng tôi cảm thấy một số trang thiết bị trong phòng, như điều hòa hay đèn chiếu sáng, không hoạt động ổn định, điều này khiến tôi cảm thấy không thoải mái.
+{HOTEL#GENERAL, neutral}, {ROOM_AMENITIES#QUALITY, neutral}
+
+#5018
+Khách sạn cung cấp dịch vụ miễn phí Wi-Fi, nhưng tốc độ kết nối rất chậm, đặc biệt là trong các khu vực chung. Điều này khiến việc làm việc hoặc giải trí trực tuyến trở nên khó khăn và gây thất vọng trong kỳ nghỉ.
+{HOTEL#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5019
+Phòng ngủ được dọn dẹp sạch sẽ mỗi ngày, nhưng đôi khi tôi nhận thấy những chi tiết nhỏ bị bỏ qua, chẳng hạn như không thay hết khăn tắm hoặc không làm lại giường đúng cách. Những điều này ảnh hưởng đến cảm nhận về chất lượng dịch vụ.
+{ROOMS#CLEANLINESS, neutral}, {SERVICE#GENERAL, neutral}
+
+#5020
+Khách sạn có một thiết kế hiện đại và đẹp mắt, nhưng lại thiếu không gian để tổ chức các sự kiện hoặc họp mặt cho khách. Điều này làm giảm khả năng phục vụ những khách có nhu cầu tổ chức sự kiện trong kỳ nghỉ.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5021
+Giường ngủ khá thoải mái và sạch sẽ, nhưng tôi cảm thấy thiếu một số đồ dùng cần thiết như dép đi trong phòng hoặc áo choàng tắm, những thứ này làm cho kỳ nghỉ của tôi không thật sự trọn vẹn.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5022
+Khách sạn có một khu vực ăn uống khá rộng rãi, nhưng thiếu các món ăn đa dạng hơn cho những người có chế độ ăn kiêng hoặc nhu cầu ăn uống đặc biệt. Điều này khiến tôi cảm thấy không được chăm sóc đầy đủ.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {HOTEL#GENERAL, neutral}
+
+#5023
+Phòng ngủ khá rộng rãi và thoải mái, nhưng không có đủ ánh sáng trong phòng tắm, điều này làm cho tôi cảm thấy không thoải mái khi sử dụng khu vực này.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#5024
+Mặc dù khách sạn có vị trí thuận tiện, nhưng tôi nhận thấy sự thiếu hụt của các tiện ích ngoài trời như hồ bơi hoặc khu vực thư giãn, điều này khiến tôi cảm thấy có phần thất vọng về lựa chọn giải trí.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5025
+Khách sạn có dịch vụ phòng tốt, nhưng thời gian chờ đợi khá lâu và không phải lúc nào cũng đáp ứng yêu cầu của tôi đúng giờ. Điều này khiến tôi cảm thấy dịch vụ chưa thật sự chuyên nghiệp.
+{SERVICE#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5026
+Bữa sáng khá phong phú, nhưng các món ăn như bánh mì và bánh ngọt thường không được giữ nóng, khiến tôi không cảm thấy thoải mái khi thưởng thức.
+{FOOD&DRINKS#QUALITY, neutral}, {FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#5027
+Phòng nghỉ của khách sạn khá sạch sẽ và thoải mái, nhưng thiếu các tiện nghi như minibar hoặc máy pha cà phê, điều này làm giảm cảm giác tiện nghi trong suốt kỳ nghỉ.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#MISCELLANEOUS, neutral}
+
+#5028
+Khách sạn có vị trí lý tưởng, gần các điểm tham quan du lịch nổi tiếng, nhưng khu vực xung quanh lại không có nhiều quán cà phê hay nhà hàng để khách có thể dễ dàng thưởng thức bữa ăn ngoài khách sạn.
+{LOCATION#GENERAL, neutral}, {FOOD&DRINKS#MISCELLANEOUS, neutral}
+
+#5029
+Khách sạn có thiết kế đẹp mắt, nhưng thiếu một số tiện ích ngoài trời như ghế ngồi thoải mái hay bàn để khách có thể thư giãn hoặc thưởng thức đồ uống ngoài trời.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5030
+Dịch vụ của khách sạn khá tốt, nhưng tôi cảm thấy nhân viên cần được đào tạo thêm về cách xử lý các tình huống khẩn cấp, vì tôi đã gặp sự cố và không được hỗ trợ kịp thời.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5031
+Khách sạn có vị trí thuận tiện, nhưng không có nhiều dịch vụ phụ trợ như đưa đón khách đến các điểm tham quan hoặc các dịch vụ đặc biệt dành cho gia đình.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5032
+Phòng nghỉ của khách sạn khá sạch sẽ và tiện nghi, nhưng thiếu các lựa chọn gối khác nhau, khiến tôi không cảm thấy thật sự thoải mái khi ngủ.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#5033
+Khách sạn có dịch vụ phòng khá tốt, nhưng thời gian chờ đợi khi yêu cầu dịch vụ ăn uống khá lâu, làm giảm sự hài lòng của tôi.
+{SERVICE#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5034
+Bữa sáng tại khách sạn rất phong phú và đa dạng, nhưng không có nhiều món ăn ít calo hoặc dành cho người ăn kiêng.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#5035
+Khách sạn có phòng ngủ rất rộng và thoải mái, nhưng thiếu không gian làm việc như một bàn làm việc lớn hoặc ghế thoải mái, khiến tôi cảm thấy khó làm việc trong phòng.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5036
+Khách sạn có thiết kế khá đẹp và hiện đại, nhưng thiếu sự chú ý đến các tiện nghi như giày dép trong phòng hoặc các vật dụng cơ bản khác.
+{HOTEL#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5037
+Khách sạn cung cấp dịch vụ khá tốt, nhưng tôi không hài lòng với cách xử lý các yêu cầu đặc biệt của khách, chẳng hạn như yêu cầu thêm giường phụ hoặc thay đổi phòng.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5038
+Khách sạn có vị trí đẹp và thuận tiện, nhưng thiếu không gian để khách có thể thư giãn và thưởng thức cà phê ngoài trời, điều này làm giảm trải nghiệm tại khách sạn.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5039
+Khách sạn có đầy đủ tiện nghi cơ bản, nhưng không có đủ không gian cho các khách hàng lớn hoặc gia đình có trẻ em.
+{HOTEL#GENERAL, neutral}, {ROOMS#GENERAL, neutral}
+
+#5040
+Phòng nghỉ được vệ sinh sạch sẽ và gọn gàng, nhưng thiếu ánh sáng tự nhiên, khiến tôi cảm thấy hơi bí bách trong suốt kỳ nghỉ.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5041
+Khách sạn có vị trí rất đẹp và thuận tiện cho việc di chuyển, nhưng thiếu các tiện ích bổ sung như spa hay bể bơi, làm giảm cảm giác thư giãn trong suốt kỳ nghỉ.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5042
+Phòng khá rộng, nhưng không có đủ không gian để cất giữ hành lý hoặc đồ đạc cá nhân, điều này làm tôi cảm thấy bất tiện trong suốt kỳ nghỉ.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5043
+Dịch vụ tại khách sạn tốt, nhưng không có dịch vụ đưa đón khách từ sân bay, điều này khiến việc di chuyển trở nên khó khăn đối với tôi.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5044
+Phòng nghỉ tại khách sạn có thiết kế đẹp, nhưng thiếu các tiện nghi như minibar hoặc máy pha cà phê. Điều này làm giảm trải nghiệm của tôi khi nghỉ ngơi tại đây.
+{ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#MISCELLANEOUS, neutral}
+
+#5045
+Khách sạn có vị trí thuận lợi và tiện nghi đầy đủ, nhưng thiếu sự chăm sóc đến từng chi tiết nhỏ trong phòng, như thiếu khăn tắm hoặc không cung cấp thêm đồ vệ sinh cá nhân.
+{LOCATION#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5046
+Khách sạn có thiết kế rất đẹp, nhưng thiếu các dịch vụ như phòng gym hoặc spa, điều này làm tôi cảm thấy không thật sự hài lòng với kỳ nghỉ của mình.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5047
+Phòng của khách sạn khá rộng và thoải mái, nhưng thiếu các lựa chọn về ghế ngồi hoặc bàn làm việc trong phòng, làm giảm khả năng làm việc trong suốt kỳ nghỉ.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5048
+Khách sạn có dịch vụ tốt, nhưng không có nhiều sự lựa chọn về thực đơn tại nhà hàng, điều này làm giảm sự hấp dẫn của bữa ăn trong khách sạn.
+{SERVICE#GENERAL, neutral}, {FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#5049
+Khách sạn có vị trí lý tưởng, nhưng không có nhiều hoạt động giải trí hoặc khu vực thư giãn ngoài phòng nghỉ.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5050
+Phòng nghỉ của khách sạn rất sạch sẽ, nhưng thiếu các tiện nghi bổ sung như máy pha cà phê hoặc minibar, điều này khiến tôi cảm thấy thiếu tiện nghi trong suốt thời gian lưu trú.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#MISCELLANEOUS, neutral}
+
+#5051
+Khách sạn có vị trí rất thuận tiện, gần các trung tâm mua sắm và các điểm du lịch nổi tiếng, nhưng phòng nghỉ lại khá nhỏ và thiếu không gian để di chuyển thoải mái. Điều này khiến tôi cảm thấy không thật sự thoải mái khi lưu trú.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}
+
+#5052
+Mặc dù khách sạn có dịch vụ khá tốt, nhưng tôi cảm thấy việc nhận phòng khá chậm và thiếu sự phối hợp giữa các bộ phận. Lúc tôi đến, nhân viên không thông báo rõ về các tiện ích trong khách sạn khiến tôi phải tự tìm hiểu.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5053
+Phòng nghỉ tại khách sạn rất sạch sẽ và ngăn nắp, nhưng hệ thống điều hòa không hoạt động tốt, khiến tôi cảm thấy khá nóng và khó chịu trong suốt kỳ nghỉ. Điều này làm giảm đi sự thoải mái mà tôi kỳ vọng từ khách sạn.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#5054
+Khách sạn có khu vực ăn uống rộng rãi và nhiều lựa chọn, nhưng chất lượng một số món ăn không thật sự ngon, đặc biệt là các món chiên, chúng hơi dầu mỡ và không tươi. Tôi mong rằng khách sạn có thể cải thiện chất lượng bữa sáng hơn nữa.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#5055
+Phòng nghỉ khá thoải mái, nhưng thiếu các tiện nghi cơ bản như bàn ủi hay máy sấy tóc. Điều này làm tôi cảm thấy không tiện lợi trong suốt kỳ nghỉ của mình, đặc biệt là khi tôi cần phải chuẩn bị trang phục cho các cuộc họp quan trọng.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5056
+Khách sạn có thiết kế nội thất hiện đại và đẹp mắt, nhưng khu vực lễ tân quá nhỏ, khiến tôi phải chờ đợi lâu để được phục vụ. Điều này thật sự gây khó chịu khi tôi vừa mới đến khách sạn sau chuyến đi dài.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#GENERAL, neutral}
+
+#5057
+Vị trí khách sạn rất thuận lợi, gần các điểm tham quan chính của thành phố, nhưng tôi cảm thấy không khí xung quanh khá ồn ào vào ban đêm. Điều này ảnh hưởng đến giấc ngủ của tôi, khiến tôi không thể ngủ ngon suốt kỳ nghỉ.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5058
+Phòng nghỉ được dọn dẹp sạch sẽ, nhưng không có không gian riêng tư đủ lớn để tôi có thể làm việc. Tôi phải ngồi làm việc tại giường hoặc bàn nhỏ trong phòng, điều này không tiện cho một kỳ nghỉ dài ngày.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5059
+Khách sạn có dịch vụ rất chu đáo, nhưng không có khu vực thư giãn ngoài trời hoặc bể bơi. Điều này khiến tôi cảm thấy thiếu sự lựa chọn để thư giãn trong những ngày nghỉ tại đây.
+{SERVICE#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5060
+Mặc dù khách sạn có vị trí rất thuận tiện và gần các trung tâm mua sắm, nhưng tôi thấy không có nhiều dịch vụ bổ sung như đưa đón khách đến các điểm tham quan, điều này khiến tôi cảm thấy thiếu sự chăm sóc khách hàng.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5061
+Giường ngủ tại khách sạn rất thoải mái và giấc ngủ của tôi khá sâu, nhưng thiếu các lựa chọn về gối, và tôi cảm thấy gối khá mỏng, không đủ hỗ trợ. Điều này khiến tôi không có giấc ngủ hoàn toàn thoải mái.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#5062
+Khách sạn có khu vực sảnh đẹp mắt và sang trọng, nhưng thiếu không gian nghỉ ngơi cho khách chờ đợi. Khu vực sảnh nhỏ và không đủ ghế ngồi, điều này khiến tôi cảm thấy không thật sự thoải mái khi phải chờ đợi.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5063
+Phòng nghỉ tại khách sạn có đầy đủ tiện nghi cơ bản, nhưng thiếu sự chú trọng đến các chi tiết nhỏ, chẳng hạn như không có các đồ dùng cá nhân bổ sung như kem dưỡng da hoặc nước hoa. Điều này làm giảm sự tiện nghi khi lưu trú.
+{ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5064
+Khách sạn có khu vực ăn uống phong phú và đầy đủ, nhưng tôi cảm thấy các món ăn không được tươi và không giữ được độ nóng lâu, đặc biệt là các món thịt và hải sản. Điều này khiến tôi không hài lòng với bữa sáng tại đây.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#5065
+Dịch vụ phòng tại khách sạn khá nhanh chóng và tiện lợi, nhưng tôi cảm thấy thiếu sự chuyên nghiệp trong việc xử lý yêu cầu của khách, như thiếu các vật dụng cơ bản trong phòng tắm hoặc khăn tắm bị thiếu.
+{SERVICE#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5066
+Khách sạn có thiết kế khá hiện đại và sang trọng, nhưng phòng tắm khá nhỏ và không đủ không gian để tôi cảm thấy thoải mái khi sử dụng. Điều này làm giảm trải nghiệm nghỉ dưỡng của tôi.
+{HOTEL#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#5067
+Phòng nghỉ tại khách sạn khá thoải mái và sạch sẽ, nhưng không có nhiều không gian để lưu trữ đồ đạc cá nhân. Tủ quần áo quá nhỏ và thiếu các kệ để đặt hành lý, khiến tôi cảm thấy khá bất tiện.
+{ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5068
+Khách sạn có một không gian đẹp mắt và hiện đại, nhưng thiếu các tiện nghi như hồ bơi hoặc khu vực spa. Điều này khiến tôi không thể thư giãn trọn vẹn trong suốt kỳ nghỉ của mình.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5069
+Khách sạn có vị trí thuận lợi, nhưng thiếu các dịch vụ cao cấp như đưa đón sân bay hay hỗ trợ vận chuyển hành lý. Điều này khiến tôi cảm thấy không thật sự được chăm sóc đầy đủ.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5070
+Phòng nghỉ rất sạch sẽ và thoải mái, nhưng không có nhiều ánh sáng tự nhiên do cửa sổ nhỏ. Điều này làm tôi cảm thấy hơi bí bách và không thể tận hưởng không gian thoáng đãng.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5071
+Bữa sáng tại khách sạn rất đa dạng, nhưng thiếu các món ăn lành mạnh như trái cây tươi hoặc các món ăn ít calo. Điều này làm tôi cảm thấy không hài lòng khi lựa chọn món ăn phù hợp với chế độ ăn kiêng của mình.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#5072
+Khách sạn có phòng nghỉ rất đẹp và sạch sẽ, nhưng không có nhiều tiện nghi bổ sung trong phòng như minibar hoặc máy pha cà phê. Điều này khiến tôi cảm thấy thiếu tiện nghi khi ở lại lâu dài.
+{ROOMS#DESIGN&FEATURES, neutral}, {ROOM_AMENITIES#MISCELLANEOUS, neutral}
+
+#5073
+Khách sạn có vị trí tuyệt vời, nhưng thiếu sự chăm sóc chi tiết trong việc dọn dẹp phòng. Tôi thấy một số chi tiết nhỏ như không thay khăn tắm hoặc không làm giường đúng cách khiến tôi cảm thấy chưa hài lòng.
+{LOCATION#GENERAL, neutral}, {ROOMS#CLEANLINESS, neutral}
+
+#5074
+Phòng nghỉ khá rộng rãi và thoải mái, nhưng thiếu các lựa chọn về ghế ngồi hoặc bàn làm việc. Điều này làm tôi cảm thấy khó khăn khi muốn làm việc trong suốt thời gian lưu trú tại đây.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5075
+Khách sạn có thiết kế rất đẹp và hiện đại, nhưng tôi nhận thấy không có đủ chỗ ngồi trong khu vực sảnh. Khi khách sạn có nhiều người, tôi phải đứng chờ rất lâu.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5076
+Dịch vụ phòng tại khách sạn rất nhanh chóng, nhưng đôi khi họ không đáp ứng chính xác yêu cầu của tôi. Tôi đã yêu cầu thêm khăn tắm nhưng phải đợi khá lâu mới nhận được.
+{SERVICE#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5077
+Phòng nghỉ tại khách sạn sạch sẽ, nhưng thiếu ánh sáng trong phòng tắm và khu vực làm việc. Điều này khiến tôi cảm thấy thiếu thoải mái khi sử dụng phòng.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5078
+Khách sạn có vị trí thuận tiện, nhưng không có bãi đỗ xe rộng rãi và dễ dàng để khách đỗ xe, đặc biệt là vào giờ cao điểm. Điều này khiến tôi cảm thấy khá bất tiện.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5079
+Phòng nghỉ tại khách sạn rất thoải mái và yên tĩnh, nhưng thiếu các tiện nghi như máy pha cà phê hoặc một bộ trà trong phòng. Điều này làm tôi cảm thấy thiếu tiện nghi trong suốt kỳ nghỉ.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#MISCELLANEOUS, neutral}
+
+#5080
+Khách sạn có thiết kế đẹp và hiện đại, nhưng thiếu các tiện ích giải trí trong khuôn viên, như phòng gym hoặc khu vực thư giãn ngoài trời. Điều này khiến tôi cảm thấy thiếu lựa chọn cho các hoạt động giải trí.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5081
+Bữa sáng tại khách sạn rất đa dạng, nhưng các món ăn không tươi và thiếu sự thay đổi trong suốt thời gian tôi lưu trú. Điều này khiến tôi cảm thấy hơi nhàm chán khi ăn sáng tại đây mỗi ngày.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#5082
+Phòng nghỉ tại khách sạn khá rộng rãi và sạch sẽ, nhưng tôi cảm thấy không gian thiếu sự ấm cúng và dễ chịu, có thể là do thiếu những chi tiết trang trí nhỏ như cây xanh hay tranh ảnh.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5083
+Khách sạn có vị trí rất thuận tiện, nhưng tôi cảm thấy thiếu sự chú ý đến những chi tiết nhỏ trong phòng, như không cung cấp đầy đủ khăn tắm hoặc đồ vệ sinh cá nhân. Điều này làm tôi cảm thấy không được chăm sóc chu đáo.
+{LOCATION#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5084
+Phòng nghỉ của khách sạn sạch sẽ, nhưng không có không gian để tôi có thể làm việc thoải mái. Một bàn làm việc lớn và ghế ngồi thoải mái sẽ giúp tôi cảm thấy dễ chịu hơn khi cần phải làm việc trong suốt kỳ nghỉ.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5085
+Khách sạn có dịch vụ phòng khá tốt và nhanh chóng, nhưng tôi cảm thấy họ thiếu sự linh hoạt trong việc phục vụ các yêu cầu đặc biệt của khách, ví dụ như yêu cầu thay đổi phòng hoặc thêm giường phụ.
+{SERVICE#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5086
+Khách sạn có vị trí rất thuận tiện cho việc đi lại, nhưng tôi cảm thấy thiếu các dịch vụ tiện ích như phòng tập gym hoặc spa. Điều này khiến tôi cảm thấy kỳ nghỉ không hoàn toàn thư giãn.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5087
+Giường trong phòng rất thoải mái, nhưng thiếu các lựa chọn về gối. Tôi cảm thấy gối hơi mỏng và không đủ để tôi có thể ngủ ngon cả đêm.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#5088
+Khách sạn có khu vực ăn uống rộng rãi, nhưng không có nhiều lựa chọn món ăn chay hoặc lành mạnh. Điều này làm tôi cảm thấy không hài lòng khi phải tìm kiếm các món ăn phù hợp với chế độ ăn uống của mình.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#5089
+Phòng ngủ khá rộng rãi, nhưng không có nhiều lựa chọn tiện nghi như máy pha cà phê hoặc minibar. Điều này làm tôi cảm thấy thiếu tiện nghi khi lưu trú tại đây.
+{ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#MISCELLANEOUS, neutral}
+
+#5090
+Khách sạn có thiết kế đẹp, nhưng thiếu sự thoải mái trong khu vực sảnh, khi khách chờ đợi rất lâu mà không có chỗ ngồi. Điều này khiến tôi cảm thấy không hài lòng.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5091
+Khách sạn có dịch vụ nhanh chóng và hiệu quả, nhưng thiếu các tiện nghi giải trí như hồ bơi hoặc phòng tập gym. Điều này làm tôi cảm thấy thiếu lựa chọn giải trí trong suốt kỳ nghỉ.
+{SERVICE#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5092
+Phòng nghỉ tại khách sạn rất sạch sẽ và ngăn nắp, nhưng không có đủ không gian để tôi có thể cất giữ hành lý và đồ đạc cá nhân. Điều này làm tôi cảm thấy bất tiện trong suốt thời gian lưu trú.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5093
+Khách sạn có vị trí lý tưởng, nhưng các tiện nghi phòng tắm còn thiếu sót như không có bàn chải hoặc gương trang điểm. Điều này khiến tôi cảm thấy không thoải mái khi sử dụng các tiện ích trong phòng.
+{LOCATION#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5094
+Bữa sáng tại khách sạn rất phong phú, nhưng một số món ăn không được giữ nóng lâu, đặc biệt là các món hải sản. Điều này làm giảm chất lượng bữa ăn trong khách sạn.
+{FOOD&DRINKS#QUALITY, neutral}, {FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#5095
+Phòng nghỉ tại khách sạn khá thoải mái, nhưng tôi nhận thấy thiếu các tiện nghi như máy pha cà phê hay tủ lạnh. Điều này khiến tôi cảm thấy thiếu tiện nghi trong suốt kỳ nghỉ.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#MISCELLANEOUS, neutral}
+
+#5096
+Khách sạn có thiết kế rất đẹp và hiện đại, nhưng khu vực lễ tân quá nhỏ và không đủ không gian để khách chờ đợi, đặc biệt vào giờ cao điểm.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#GENERAL, neutral}
+
+#5097
+Phòng sạch sẽ và được dọn dẹp hàng ngày, nhưng thiếu sự chú ý đến các chi tiết nhỏ như thiếu khăn tắm hoặc đồ dùng vệ sinh cá nhân.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5098
+Khách sạn có dịch vụ phòng khá tốt, nhưng tôi cảm thấy không có đủ các tiện nghi bổ sung như minibar hoặc máy pha cà phê trong phòng. Điều này khiến tôi cảm thấy không thật sự thoải mái trong suốt kỳ nghỉ.
+{SERVICE#GENERAL, neutral}, {ROOM_AMENITIES#MISCELLANEOUS, neutral}
+
+#5099
+Khách sạn có vị trí rất thuận tiện, nhưng thiếu không gian ngoài trời để khách có thể thư giãn hoặc thưởng thức đồ uống. Điều này khiến tôi cảm thấy không thể tận hưởng không khí trong suốt kỳ nghỉ.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5100
+Khách sạn có không gian khá đẹp mắt, nhưng thiếu các tiện ích như hồ bơi hoặc khu vực spa, khiến tôi không thể hoàn toàn thư giãn trong suốt thời gian lưu trú.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5101
+Khách sạn có vị trí rất thuận tiện, gần các điểm tham quan nổi tiếng, nhưng phòng ngủ lại khá nhỏ và thiếu không gian để di chuyển thoải mái. Điều này làm giảm sự thoải mái của tôi trong suốt kỳ nghỉ.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}
+
+#5102
+Mặc dù dịch vụ phòng tại khách sạn rất nhanh chóng, nhưng tôi nhận thấy thiếu sự chú trọng đến các chi tiết nhỏ trong phòng. Ví dụ, khăn tắm không được thay thường xuyên và không có đủ các vật dụng vệ sinh cá nhân.
+{SERVICE#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5103
+Phòng nghỉ rất sạch sẽ và thoải mái, nhưng tôi cảm thấy không gian trong phòng hơi u ám vì thiếu ánh sáng tự nhiên. Cửa sổ nhỏ và không cho phép ánh sáng chiếu vào phòng đủ nhiều.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5104
+Bữa sáng tại khách sạn rất đa dạng với nhiều món ngon, nhưng một số món ăn không được giữ ấm đủ lâu, đặc biệt là các món ăn chiên. Điều này khiến tôi cảm thấy không hài lòng về chất lượng bữa ăn.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#5105
+Phòng nghỉ có thiết kế rất đẹp và hiện đại, nhưng không có đủ không gian để tôi có thể làm việc thoải mái. Một chiếc bàn làm việc rộng và ghế ngồi thoải mái sẽ rất tiện lợi nếu tôi cần làm việc trong phòng.
+{ROOMS#DESIGN&FEATURES, neutral}, {ROOMS#GENERAL, neutral}
+
+#5106
+Khách sạn có vị trí rất thuận tiện cho việc di chuyển đến các điểm du lịch, nhưng lại thiếu các tiện nghi bổ sung như hồ bơi, phòng gym hoặc các hoạt động giải trí khác trong khuôn viên.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5107
+Khách sạn có dịch vụ khá tốt, nhưng tôi cảm thấy nhân viên cần được đào tạo thêm để xử lý tình huống nhanh chóng và hiệu quả hơn. Tôi đã phải đợi khá lâu khi yêu cầu dịch vụ phòng.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5108
+Phòng nghỉ được dọn dẹp sạch sẽ và ngăn nắp, nhưng tôi nhận thấy thiếu các đồ dùng cơ bản như dép đi trong phòng hoặc áo choàng tắm, điều này làm tôi cảm thấy thiếu tiện nghi trong suốt kỳ nghỉ.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5109
+Giường ngủ rất thoải mái, nhưng tôi cảm thấy thiếu lựa chọn về gối và đệm. Gối khá mỏng và không đủ hỗ trợ cho giấc ngủ ngon.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#5110
+Khách sạn có thiết kế hiện đại và tiện nghi, nhưng không có không gian ngoài trời để khách có thể thư giãn hoặc thưởng thức đồ uống. Điều này làm giảm đi sự thoải mái của tôi trong suốt thời gian lưu trú.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5111
+Bữa sáng tại khách sạn khá đầy đủ, nhưng không có nhiều món ăn phù hợp với chế độ ăn kiêng hoặc ăn chay. Điều này khiến tôi cảm thấy không được chăm sóc đầy đủ trong bữa sáng.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#5112
+Khách sạn có khu vực sảnh rộng rãi và thoải mái, nhưng không có đủ ghế ngồi cho khách khi đông người. Khi tôi đến vào giờ cao điểm, tôi phải đứng chờ một lúc mới có chỗ ngồi.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5113
+Phòng ngủ khá rộng, nhưng tôi cảm thấy không gian không thực sự thoải mái do thiếu ánh sáng tự nhiên và không có các cửa sổ lớn để thông gió.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5114
+Khách sạn có vị trí rất tốt, nhưng không có đủ dịch vụ hỗ trợ như đưa đón khách đến các điểm tham quan. Điều này khiến tôi cảm thấy thiếu tiện lợi khi di chuyển xung quanh thành phố.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5115
+Khách sạn có dịch vụ phòng rất nhanh chóng, nhưng một số yêu cầu của tôi không được thực hiện chính xác, ví dụ như thiếu khăn tắm mới hoặc không thay giường đúng cách.
+{SERVICE#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5116
+Phòng nghỉ rất sạch sẽ và thoải mái, nhưng tôi cảm thấy thiếu các tiện nghi như minibar hoặc máy pha cà phê trong phòng, điều này khiến tôi cảm thấy thiếu tiện nghi khi nghỉ lại khách sạn lâu dài.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#MISCELLANEOUS, neutral}
+
+#5117
+Khách sạn có vị trí thuận tiện, nhưng khu vực bên ngoài khá ồn ào vào ban đêm, điều này ảnh hưởng đến giấc ngủ của tôi. Tôi đã phải đóng cửa sổ và sử dụng điều hòa để che bớt tiếng ồn.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5118
+Bữa sáng tại khách sạn rất phong phú, nhưng các món ăn không được giữ ấm đủ lâu, đặc biệt là các món nóng như món hải sản. Điều này khiến tôi cảm thấy bữa sáng không thực sự ngon miệng.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#5119
+Khách sạn có dịch vụ phòng nhanh chóng và hiệu quả, nhưng một số tiện nghi trong phòng như điều hòa không hoạt động tốt, khiến tôi cảm thấy không thoải mái khi ngủ vào ban đêm.
+{SERVICE#GENERAL, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#5120
+Phòng nghỉ khá sạch sẽ và thoải mái, nhưng thiếu các tiện ích bổ sung như một chiếc bàn làm việc lớn hoặc chỗ ngồi thoải mái để tôi có thể làm việc trong phòng.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5121
+Khách sạn có vị trí thuận lợi, nhưng thiếu các dịch vụ bổ sung như spa hoặc phòng tập gym. Điều này khiến tôi cảm thấy kỳ nghỉ không hoàn toàn thư giãn.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5122
+Phòng ngủ rất sạch sẽ, nhưng tôi cảm thấy thiếu một số đồ dùng cơ bản như dép đi trong phòng hoặc áo choàng tắm. Những chi tiết nhỏ này sẽ giúp tôi cảm thấy thoải mái hơn trong suốt kỳ nghỉ.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5123
+Khách sạn có vị trí lý tưởng, nhưng các tiện nghi như hồ bơi hoặc phòng gym đều không có trong khách sạn. Điều này làm tôi cảm thấy thiếu lựa chọn giải trí trong suốt thời gian lưu trú.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5124
+Khách sạn có dịch vụ tốt, nhưng không có các lựa chọn về phòng nghỉ dành cho gia đình hoặc khách có nhu cầu đặc biệt, như phòng tắm lớn hơn hoặc giường phụ cho trẻ em.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5125
+Phòng nghỉ khá thoải mái, nhưng tôi cảm thấy thiếu không gian để cất giữ hành lý và đồ đạc cá nhân. Một chiếc tủ quần áo lớn hơn và thêm kệ để hành lý sẽ giúp tôi cảm thấy thoải mái hơn.
+{ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5126
+Khách sạn có thiết kế rất đẹp mắt và sang trọng, nhưng không có đủ không gian chỗ ngồi cho khách trong khu vực chung, đặc biệt vào những giờ cao điểm.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5127
+Bữa sáng rất phong phú và đầy đủ, nhưng tôi nhận thấy không có nhiều lựa chọn cho người ăn kiêng hoặc ăn chay, điều này làm tôi cảm thấy hơi thiếu sự quan tâm đến nhu cầu ăn uống đa dạng của khách hàng.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#5128
+Phòng nghỉ rất sạch sẽ và thoải mái, nhưng thiếu một số tiện nghi như máy pha cà phê hoặc minibar. Những tiện nghi này sẽ làm tôi cảm thấy kỳ nghỉ trọn vẹn và thoải mái hơn.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#MISCELLANEOUS, neutral}
+
+#5129
+Khách sạn có dịch vụ tốt, nhưng không có nhiều lựa chọn về các hoạt động giải trí trong khuôn viên, như phòng gym hoặc hồ bơi. Điều này khiến tôi cảm thấy thiếu sự thư giãn và giải trí trong suốt kỳ nghỉ.
+{SERVICE#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5130
+Khách sạn có vị trí rất thuận tiện, nhưng không có bãi đỗ xe đủ lớn cho tất cả khách, khiến tôi cảm thấy bất tiện khi muốn di chuyển xung quanh thành phố.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5131
+Phòng nghỉ khá rộng rãi và sạch sẽ, nhưng tôi cảm thấy thiếu ánh sáng tự nhiên trong phòng. Cửa sổ khá nhỏ và không có nhiều ánh sáng chiếu vào.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5132
+Khách sạn có vị trí rất thuận lợi, nhưng không có nhiều tiện ích giải trí như hồ bơi hoặc khu vực spa. Điều này khiến tôi cảm thấy kỳ nghỉ của mình thiếu sự thư giãn.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5133
+Khách sạn có phòng nghỉ rất thoải mái, nhưng không có đủ không gian để tôi làm việc hoặc lưu trữ hành lý. Một chiếc bàn làm việc lớn hơn và tủ quần áo rộng hơn sẽ rất tiện lợi.
+{ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5134
+Phòng nghỉ rất sạch sẽ và tiện nghi, nhưng tôi cảm thấy thiếu một số chi tiết nhỏ như khăn tắm hoặc đồ vệ sinh cá nhân. Những chi tiết nhỏ này sẽ làm tôi cảm thấy thoải mái hơn.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5135
+Khách sạn có vị trí thuận tiện, nhưng khu vực ngoài trời không có nhiều tiện ích như ghế ngồi hoặc khu vực thư giãn. Điều này khiến tôi không thể tận hưởng không khí ngoài trời trong suốt kỳ nghỉ.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5136
+Dịch vụ phòng tại khách sạn rất nhanh chóng và hiệu quả, nhưng tôi cảm thấy thiếu sự linh hoạt khi yêu cầu thay đổi một số yêu cầu đặc biệt, chẳng hạn như đổi phòng hoặc bổ sung các tiện nghi.
+{SERVICE#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5137
+Phòng ngủ rất thoải mái và sạch sẽ, nhưng không có không gian để tôi có thể làm việc hoặc cất giữ hành lý. Một chiếc bàn làm việc lớn và kệ để hành lý sẽ giúp tôi cảm thấy thoải mái hơn trong suốt kỳ nghỉ.
+{ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5138
+Khách sạn có khu vực lễ tân đẹp mắt, nhưng thiếu không gian để khách có thể chờ đợi thoải mái. Khi đông khách, tôi phải đứng chờ một lúc mới có chỗ ngồi.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5139
+Bữa sáng tại khách sạn rất phong phú, nhưng tôi cảm thấy các món ăn không được tươi mới và không giữ độ nóng lâu, đặc biệt là các món hải sản và thịt.
+{FOOD&DRINKS#QUALITY, neutral}, {FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#5140
+Khách sạn có dịch vụ tốt, nhưng thiếu các lựa chọn về phòng nghỉ cho gia đình hoặc khách có nhu cầu đặc biệt, như phòng tắm lớn hơn hoặc giường phụ cho trẻ em.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5141
+Khách sạn có vị trí rất thuận tiện, gần các trung tâm mua sắm và điểm tham quan, nhưng phòng nghỉ lại khá nhỏ, khiến tôi cảm thấy không có đủ không gian để di chuyển thoải mái. Điều này làm giảm bớt sự thoải mái trong suốt kỳ nghỉ.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}
+
+#5142
+Dịch vụ tại khách sạn rất chu đáo và nhanh chóng, nhưng tôi cảm thấy các nhân viên cần được đào tạo thêm về các yêu cầu đặc biệt của khách, như thay đổi phòng hoặc yêu cầu bổ sung các tiện nghi cho kỳ nghỉ dài.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5143
+Phòng nghỉ rất sạch sẽ và thoải mái, nhưng không có đủ ánh sáng tự nhiên trong phòng. Các cửa sổ quá nhỏ và không cho phép ánh sáng chiếu vào nhiều, làm cho không gian cảm giác hơi u ám.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5144
+Khách sạn có bữa sáng khá phong phú với nhiều món ăn, nhưng tôi cảm thấy các món ăn không giữ được độ nóng lâu và không phải lúc nào cũng tươi. Điều này khiến tôi cảm thấy bữa sáng không ngon miệng như tôi mong đợi.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#5145
+Phòng nghỉ tại khách sạn rất thoải mái, nhưng tôi cảm thấy thiếu các tiện nghi như máy pha cà phê, minibar hoặc tủ lạnh. Những tiện nghi này sẽ giúp kỳ nghỉ của tôi thêm phần tiện lợi và thoải mái hơn.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#MISCELLANEOUS, neutral}
+
+#5146
+Khách sạn có thiết kế hiện đại và sang trọng, nhưng khu vực lễ tân quá nhỏ, thiếu không gian để khách có thể ngồi chờ thoải mái. Điều này làm tôi cảm thấy không thật sự thoải mái khi tôi phải chờ đợi lâu.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5147
+Khách sạn có vị trí tuyệt vời, gần các điểm du lịch chính, nhưng tôi cảm thấy thiếu các dịch vụ bổ sung như xe đưa đón khách đến các điểm tham quan hoặc các dịch vụ đặc biệt cho khách.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5148
+Phòng nghỉ rất sạch sẽ và ngăn nắp, nhưng thiếu các chi tiết trang trí nhỏ như cây xanh hay tranh ảnh, khiến không gian trở nên hơi lạnh lẽo và thiếu sự ấm cúng.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5149
+Khách sạn có đầy đủ các tiện nghi cơ bản, nhưng không có dịch vụ phòng tập gym hoặc hồ bơi. Nếu khách sạn có những dịch vụ này, kỳ nghỉ của tôi sẽ trọn vẹn hơn rất nhiều.
+{HOTEL#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5150
+Khách sạn có vị trí đẹp và thuận tiện, nhưng phòng nghỉ lại khá nhỏ và thiếu không gian để tôi có thể làm việc hoặc thư giãn một cách thoải mái.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}
+
+#5151
+Phòng nghỉ được dọn dẹp sạch sẽ và gọn gàng, nhưng không có đủ không gian lưu trữ hành lý. Tủ quần áo quá nhỏ, khiến tôi cảm thấy không thể cất đồ đạc một cách gọn gàng và tiện lợi.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5152
+Bữa sáng tại khách sạn rất đầy đủ và đa dạng, nhưng không có nhiều lựa chọn cho người ăn kiêng hoặc ăn chay. Điều này khiến tôi cảm thấy chưa được chăm sóc đầy đủ trong bữa sáng.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#5153
+Dịch vụ phòng tại khách sạn rất nhanh chóng và hiệu quả, nhưng tôi cảm thấy nhân viên không thực sự chú ý đến các yêu cầu chi tiết của khách, chẳng hạn như thay khăn tắm và bổ sung các vật dụng trong phòng.
+{SERVICE#GENERAL, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5154
+Khách sạn có thiết kế sang trọng, nhưng tôi cảm thấy thiếu không gian thư giãn ngoài phòng. Một khu vực ngoài trời hoặc bể bơi sẽ giúp kỳ nghỉ của tôi thêm phần thoải mái.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5155
+Phòng nghỉ khá rộng rãi và thoải mái, nhưng thiếu ánh sáng trong phòng tắm, khiến tôi cảm thấy không thoải mái khi sử dụng khu vực này.
+{ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#DESIGN&FEATURES, neutral}
+
+#5156
+Khách sạn có dịch vụ rất tốt, nhưng tôi cảm thấy thiếu sự linh hoạt trong việc xử lý các yêu cầu đặc biệt, chẳng hạn như yêu cầu thay đổi phòng hoặc hỗ trợ mang hành lý.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5157
+Giường ngủ rất thoải mái và dễ chịu, nhưng tôi cảm thấy thiếu lựa chọn về gối và chăn. Gối khá mỏng và không đủ hỗ trợ cho giấc ngủ của tôi.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#COMFORT, neutral}
+
+#5158
+Khách sạn có vị trí rất thuận tiện, nhưng không có bãi đỗ xe rộng rãi, khiến tôi cảm thấy không tiện khi muốn ra ngoài vào những giờ cao điểm.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5159
+Khách sạn có khu vực sảnh đẹp, nhưng thiếu không gian đủ rộng để khách có thể chờ đợi thoải mái. Khi có nhiều khách đến, tôi phải đứng đợi khá lâu.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5160
+Bữa sáng tại khách sạn rất phong phú và đa dạng, nhưng tôi cảm thấy các món ăn không được tươi mới, đặc biệt là các món hải sản và thịt. Điều này làm giảm chất lượng bữa sáng.
+{FOOD&DRINKS#QUALITY, neutral}, {FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#5161
+Phòng nghỉ tại khách sạn rất sạch sẽ và thoải mái, nhưng không có nhiều không gian để lưu trữ hành lý. Một chiếc tủ lớn hơn hoặc kệ để hành lý sẽ giúp tôi cảm thấy thoải mái hơn.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5162
+Khách sạn có thiết kế hiện đại và đẹp mắt, nhưng không có khu vực ngoài trời để khách có thể thư giãn. Điều này khiến tôi cảm thấy thiếu một không gian thư giãn thoải mái trong suốt kỳ nghỉ.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5163
+Khách sạn có vị trí rất thuận tiện cho việc di chuyển, nhưng không có nhiều lựa chọn về nhà hàng xung quanh. Điều này khiến tôi cảm thấy hơi bất tiện khi muốn thưởng thức các món ăn địa phương.
+{LOCATION#GENERAL, neutral}, {FOOD&DRINKS#STYLE&OPTIONS, neutral}
+
+#5164
+Phòng nghỉ sạch sẽ và thoải mái, nhưng thiếu các tiện nghi như minibar hoặc máy pha cà phê. Những tiện nghi này sẽ giúp kỳ nghỉ của tôi thêm phần tiện lợi và thoải mái hơn.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#MISCELLANEOUS, neutral}
+
+#5165
+Khách sạn có vị trí tuyệt vời, nhưng không có nhiều dịch vụ giải trí như hồ bơi hoặc phòng gym. Điều này khiến tôi cảm thấy thiếu sự thư giãn trong suốt kỳ nghỉ của mình.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5166
+Dịch vụ của khách sạn khá tốt, nhưng tôi cảm thấy thiếu sự chủ động trong việc hỗ trợ khách hàng, đặc biệt là khi tôi yêu cầu thay đổi phòng.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5167
+Khách sạn có khu vực lễ tân rất đẹp, nhưng thiếu không gian đủ lớn để khách có thể chờ đợi thoải mái, khiến tôi phải đứng đợi khá lâu.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5168
+Phòng nghỉ có không gian rộng rãi, nhưng không có đủ không gian lưu trữ đồ đạc cá nhân. Một chiếc tủ quần áo lớn hơn sẽ giúp tôi cảm thấy thoải mái hơn.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5169
+Bữa sáng tại khách sạn rất phong phú, nhưng không có nhiều lựa chọn cho những người ăn chay hoặc ăn kiêng. Điều này khiến tôi cảm thấy không hài lòng với bữa sáng.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#5170
+Khách sạn có vị trí rất thuận tiện, nhưng thiếu các dịch vụ bổ sung như xe đưa đón khách đến các điểm tham quan. Điều này làm tôi cảm thấy bất tiện khi di chuyển xung quanh thành phố.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5171
+Phòng nghỉ rất sạch sẽ, nhưng thiếu các tiện nghi cơ bản như dép đi trong phòng hoặc áo choàng tắm. Những tiện nghi này sẽ giúp tôi cảm thấy thoải mái hơn trong suốt kỳ nghỉ.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#GENERAL, neutral}
+
+#5172
+Khách sạn có dịch vụ tốt, nhưng thiếu các tiện ích giải trí như phòng gym hoặc hồ bơi. Điều này khiến tôi cảm thấy kỳ nghỉ của mình không thực sự thư giãn.
+{SERVICE#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5173
+Phòng nghỉ khá rộng rãi và thoải mái, nhưng tôi cảm thấy thiếu các tiện nghi như máy pha cà phê hoặc minibar. Điều này làm tôi cảm thấy thiếu tiện nghi trong suốt kỳ nghỉ.
+{ROOMS#GENERAL, neutral}, {ROOM_AMENITIES#MISCELLANEOUS, neutral}
+
+#5174
+Khách sạn có vị trí tuyệt vời, nhưng không có nhiều tiện ích trong khuôn viên khách sạn. Một phòng gym hoặc khu vực spa sẽ làm tôi cảm thấy thoải mái hơn trong kỳ nghỉ.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5175
+Dịch vụ của khách sạn khá nhanh chóng, nhưng tôi cảm thấy thiếu sự chăm sóc trong việc thay đổi phòng hoặc bổ sung các tiện nghi khi yêu cầu.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5176
+Phòng nghỉ rất sạch sẽ và thoải mái, nhưng thiếu không gian làm việc và ánh sáng tự nhiên. Nếu có một bàn làm việc lớn hơn và cửa sổ rộng hơn, tôi sẽ cảm thấy thoải mái hơn.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5177
+Khách sạn có dịch vụ tốt, nhưng tôi cảm thấy không có đủ tiện nghi cho gia đình hoặc nhóm khách có nhu cầu đặc biệt. Điều này khiến tôi cảm thấy kỳ nghỉ không hoàn toàn thoải mái.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5178
+Khách sạn có vị trí đẹp và thuận tiện, nhưng không có đủ không gian để thư giãn ngoài phòng. Một khu vực ngoài trời hoặc bể bơi sẽ giúp tôi cảm thấy thư giãn hơn.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5179
+Phòng nghỉ tại khách sạn rất thoải mái, nhưng tôi cảm thấy thiếu các tiện nghi như ghế ngồi thoải mái hoặc bàn làm việc lớn, khiến tôi gặp khó khăn khi làm việc trong phòng.
+{ROOMS#COMFORT, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5180
+Khách sạn có khu vực sảnh đẹp, nhưng thiếu không gian ngồi đợi thoải mái khi có khách đông. Điều này khiến tôi cảm thấy không thật sự thoải mái khi phải chờ đợi.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5181
+Bữa sáng tại khách sạn rất phong phú, nhưng không có nhiều món ăn chay hoặc lành mạnh. Điều này làm tôi cảm thấy không được chăm sóc đầy đủ trong bữa sáng.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#5182
+Khách sạn có dịch vụ tốt, nhưng tôi cảm thấy thiếu các tiện ích ngoài phòng như phòng gym hoặc khu vực spa. Điều này khiến tôi cảm thấy thiếu sự thư giãn và giải trí trong suốt kỳ nghỉ.
+{SERVICE#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5183
+Khách sạn có vị trí tuyệt vời, nhưng thiếu các dịch vụ bổ sung như xe đưa đón sân bay hoặc các dịch vụ cho gia đình có trẻ em. Điều này làm tôi cảm thấy bất tiện trong suốt thời gian lưu trú.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5184
+Phòng nghỉ rất sạch sẽ và thoải mái, nhưng tôi cảm thấy thiếu các tiện nghi như máy pha cà phê hoặc minibar trong phòng. Những tiện nghi này sẽ làm tôi cảm thấy thoải mái hơn trong suốt kỳ nghỉ.
+{ROOMS#CLEANLINESS, neutral}, {ROOM_AMENITIES#MISCELLANEOUS, neutral}
+
+#5185
+Khách sạn có thiết kế rất đẹp và hiện đại, nhưng khu vực lễ tân thiếu không gian và ghế ngồi thoải mái cho khách chờ đợi. Điều này khiến tôi phải đứng chờ khá lâu khi đến nhận phòng.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5186
+Phòng nghỉ tại khách sạn rất rộng rãi và sạch sẽ, nhưng thiếu các tiện nghi như bàn làm việc lớn hoặc ghế ngồi thoải mái để làm việc trong phòng.
+{ROOMS#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5187
+Khách sạn có dịch vụ phòng tốt, nhưng tôi cảm thấy thiếu sự linh hoạt trong việc hỗ trợ các yêu cầu đặc biệt của khách. Điều này làm tôi cảm thấy không thật sự thoải mái khi lưu trú.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5188
+Khách sạn có vị trí rất thuận tiện, nhưng thiếu các dịch vụ bổ sung như bãi đỗ xe hoặc dịch vụ đưa đón khách đến các điểm tham quan. Điều này khiến tôi cảm thấy khá bất tiện khi di chuyển xung quanh.
+{LOCATION#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5189
+Phòng nghỉ khá thoải mái và sạch sẽ, nhưng thiếu các tiện nghi như minibar hoặc máy pha cà phê trong phòng. Điều này khiến tôi cảm thấy kỳ nghỉ không hoàn toàn thoải mái.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#MISCELLANEOUS, neutral}
+
+#5190
+Khách sạn có thiết kế rất đẹp và hiện đại, nhưng tôi nhận thấy thiếu các tiện nghi thư giãn như ghế ngồi thoải mái trong khu vực chung. Điều này khiến tôi không thể thư giãn một cách thoải mái trong suốt thời gian lưu trú.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5191
+Khách sạn có vị trí thuận tiện với nhiều điểm tham quan gần đó, nhưng tôi cảm thấy phòng nghỉ hơi nhỏ và không có đủ không gian để di chuyển thoải mái. Điều này khiến tôi cảm thấy hơi bất tiện khi ở lâu dài.
+{LOCATION#GENERAL, neutral}, {ROOMS#GENERAL, neutral}
+
+#5192
+Dịch vụ của khách sạn rất chu đáo, nhưng tôi cảm thấy thiếu một số tiện ích như dịch vụ đưa đón khách từ sân bay hoặc hỗ trợ mang hành lý khi đến. Điều này khiến tôi cảm thấy không hoàn toàn hài lòng.
+{SERVICE#GENERAL, neutral}, {HOTEL#GENERAL, neutral}
+
+#5193
+Phòng nghỉ tại khách sạn rất sạch sẽ và thoải mái, nhưng thiếu một số chi tiết trang trí nhỏ như tranh ảnh hoặc cây xanh để tạo thêm không gian ấm cúng và dễ chịu.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5194
+Khách sạn có vị trí rất đẹp, nhưng tôi cảm thấy không gian trong phòng hơi bí và thiếu ánh sáng tự nhiên. Các cửa sổ nhỏ và không có nhiều không khí vào phòng, điều này khiến tôi cảm thấy không thoải mái.
+{LOCATION#GENERAL, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5195
+Bữa sáng tại khách sạn rất đa dạng và đầy đủ, nhưng tôi cảm thấy các món ăn không được tươi mới, đặc biệt là các món ăn chiên hoặc thịt. Điều này làm giảm chất lượng của bữa sáng.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+#5196
+Khách sạn có phòng nghỉ rất thoải mái và sạch sẽ, nhưng thiếu một số tiện nghi như minibar hoặc máy pha cà phê trong phòng. Điều này làm tôi cảm thấy thiếu tiện nghi trong suốt kỳ nghỉ.
+{ROOMS#COMFORT, neutral}, {ROOM_AMENITIES#MISCELLANEOUS, neutral}
+
+#5197
+Khách sạn có vị trí thuận lợi gần các trung tâm mua sắm, nhưng không có nhiều dịch vụ bổ sung như spa, phòng gym hay các hoạt động giải trí khác trong khuôn viên. Điều này khiến tôi cảm thấy thiếu sự thư giãn trong suốt kỳ nghỉ.
+{LOCATION#GENERAL, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5198
+Phòng nghỉ tại khách sạn rất sạch sẽ và thoải mái, nhưng không có đủ không gian để tôi làm việc hoặc lưu trữ hành lý. Một chiếc bàn làm việc lớn hơn và tủ quần áo rộng hơn sẽ giúp tôi cảm thấy thoải mái hơn.
+{ROOMS#CLEANLINESS, neutral}, {ROOMS#DESIGN&FEATURES, neutral}
+
+#5199
+Khách sạn có thiết kế đẹp mắt và hiện đại, nhưng thiếu các tiện nghi như ghế ngồi thoải mái trong khu vực sảnh. Điều này khiến tôi cảm thấy không thể thư giãn trong suốt thời gian chờ đợi.
+{HOTEL#DESIGN&FEATURES, neutral}, {HOTEL#MISCELLANEOUS, neutral}
+
+#5200
+Bữa sáng tại khách sạn rất phong phú, nhưng thiếu các món ăn lành mạnh như trái cây tươi hoặc các món ăn ít calo. Điều này khiến tôi cảm thấy không được chăm sóc đầy đủ trong bữa sáng.
+{FOOD&DRINKS#STYLE&OPTIONS, neutral}, {FOOD&DRINKS#QUALITY, neutral}
+
+
+
+
